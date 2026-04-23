@@ -1,0 +1,1577 @@
+fileFormatVersion: 2
+guid: 934aa70860ad18f488e17424fe093e36
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: -6907836727354907397
+    second: side wing__0
+  - first:
+      213: -1038168950309492917
+    second: side wing__1
+  - first:
+      213: -6245874694560244127
+    second: side wing__2
+  - first:
+      213: -2592799899656682842
+    second: side wing__3
+  - first:
+      213: -6505047987320126735
+    second: side wing__4
+  - first:
+      213: -4468915524103660290
+    second: side wing__5
+  - first:
+      213: 8217747941869421368
+    second: side wing__6
+  - first:
+      213: -6291388073697022208
+    second: side wing__7
+  - first:
+      213: -8083068047403176080
+    second: side wing__8
+  - first:
+      213: -4518918857193113045
+    second: side wing__9
+  - first:
+      213: -4865368755246006371
+    second: side wing__10
+  - first:
+      213: 7833355495953112320
+    second: side wing__11
+  - first:
+      213: 2729884612494869483
+    second: side wing__12
+  - first:
+      213: 4441384823591912785
+    second: side wing__13
+  - first:
+      213: -5903797428023752910
+    second: side wing__14
+  - first:
+      213: 4530913799297201329
+    second: side wing__15
+  - first:
+      213: 4256639956995970736
+    second: side wing__16
+  - first:
+      213: -4351272938923918763
+    second: side wing__17
+  - first:
+      213: -1195229590722781120
+    second: side wing__18
+  - first:
+      213: 2731073137854059200
+    second: side wing__19
+  - first:
+      213: 3689185781343613906
+    second: side wing__20
+  - first:
+      213: -29881037650225157
+    second: side wing__21
+  - first:
+      213: 3480266646722608458
+    second: side wing__22
+  - first:
+      213: 4877022802241521390
+    second: side wing__23
+  - first:
+      213: 2476797704768361941
+    second: side wing__24
+  - first:
+      213: -999914218642085048
+    second: side wing__25
+  - first:
+      213: -835573160405895135
+    second: side wing__26
+  - first:
+      213: -3804459492231467363
+    second: side wing__27
+  - first:
+      213: 6898497201688514669
+    second: side wing__28
+  - first:
+      213: 6415890040932761102
+    second: side wing__29
+  - first:
+      213: 1641566977711695534
+    second: side wing__30
+  - first:
+      213: -4966843602200918078
+    second: side wing__31
+  - first:
+      213: 6057730652776242181
+    second: side wing__32
+  - first:
+      213: 6821318976076359892
+    second: side wing__33
+  - first:
+      213: 4554600762432767796
+    second: side wing__34
+  - first:
+      213: -6622832325513802595
+    second: side wing__35
+  - first:
+      213: -7431700354525167998
+    second: side wing__36
+  - first:
+      213: -7368380307977966334
+    second: side wing__37
+  - first:
+      213: 397636479057252563
+    second: side wing__38
+  - first:
+      213: -5734073605245813764
+    second: side wing__39
+  - first:
+      213: 571389358614750505
+    second: side wing__40
+  - first:
+      213: -2072655003573502624
+    second: side wing__41
+  - first:
+      213: -3049611590779538166
+    second: side wing__42
+  - first:
+      213: -8824477345393076008
+    second: side wing__43
+  - first:
+      213: -7784138877474449993
+    second: side wing__44
+  - first:
+      213: 6312034930930773617
+    second: side wing__45
+  - first:
+      213: 5939489389024591670
+    second: side wing__46
+  - first:
+      213: 2143334811463043053
+    second: side wing__47
+  - first:
+      213: 4885443635098595720
+    second: side wing__48
+  - first:
+      213: 1890031845853289180
+    second: side wing__49
+  - first:
+      213: 9144530099654375825
+    second: side wing__50
+  - first:
+      213: -4227117263123155668
+    second: side wing__51
+  - first:
+      213: -2612668261606130662
+    second: side wing__52
+  - first:
+      213: 7295973163554826223
+    second: side wing__53
+  - first:
+      213: 5460872453542543877
+    second: side wing__54
+  - first:
+      213: 3430112005150969320
+    second: side wing__55
+  - first:
+      213: 595302443145694004
+    second: side wing__56
+  - first:
+      213: -6752294933209979322
+    second: side wing__57
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 1
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Android
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: side wing__0
+      rect:
+        serializedVersion: 2
+        x: 61
+        y: 277
+        width: 13
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bf42d93881f6220a0800000000000000
+      internalID: -6907836727354907397
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: side wing__1
+      rect:
+        serializedVersion: 2
+        x: 80
+        y: 281
+        width: 13
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b4766f317dea791f0800000000000000
+      internalID: -1038168950309492917
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: side wing__2
+      rect:
+        serializedVersion: 2
+        x: 99
+        y: 284
+        width: 14
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 16e922fae023259a0800000000000000
+      internalID: -6245874694560244127
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: side wing__3
+      rect:
+        serializedVersion: 2
+        x: 119
+        y: 285
+        width: 13
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6a28b4f7a36840cd0800000000000000
+      internalID: -2592799899656682842
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: side wing__4
+      rect:
+        serializedVersion: 2
+        x: 139
+        y: 284
+        width: 13
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1f20aec125d69b5a0800000000000000
+      internalID: -6505047987320126735
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: side wing__5
+      rect:
+        serializedVersion: 2
+        x: 159
+        y: 282
+        width: 13
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: efc929612093bf1c0800000000000000
+      internalID: -4468915524103660290
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: side wing__6
+      rect:
+        serializedVersion: 2
+        x: 178
+        y: 279
+        width: 13
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 83303d0b63e4b0270800000000000000
+      internalID: 8217747941869421368
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: side wing__7
+      rect:
+        serializedVersion: 2
+        x: 198
+        y: 274
+        width: 13
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 00fe82351ef70b8a0800000000000000
+      internalID: -6291388073697022208
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: side wing__8
+      rect:
+        serializedVersion: 2
+        x: 26
+        y: 261
+        width: 13
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 07f2933df6c23df80800000000000000
+      internalID: -8083068047403176080
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: side wing__9
+      rect:
+        serializedVersion: 2
+        x: 43
+        y: 270
+        width: 13
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b2ab03cdd339941c0800000000000000
+      internalID: -4518918857193113045
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: side wing__10
+      rect:
+        serializedVersion: 2
+        x: 217
+        y: 269
+        width: 13
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d9ff64a15ecba7cb0800000000000000
+      internalID: -4865368755246006371
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: side wing__11
+      rect:
+        serializedVersion: 2
+        x: 236
+        y: 263
+        width: 13
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 00d93a7125ba5bc60800000000000000
+      internalID: 7833355495953112320
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: side wing__12
+      rect:
+        serializedVersion: 2
+        x: 13
+        y: 248
+        width: 13
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: be3cf8d679f72e520800000000000000
+      internalID: 2729884612494869483
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: side wing__13
+      rect:
+        serializedVersion: 2
+        x: 254
+        y: 256
+        width: 13
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 155c10137f7f2ad30800000000000000
+      internalID: 4441384823591912785
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: side wing__14
+      rect:
+        serializedVersion: 2
+        x: 273
+        y: 248
+        width: 13
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 23787c4d48f711ea0800000000000000
+      internalID: -5903797428023752910
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: side wing__15
+      rect:
+        serializedVersion: 2
+        x: 3
+        y: 232
+        width: 13
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1b4760b381a01ee30800000000000000
+      internalID: 4530913799297201329
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: side wing__16
+      rect:
+        serializedVersion: 2
+        x: 290
+        y: 240
+        width: 13
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0b69a7dfc7f921b30800000000000000
+      internalID: 4256639956995970736
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: side wing__17
+      rect:
+        serializedVersion: 2
+        x: 308
+        y: 230
+        width: 13
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 55a7baae05c2d93c0800000000000000
+      internalID: -4351272938923918763
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: side wing__18
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 214
+        width: 11
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 040eee31501b96fe0800000000000000
+      internalID: -1195229590722781120
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: side wing__19
+      rect:
+        serializedVersion: 2
+        x: 325
+        y: 220
+        width: 13
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0c2176d8c88b6e520800000000000000
+      internalID: 2731073137854059200
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: side wing__20
+      rect:
+        serializedVersion: 2
+        x: 341
+        y: 209
+        width: 13
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2d378670cee923330800000000000000
+      internalID: 3689185781343613906
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: side wing__21
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 195
+        width: 12
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bf79655ca57d59ff0800000000000000
+      internalID: -29881037650225157
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: side wing__22
+      rect:
+        serializedVersion: 2
+        x: 357
+        y: 197
+        width: 13
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a4d7a8173146c4030800000000000000
+      internalID: 3480266646722608458
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: side wing__23
+      rect:
+        serializedVersion: 2
+        x: 372
+        y: 184
+        width: 13
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ee60619266aaea340800000000000000
+      internalID: 4877022802241521390
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: side wing__24
+      rect:
+        serializedVersion: 2
+        x: 4
+        y: 177
+        width: 13
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5d5983dc36a5f5220800000000000000
+      internalID: 2476797704768361941
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: side wing__25
+      rect:
+        serializedVersion: 2
+        x: 386
+        y: 170
+        width: 13
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 84be9ffd0579f12f0800000000000000
+      internalID: -999914218642085048
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: side wing__26
+      rect:
+        serializedVersion: 2
+        x: 11
+        y: 159
+        width: 13
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 128f72e33a27764f0800000000000000
+      internalID: -835573160405895135
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: side wing__27
+      rect:
+        serializedVersion: 2
+        x: 400
+        y: 156
+        width: 13
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d9e2e2baf38d33bc0800000000000000
+      internalID: -3804459492231467363
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: side wing__28
+      rect:
+        serializedVersion: 2
+        x: 21
+        y: 142
+        width: 13
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d609ba6b7a26cbf50800000000000000
+      internalID: 6898497201688514669
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: side wing__29
+      rect:
+        serializedVersion: 2
+        x: 411
+        y: 140
+        width: 13
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e0e73c7dff1d90950800000000000000
+      internalID: 6415890040932761102
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: side wing__30
+      rect:
+        serializedVersion: 2
+        x: 33
+        y: 127
+        width: 13
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ea66485087408c610800000000000000
+      internalID: 1641566977711695534
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: side wing__31
+      rect:
+        serializedVersion: 2
+        x: 421
+        y: 123
+        width: 13
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2c784eb2f0a321bb0800000000000000
+      internalID: -4966843602200918078
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: side wing__32
+      rect:
+        serializedVersion: 2
+        x: 46
+        y: 112
+        width: 13
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 50c19b7fee1611450800000000000000
+      internalID: 6057730652776242181
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: side wing__33
+      rect:
+        serializedVersion: 2
+        x: 429
+        y: 105
+        width: 13
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4d8a9a4c7713aae50800000000000000
+      internalID: 6821318976076359892
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: side wing__34
+      rect:
+        serializedVersion: 2
+        x: 61
+        y: 98
+        width: 13
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 437478a1341353f30800000000000000
+      internalID: 4554600762432767796
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: side wing__35
+      rect:
+        serializedVersion: 2
+        x: 76
+        y: 86
+        width: 13
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d9c86c6d619f614a0800000000000000
+      internalID: -6622832325513802595
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: side wing__36
+      rect:
+        serializedVersion: 2
+        x: 433
+        y: 87
+        width: 12
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 28ef16307eb4dd890800000000000000
+      internalID: -7431700354525167998
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: side wing__37
+      rect:
+        serializedVersion: 2
+        x: 92
+        y: 74
+        width: 13
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 20d6df436214eb990800000000000000
+      internalID: -7368380307977966334
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: side wing__38
+      rect:
+        serializedVersion: 2
+        x: 108
+        y: 63
+        width: 13
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3d0d1fb5540b48500800000000000000
+      internalID: 397636479057252563
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: side wing__39
+      rect:
+        serializedVersion: 2
+        x: 434
+        y: 68
+        width: 11
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: cfb316bbf6a7c60b0800000000000000
+      internalID: -5734073605245813764
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: side wing__40
+      rect:
+        serializedVersion: 2
+        x: 125
+        y: 52
+        width: 13
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 925aba4289bfde700800000000000000
+      internalID: 571389358614750505
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: side wing__41
+      rect:
+        serializedVersion: 2
+        x: 143
+        y: 43
+        width: 13
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 06db01271437c33e0800000000000000
+      internalID: -2072655003573502624
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: side wing__42
+      rect:
+        serializedVersion: 2
+        x: 429
+        y: 50
+        width: 13
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a05fbac6a6a9da5d0800000000000000
+      internalID: -3049611590779538166
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: side wing__43
+      rect:
+        serializedVersion: 2
+        x: 160
+        y: 34
+        width: 14
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8d81d53cb98298580800000000000000
+      internalID: -8824477345393076008
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: side wing__44
+      rect:
+        serializedVersion: 2
+        x: 179
+        y: 27
+        width: 13
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7b5d3dddeee29f390800000000000000
+      internalID: -7784138877474449993
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: side wing__45
+      rect:
+        serializedVersion: 2
+        x: 405
+        y: 22
+        width: 13
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 17e6cfbb35ad89750800000000000000
+      internalID: 6312034930930773617
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: side wing__46
+      rect:
+        serializedVersion: 2
+        x: 419
+        y: 34
+        width: 13
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 63f330c612e4d6250800000000000000
+      internalID: 5939489389024591670
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: side wing__47
+      rect:
+        serializedVersion: 2
+        x: 197
+        y: 20
+        width: 13
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: de7cbf7b7a7aebd10800000000000000
+      internalID: 2143334811463043053
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: side wing__48
+      rect:
+        serializedVersion: 2
+        x: 216
+        y: 14
+        width: 13
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 881be381a159cc340800000000000000
+      internalID: 4885443635098595720
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: side wing__49
+      rect:
+        serializedVersion: 2
+        x: 235
+        y: 9
+        width: 14
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: cdad24233fdba3a10800000000000000
+      internalID: 1890031845853289180
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: side wing__50
+      rect:
+        serializedVersion: 2
+        x: 388
+        y: 12
+        width: 13
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 19934c30da5e7ee70800000000000000
+      internalID: 9144530099654375825
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: side wing__51
+      rect:
+        serializedVersion: 2
+        x: 255
+        y: 4
+        width: 13
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c257f93de334655c0800000000000000
+      internalID: -4227117263123155668
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: side wing__52
+      rect:
+        serializedVersion: 2
+        x: 274
+        y: 1
+        width: 14
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a1c770ffe00fdbbd0800000000000000
+      internalID: -2612668261606130662
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: side wing__53
+      rect:
+        serializedVersion: 2
+        x: 294
+        y: 0
+        width: 13
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fe7e770cfe0804560800000000000000
+      internalID: 7295973163554826223
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: side wing__54
+      rect:
+        serializedVersion: 2
+        x: 314
+        y: 0
+        width: 13
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5028e15409ae8cb40800000000000000
+      internalID: 5460872453542543877
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: side wing__55
+      rect:
+        serializedVersion: 2
+        x: 332
+        y: 0
+        width: 13
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8ed83d6f1b43a9f20800000000000000
+      internalID: 3430112005150969320
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: side wing__56
+      rect:
+        serializedVersion: 2
+        x: 351
+        y: 1
+        width: 13
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 43b0f910b60f24800800000000000000
+      internalID: 595302443145694004
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: side wing__57
+      rect:
+        serializedVersion: 2
+        x: 370
+        y: 6
+        width: 13
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 646695f88870b42a0800000000000000
+      internalID: -6752294933209979322
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    nameFileIdTable:
+      side wing__0: -6907836727354907397
+      side wing__1: -1038168950309492917
+      side wing__10: -4865368755246006371
+      side wing__11: 7833355495953112320
+      side wing__12: 2729884612494869483
+      side wing__13: 4441384823591912785
+      side wing__14: -5903797428023752910
+      side wing__15: 4530913799297201329
+      side wing__16: 4256639956995970736
+      side wing__17: -4351272938923918763
+      side wing__18: -1195229590722781120
+      side wing__19: 2731073137854059200
+      side wing__2: -6245874694560244127
+      side wing__20: 3689185781343613906
+      side wing__21: -29881037650225157
+      side wing__22: 3480266646722608458
+      side wing__23: 4877022802241521390
+      side wing__24: 2476797704768361941
+      side wing__25: -999914218642085048
+      side wing__26: -835573160405895135
+      side wing__27: -3804459492231467363
+      side wing__28: 6898497201688514669
+      side wing__29: 6415890040932761102
+      side wing__3: -2592799899656682842
+      side wing__30: 1641566977711695534
+      side wing__31: -4966843602200918078
+      side wing__32: 6057730652776242181
+      side wing__33: 6821318976076359892
+      side wing__34: 4554600762432767796
+      side wing__35: -6622832325513802595
+      side wing__36: -7431700354525167998
+      side wing__37: -7368380307977966334
+      side wing__38: 397636479057252563
+      side wing__39: -5734073605245813764
+      side wing__4: -6505047987320126735
+      side wing__40: 571389358614750505
+      side wing__41: -2072655003573502624
+      side wing__42: -3049611590779538166
+      side wing__43: -8824477345393076008
+      side wing__44: -7784138877474449993
+      side wing__45: 6312034930930773617
+      side wing__46: 5939489389024591670
+      side wing__47: 2143334811463043053
+      side wing__48: 4885443635098595720
+      side wing__49: 1890031845853289180
+      side wing__5: -4468915524103660290
+      side wing__50: 9144530099654375825
+      side wing__51: -4227117263123155668
+      side wing__52: -2612668261606130662
+      side wing__53: 7295973163554826223
+      side wing__54: 5460872453542543877
+      side wing__55: 3430112005150969320
+      side wing__56: 595302443145694004
+      side wing__57: -6752294933209979322
+      side wing__6: 8217747941869421368
+      side wing__7: -6291388073697022208
+      side wing__8: -8083068047403176080
+      side wing__9: -4518918857193113045
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

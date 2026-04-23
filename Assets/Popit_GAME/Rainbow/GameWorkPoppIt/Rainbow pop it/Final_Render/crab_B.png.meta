@@ -1,0 +1,878 @@
+fileFormatVersion: 2
+guid: 7d8c22bb50197c140a8881101874d741
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 5375155275548068696
+    second: crab_B_0
+  - first:
+      213: 4835409837675122249
+    second: crab_B_1
+  - first:
+      213: 2111711609119756225
+    second: crab_B_2
+  - first:
+      213: -6938161322668395378
+    second: crab_B_3
+  - first:
+      213: 7678831269097330520
+    second: crab_B_4
+  - first:
+      213: 1385667309341794671
+    second: crab_B_5
+  - first:
+      213: 308468519370025196
+    second: crab_B_6
+  - first:
+      213: -5170325234527746932
+    second: crab_B_7
+  - first:
+      213: -868085397463267292
+    second: crab_B_8
+  - first:
+      213: 295907651676088391
+    second: crab_B_9
+  - first:
+      213: 4049543399925612850
+    second: crab_B_10
+  - first:
+      213: 5080702262545364846
+    second: crab_B_11
+  - first:
+      213: 6972523555182461800
+    second: crab_B_12
+  - first:
+      213: 4358671730407425340
+    second: crab_B_13
+  - first:
+      213: 1967975865043834654
+    second: crab_B_14
+  - first:
+      213: 8741235397022815708
+    second: crab_B_15
+  - first:
+      213: -1224695670469974804
+    second: crab_B_16
+  - first:
+      213: -7759340829831614822
+    second: crab_B_17
+  - first:
+      213: -6289856612199204006
+    second: crab_B_18
+  - first:
+      213: 3063533628433422988
+    second: crab_B_19
+  - first:
+      213: 5765143580336959468
+    second: crab_B_20
+  - first:
+      213: 919576839827126235
+    second: crab_B_21
+  - first:
+      213: -5599497114150340333
+    second: crab_B_22
+  - first:
+      213: -5175473525878145412
+    second: crab_B_23
+  - first:
+      213: -8457896010992472481
+    second: crab_B_24
+  - first:
+      213: -7358334118361407970
+    second: crab_B_25
+  - first:
+      213: 6480215931698430160
+    second: crab_B_26
+  - first:
+      213: -5250420306681515102
+    second: crab_B_27
+  - first:
+      213: 1758052678826187137
+    second: crab_B_28
+  externalObjects: {}
+  serializedVersion: 12
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 0
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 1
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: iPhone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Android
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: 48
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 1
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Server
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: crab_B_0
+      rect:
+        serializedVersion: 2
+        x: 143
+        y: 669
+        width: 49
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 85b0c9b8e33689a40800000000000000
+      internalID: 5375155275548068696
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: crab_B_1
+      rect:
+        serializedVersion: 2
+        x: 345
+        y: 639
+        width: 49
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 94e0e06d0a3da1340800000000000000
+      internalID: 4835409837675122249
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: crab_B_2
+      rect:
+        serializedVersion: 2
+        x: 470
+        y: 673
+        width: 49
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1cfc6a9258e4e4d10800000000000000
+      internalID: 2111711609119756225
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: crab_B_3
+      rect:
+        serializedVersion: 2
+        x: 345
+        y: 567
+        width: 49
+        height: 49
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e84fef77903b6bf90800000000000000
+      internalID: -6938161322668395378
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: crab_B_4
+      rect:
+        serializedVersion: 2
+        x: 423
+        y: 567
+        width: 48
+        height: 49
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 85755b4ea50b09a60800000000000000
+      internalID: 7678831269097330520
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: crab_B_5
+      rect:
+        serializedVersion: 2
+        x: 163
+        y: 496
+        width: 49
+        height: 49
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f6160368311ea3310800000000000000
+      internalID: 1385667309341794671
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: crab_B_6
+      rect:
+        serializedVersion: 2
+        x: 269
+        y: 492
+        width: 47
+        height: 46
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ce8e079eb76e74400800000000000000
+      internalID: 308468519370025196
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: crab_B_7
+      rect:
+        serializedVersion: 2
+        x: 345
+        y: 493
+        width: 49
+        height: 49
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c844cbeb7905f38b0800000000000000
+      internalID: -5170325234527746932
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: crab_B_8
+      rect:
+        serializedVersion: 2
+        x: 423
+        y: 493
+        width: 49
+        height: 49
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4288f792ee0f3f3f0800000000000000
+      internalID: -868085397463267292
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: crab_B_9
+      rect:
+        serializedVersion: 2
+        x: 190
+        y: 424
+        width: 49
+        height: 49
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 748297001764b1400800000000000000
+      internalID: 295907651676088391
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: crab_B_10
+      rect:
+        serializedVersion: 2
+        x: 267
+        y: 424
+        width: 49
+        height: 49
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 231081f444ed23830800000000000000
+      internalID: 4049543399925612850
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: crab_B_11
+      rect:
+        serializedVersion: 2
+        x: 345
+        y: 424
+        width: 49
+        height: 49
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e673a800ac7428640800000000000000
+      internalID: 5080702262545364846
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: crab_B_12
+      rect:
+        serializedVersion: 2
+        x: 422
+        y: 424
+        width: 49
+        height: 49
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 863c1be3b3163c060800000000000000
+      internalID: 6972523555182461800
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: crab_B_13
+      rect:
+        serializedVersion: 2
+        x: 189
+        y: 354
+        width: 49
+        height: 49
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c35c87778dc1d7c30800000000000000
+      internalID: 4358671730407425340
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: crab_B_14
+      rect:
+        serializedVersion: 2
+        x: 267
+        y: 355
+        width: 49
+        height: 49
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e17da7a5f97af4b10800000000000000
+      internalID: 1967975865043834654
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: crab_B_15
+      rect:
+        serializedVersion: 2
+        x: 345
+        y: 354
+        width: 49
+        height: 49
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cd59d91d74b1f4970800000000000000
+      internalID: 8741235397022815708
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: crab_B_16
+      rect:
+        serializedVersion: 2
+        x: 423
+        y: 355
+        width: 49
+        height: 49
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ce4ada3c6c1010fe0800000000000000
+      internalID: -1224695670469974804
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: crab_B_17
+      rect:
+        serializedVersion: 2
+        x: 194
+        y: 283
+        width: 50
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a9ea3b240a8415490800000000000000
+      internalID: -7759340829831614822
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: crab_B_18
+      rect:
+        serializedVersion: 2
+        x: 267
+        y: 284
+        width: 49
+        height: 49
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a5b79bd7cb0f5b8a0800000000000000
+      internalID: -6289856612199204006
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: crab_B_19
+      rect:
+        serializedVersion: 2
+        x: 345
+        y: 284
+        width: 49
+        height: 49
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c8adc309a9bd38a20800000000000000
+      internalID: 3063533628433422988
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: crab_B_20
+      rect:
+        serializedVersion: 2
+        x: 415
+        y: 284
+        width: 49
+        height: 49
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cefab119a87e10050800000000000000
+      internalID: 5765143580336959468
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: crab_B_21
+      rect:
+        serializedVersion: 2
+        x: 194
+        y: 209
+        width: 49
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bd77291834ef2cc00800000000000000
+      internalID: 919576839827126235
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: crab_B_22
+      rect:
+        serializedVersion: 2
+        x: 267
+        y: 209
+        width: 49
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3197e36ca079a42b0800000000000000
+      internalID: -5599497114150340333
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: crab_B_23
+      rect:
+        serializedVersion: 2
+        x: 345
+        y: 209
+        width: 49
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c7e3891cf360d28b0800000000000000
+      internalID: -5175473525878145412
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: crab_B_24
+      rect:
+        serializedVersion: 2
+        x: 416
+        y: 209
+        width: 49
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f5ea99dc3648f9a80800000000000000
+      internalID: -8457896010992472481
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: crab_B_25
+      rect:
+        serializedVersion: 2
+        x: 190
+        y: 127
+        width: 49
+        height: 51
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e1e5e600b12f1e990800000000000000
+      internalID: -7358334118361407970
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: crab_B_26
+      rect:
+        serializedVersion: 2
+        x: 267
+        y: 127
+        width: 49
+        height: 51
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0d046b46e0a5ee950800000000000000
+      internalID: 6480215931698430160
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: crab_B_27
+      rect:
+        serializedVersion: 2
+        x: 345
+        y: 127
+        width: 49
+        height: 51
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2a330ca8c82c227b0800000000000000
+      internalID: -5250420306681515102
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: crab_B_28
+      rect:
+        serializedVersion: 2
+        x: 421
+        y: 127
+        width: 49
+        height: 51
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 189dbd9c89bd56810800000000000000
+      internalID: 1758052678826187137
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    nameFileIdTable:
+      crab_B_0: 5375155275548068696
+      crab_B_1: 4835409837675122249
+      crab_B_10: 4049543399925612850
+      crab_B_11: 5080702262545364846
+      crab_B_12: 6972523555182461800
+      crab_B_13: 4358671730407425340
+      crab_B_14: 1967975865043834654
+      crab_B_15: 8741235397022815708
+      crab_B_16: -1224695670469974804
+      crab_B_17: -7759340829831614822
+      crab_B_18: -6289856612199204006
+      crab_B_19: 3063533628433422988
+      crab_B_2: 2111711609119756225
+      crab_B_20: 5765143580336959468
+      crab_B_21: 919576839827126235
+      crab_B_22: -5599497114150340333
+      crab_B_23: -5175473525878145412
+      crab_B_24: -8457896010992472481
+      crab_B_25: -7358334118361407970
+      crab_B_26: 6480215931698430160
+      crab_B_27: -5250420306681515102
+      crab_B_28: 1758052678826187137
+      crab_B_3: -6938161322668395378
+      crab_B_4: 7678831269097330520
+      crab_B_5: 1385667309341794671
+      crab_B_6: 308468519370025196
+      crab_B_7: -5170325234527746932
+      crab_B_8: -868085397463267292
+      crab_B_9: 295907651676088391
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

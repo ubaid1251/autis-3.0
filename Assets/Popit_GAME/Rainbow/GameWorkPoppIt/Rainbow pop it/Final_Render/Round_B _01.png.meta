@@ -1,0 +1,853 @@
+fileFormatVersion: 2
+guid: c991c9dfa17692a4c8857893881d15bb
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 3571505691195328391
+    second: Round_B _01_0
+  - first:
+      213: 5903477768775121055
+    second: Round_B _01_1
+  - first:
+      213: -3159052672014693610
+    second: Round_B _01_2
+  - first:
+      213: 2329470241583219917
+    second: Round_B _01_3
+  - first:
+      213: 903791760580567658
+    second: Round_B _01_4
+  - first:
+      213: 6218685197044480280
+    second: Round_B _01_5
+  - first:
+      213: 8888485553181097470
+    second: Round_B _01_6
+  - first:
+      213: -3381516047271591220
+    second: Round_B _01_7
+  - first:
+      213: -6954620949099830019
+    second: Round_B _01_8
+  - first:
+      213: 8223791636650481042
+    second: Round_B _01_9
+  - first:
+      213: -2640749907199076029
+    second: Round_B _01_10
+  - first:
+      213: -6954595388013762548
+    second: Round_B _01_11
+  - first:
+      213: 1464212472060582154
+    second: Round_B _01_12
+  - first:
+      213: 3916998484577550313
+    second: Round_B _01_13
+  - first:
+      213: -6440586420033148140
+    second: Round_B _01_14
+  - first:
+      213: 3626144643766405267
+    second: Round_B _01_15
+  - first:
+      213: 6518078093406074806
+    second: Round_B _01_16
+  - first:
+      213: -7427531079844003075
+    second: Round_B _01_17
+  - first:
+      213: -5992466109030466965
+    second: Round_B _01_18
+  - first:
+      213: 3125639256455526509
+    second: Round_B _01_19
+  - first:
+      213: -9066256013882601729
+    second: Round_B _01_20
+  - first:
+      213: 7622966126737629968
+    second: Round_B _01_21
+  - first:
+      213: -8388095792286445233
+    second: Round_B _01_22
+  - first:
+      213: -4183355102949514692
+    second: Round_B _01_23
+  - first:
+      213: -5461788525404112488
+    second: Round_B _01_24
+  - first:
+      213: -5430896706638990883
+    second: Round_B _01_25
+  - first:
+      213: -2400218171453595354
+    second: Round_B _01_26
+  - first:
+      213: -1471998446385237005
+    second: Round_B _01_27
+  externalObjects: {}
+  serializedVersion: 12
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 0
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 1
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: iPhone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Android
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: 48
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 1
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Server
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: Round_B _01_0
+      rect:
+        serializedVersion: 2
+        x: 205
+        y: 634
+        width: 70
+        height: 71
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 787cbf4e089809130800000000000000
+      internalID: 3571505691195328391
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Round_B _01_1
+      rect:
+        serializedVersion: 2
+        x: 308
+        y: 633
+        width: 70
+        height: 71
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f98b143b0cd5de150800000000000000
+      internalID: 5903477768775121055
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Round_B _01_2
+      rect:
+        serializedVersion: 2
+        x: 405
+        y: 633
+        width: 70
+        height: 71
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 61bc0d9055ac824d0800000000000000
+      internalID: -3159052672014693610
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Round_B _01_3
+      rect:
+        serializedVersion: 2
+        x: 110
+        y: 533
+        width: 72
+        height: 71
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: dc44968b7d0f35020800000000000000
+      internalID: 2329470241583219917
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Round_B _01_4
+      rect:
+        serializedVersion: 2
+        x: 206
+        y: 533
+        width: 70
+        height: 71
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a62645851d9ea8c00800000000000000
+      internalID: 903791760580567658
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Round_B _01_5
+      rect:
+        serializedVersion: 2
+        x: 310
+        y: 533
+        width: 69
+        height: 70
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 819f0db1d353d4650800000000000000
+      internalID: 6218685197044480280
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Round_B _01_6
+      rect:
+        serializedVersion: 2
+        x: 406
+        y: 533
+        width: 70
+        height: 70
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: efdfc84748e3a5b70800000000000000
+      internalID: 8888485553181097470
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Round_B _01_7
+      rect:
+        serializedVersion: 2
+        x: 502
+        y: 533
+        width: 71
+        height: 70
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cc2081032117211d0800000000000000
+      internalID: -3381516047271591220
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Round_B _01_8
+      rect:
+        serializedVersion: 2
+        x: 56
+        y: 436
+        width: 72
+        height: 70
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: df42a6d08193c7f90800000000000000
+      internalID: -6954620949099830019
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Round_B _01_9
+      rect:
+        serializedVersion: 2
+        x: 152
+        y: 436
+        width: 71
+        height: 70
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 29551690ce6c02270800000000000000
+      internalID: 8223791636650481042
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Round_B _01_10
+      rect:
+        serializedVersion: 2
+        x: 256
+        y: 436
+        width: 70
+        height: 70
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 349d0c063fb2a5bd0800000000000000
+      internalID: -2640749907199076029
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Round_B _01_11
+      rect:
+        serializedVersion: 2
+        x: 353
+        y: 436
+        width: 70
+        height: 70
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c08aed477505c7f90800000000000000
+      internalID: -6954595388013762548
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Round_B _01_12
+      rect:
+        serializedVersion: 2
+        x: 450
+        y: 436
+        width: 70
+        height: 70
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a091ed05c7de15410800000000000000
+      internalID: 1464212472060582154
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Round_B _01_13
+      rect:
+        serializedVersion: 2
+        x: 548
+        y: 437
+        width: 71
+        height: 69
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9effcfa5e59fb5630800000000000000
+      internalID: 3916998484577550313
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Round_B _01_14
+      rect:
+        serializedVersion: 2
+        x: 55
+        y: 336
+        width: 73
+        height: 70
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 41b28b056c07e96a0800000000000000
+      internalID: -6440586420033148140
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Round_B _01_15
+      rect:
+        serializedVersion: 2
+        x: 152
+        y: 336
+        width: 70
+        height: 70
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 398c1e36757a25230800000000000000
+      internalID: 3626144643766405267
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Round_B _01_16
+      rect:
+        serializedVersion: 2
+        x: 256
+        y: 336
+        width: 70
+        height: 70
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6b779bfdd7dd47a50800000000000000
+      internalID: 6518078093406074806
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Round_B _01_17
+      rect:
+        serializedVersion: 2
+        x: 353
+        y: 336
+        width: 70
+        height: 71
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: df289bbe5db1ce890800000000000000
+      internalID: -7427531079844003075
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Round_B _01_18
+      rect:
+        serializedVersion: 2
+        x: 450
+        y: 337
+        width: 70
+        height: 70
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b6afba2c2db76dca0800000000000000
+      internalID: -5992466109030466965
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Round_B _01_19
+      rect:
+        serializedVersion: 2
+        x: 548
+        y: 337
+        width: 71
+        height: 70
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d683c09e750806b20800000000000000
+      internalID: 3125639256455526509
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Round_B _01_20
+      rect:
+        serializedVersion: 2
+        x: 110
+        y: 235
+        width: 71
+        height: 71
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ffe47c1c0303e2280800000000000000
+      internalID: -9066256013882601729
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Round_B _01_21
+      rect:
+        serializedVersion: 2
+        x: 206
+        y: 236
+        width: 70
+        height: 71
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0132807dd473ac960800000000000000
+      internalID: 7622966126737629968
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Round_B _01_22
+      rect:
+        serializedVersion: 2
+        x: 310
+        y: 236
+        width: 70
+        height: 71
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f4151d6a15f779b80800000000000000
+      internalID: -8388095792286445233
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Round_B _01_23
+      rect:
+        serializedVersion: 2
+        x: 407
+        y: 236
+        width: 70
+        height: 71
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c32606fb2bcb1f5c0800000000000000
+      internalID: -4183355102949514692
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Round_B _01_24
+      rect:
+        serializedVersion: 2
+        x: 503
+        y: 237
+        width: 71
+        height: 71
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 899bbf02644d334b0800000000000000
+      internalID: -5461788525404112488
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Round_B _01_25
+      rect:
+        serializedVersion: 2
+        x: 204
+        y: 136
+        width: 71
+        height: 72
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: dd1b1fc283491a4b0800000000000000
+      internalID: -5430896706638990883
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Round_B _01_26
+      rect:
+        serializedVersion: 2
+        x: 308
+        y: 136
+        width: 71
+        height: 73
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 621221b3a46b0bed0800000000000000
+      internalID: -2400218171453595354
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Round_B _01_27
+      rect:
+        serializedVersion: 2
+        x: 406
+        y: 137
+        width: 70
+        height: 73
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3f3f7454639629be0800000000000000
+      internalID: -1471998446385237005
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    nameFileIdTable:
+      Round_B _01_0: 3571505691195328391
+      Round_B _01_1: 5903477768775121055
+      Round_B _01_10: -2640749907199076029
+      Round_B _01_11: -6954595388013762548
+      Round_B _01_12: 1464212472060582154
+      Round_B _01_13: 3916998484577550313
+      Round_B _01_14: -6440586420033148140
+      Round_B _01_15: 3626144643766405267
+      Round_B _01_16: 6518078093406074806
+      Round_B _01_17: -7427531079844003075
+      Round_B _01_18: -5992466109030466965
+      Round_B _01_19: 3125639256455526509
+      Round_B _01_2: -3159052672014693610
+      Round_B _01_20: -9066256013882601729
+      Round_B _01_21: 7622966126737629968
+      Round_B _01_22: -8388095792286445233
+      Round_B _01_23: -4183355102949514692
+      Round_B _01_24: -5461788525404112488
+      Round_B _01_25: -5430896706638990883
+      Round_B _01_26: -2400218171453595354
+      Round_B _01_27: -1471998446385237005
+      Round_B _01_3: 2329470241583219917
+      Round_B _01_4: 903791760580567658
+      Round_B _01_5: 6218685197044480280
+      Round_B _01_6: 8888485553181097470
+      Round_B _01_7: -3381516047271591220
+      Round_B _01_8: -6954620949099830019
+      Round_B _01_9: 8223791636650481042
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

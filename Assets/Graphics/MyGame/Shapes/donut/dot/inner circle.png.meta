@@ -1,0 +1,1052 @@
+fileFormatVersion: 2
+guid: 2bff0a193c2ffb0489f7dafa4b70b3d7
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: -905575055129149549
+    second: inner circle_0
+  - first:
+      213: 1603599717162488559
+    second: inner circle_1
+  - first:
+      213: -1214659215683232086
+    second: inner circle_2
+  - first:
+      213: -3031276516114825061
+    second: inner circle_3
+  - first:
+      213: -5169241328829125736
+    second: inner circle_4
+  - first:
+      213: 1329768917941333847
+    second: inner circle_5
+  - first:
+      213: 8754483450809274719
+    second: inner circle_6
+  - first:
+      213: 6154377486958228134
+    second: inner circle_7
+  - first:
+      213: -5439823717844442693
+    second: inner circle_8
+  - first:
+      213: -4055919959657884162
+    second: inner circle_9
+  - first:
+      213: 3665497346746627374
+    second: inner circle_10
+  - first:
+      213: -5770302536976708383
+    second: inner circle_11
+  - first:
+      213: 3652380476912387317
+    second: inner circle_12
+  - first:
+      213: 1128229708679857937
+    second: inner circle_13
+  - first:
+      213: -1249906994146666977
+    second: inner circle_14
+  - first:
+      213: 3254058545082775137
+    second: inner circle_15
+  - first:
+      213: 2078564993180348572
+    second: inner circle_16
+  - first:
+      213: -7980302240001168009
+    second: inner circle_17
+  - first:
+      213: 6976782770261353319
+    second: inner circle_18
+  - first:
+      213: -7663770408139879750
+    second: inner circle_19
+  - first:
+      213: -8354190862523846554
+    second: inner circle_20
+  - first:
+      213: -9044871677790884312
+    second: inner circle_21
+  - first:
+      213: 7846542794244487140
+    second: inner circle_22
+  - first:
+      213: 224295819278464837
+    second: inner circle_23
+  - first:
+      213: -4144885457023259917
+    second: inner circle_24
+  - first:
+      213: 1354479456906715865
+    second: inner circle_25
+  - first:
+      213: 461199371039372614
+    second: inner circle_26
+  - first:
+      213: 7685188714197273378
+    second: inner circle_27
+  - first:
+      213: 2471125061842182159
+    second: inner circle_28
+  - first:
+      213: 6893478940730980158
+    second: inner circle_29
+  - first:
+      213: -128476945121706701
+    second: inner circle_30
+  - first:
+      213: 3862364726410469655
+    second: inner circle_31
+  - first:
+      213: 6320235103584151526
+    second: inner circle_32
+  - first:
+      213: -7368724739447999151
+    second: inner circle_33
+  - first:
+      213: 2972565732378306304
+    second: inner circle_34
+  - first:
+      213: 5301079014665706721
+    second: inner circle_35
+  - first:
+      213: 4795211702953477249
+    second: inner circle_36
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 1
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Android
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: 50
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: inner circle_0
+      rect:
+        serializedVersion: 2
+        x: 78
+        y: 258
+        width: 15
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 39f72990940ce63f0800000000000000
+      internalID: -905575055129149549
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: inner circle_1
+      rect:
+        serializedVersion: 2
+        x: 99
+        y: 266
+        width: 15
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fe2136f4271214610800000000000000
+      internalID: 1603599717162488559
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: inner circle_2
+      rect:
+        serializedVersion: 2
+        x: 122
+        y: 270
+        width: 15
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: aaedb0ef0e9a42fe0800000000000000
+      internalID: -1214659215683232086
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: inner circle_3
+      rect:
+        serializedVersion: 2
+        x: 145
+        y: 271
+        width: 15
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b900ef8a11ebee5d0800000000000000
+      internalID: -3031276516114825061
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: inner circle_4
+      rect:
+        serializedVersion: 2
+        x: 168
+        y: 267
+        width: 15
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 89b2fd4366a2348b0800000000000000
+      internalID: -5169241328829125736
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: inner circle_5
+      rect:
+        serializedVersion: 2
+        x: 190
+        y: 259
+        width: 15
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 75faf3319c9447210800000000000000
+      internalID: 1329768917941333847
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: inner circle_6
+      rect:
+        serializedVersion: 2
+        x: 58
+        y: 247
+        width: 15
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f51d585b05c2e7970800000000000000
+      internalID: 8754483450809274719
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: inner circle_7
+      rect:
+        serializedVersion: 2
+        x: 210
+        y: 248
+        width: 15
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6a27ec397bdb86550800000000000000
+      internalID: 6154377486958228134
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: inner circle_8
+      rect:
+        serializedVersion: 2
+        x: 228
+        y: 234
+        width: 15
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bb12329662dd184b0800000000000000
+      internalID: -5439823717844442693
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: inner circle_9
+      rect:
+        serializedVersion: 2
+        x: 40
+        y: 232
+        width: 15
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ef5dc2f294a76b7c0800000000000000
+      internalID: -4055919959657884162
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: inner circle_10
+      rect:
+        serializedVersion: 2
+        x: 244
+        y: 217
+        width: 15
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e2538fd8a667ed230800000000000000
+      internalID: 3665497346746627374
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: inner circle_11
+      rect:
+        serializedVersion: 2
+        x: 25
+        y: 215
+        width: 15
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1ecc7fc3a64cbefa0800000000000000
+      internalID: -5770302536976708383
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: inner circle_12
+      rect:
+        serializedVersion: 2
+        x: 13
+        y: 195
+        width: 15
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5f44fee41bcdfa230800000000000000
+      internalID: 3652380476912387317
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: inner circle_13
+      rect:
+        serializedVersion: 2
+        x: 256
+        y: 197
+        width: 15
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 117c7e241f648af00800000000000000
+      internalID: 1128229708679857937
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: inner circle_14
+      rect:
+        serializedVersion: 2
+        x: 4
+        y: 174
+        width: 15
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f169c9b063077aee0800000000000000
+      internalID: -1249906994146666977
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: inner circle_15
+      rect:
+        serializedVersion: 2
+        x: 265
+        y: 176
+        width: 15
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 166bbf9810db82d20800000000000000
+      internalID: 3254058545082775137
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: inner circle_16
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 151
+        width: 14
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c90b31d39db88dc10800000000000000
+      internalID: 2078564993180348572
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: inner circle_17
+      rect:
+        serializedVersion: 2
+        x: 270
+        y: 154
+        width: 15
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 77de978e465404190800000000000000
+      internalID: -7980302240001168009
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: inner circle_18
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 128
+        width: 13
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7636e7807f282d060800000000000000
+      internalID: 6976782770261353319
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: inner circle_19
+      rect:
+        serializedVersion: 2
+        x: 271
+        y: 131
+        width: 14
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: aba0cae0b61d4a590800000000000000
+      internalID: -7663770408139879750
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: inner circle_20
+      rect:
+        serializedVersion: 2
+        x: 2
+        y: 105
+        width: 15
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 660b3754ca3ff0c80800000000000000
+      internalID: -8354190862523846554
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: inner circle_21
+      rect:
+        serializedVersion: 2
+        x: 269
+        y: 108
+        width: 15
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 82e684e71292a7280800000000000000
+      internalID: -9044871677790884312
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: inner circle_22
+      rect:
+        serializedVersion: 2
+        x: 8
+        y: 83
+        width: 15
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4e7f7dd391584ec60800000000000000
+      internalID: 7846542794244487140
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: inner circle_23
+      rect:
+        serializedVersion: 2
+        x: 262
+        y: 86
+        width: 15
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 547b2b8fbdbdc1300800000000000000
+      internalID: 224295819278464837
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: inner circle_24
+      rect:
+        serializedVersion: 2
+        x: 19
+        y: 63
+        width: 15
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3fa227b23a86a76c0800000000000000
+      internalID: -4144885457023259917
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: inner circle_25
+      rect:
+        serializedVersion: 2
+        x: 252
+        y: 65
+        width: 15
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9d22d74c3e31cc210800000000000000
+      internalID: 1354479456906715865
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: inner circle_26
+      rect:
+        serializedVersion: 2
+        x: 33
+        y: 44
+        width: 15
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6457f696262866600800000000000000
+      internalID: 461199371039372614
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: inner circle_27
+      rect:
+        serializedVersion: 2
+        x: 239
+        y: 46
+        width: 15
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 22bc19dea6647aa60800000000000000
+      internalID: 7685188714197273378
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: inner circle_28
+      rect:
+        serializedVersion: 2
+        x: 49
+        y: 29
+        width: 15
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f002ba2b6233b4220800000000000000
+      internalID: 2471125061842182159
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: inner circle_29
+      rect:
+        serializedVersion: 2
+        x: 68
+        y: 16
+        width: 15
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e37f7e8c29e8aaf50800000000000000
+      internalID: 6893478940730980158
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: inner circle_30
+      rect:
+        serializedVersion: 2
+        x: 203
+        y: 17
+        width: 16
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 33d713c26ee873ef0800000000000000
+      internalID: -128476945121706701
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: inner circle_31
+      rect:
+        serializedVersion: 2
+        x: 222
+        y: 30
+        width: 15
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 711e1b64140e99530800000000000000
+      internalID: 3862364726410469655
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: inner circle_32
+      rect:
+        serializedVersion: 2
+        x: 89
+        y: 6
+        width: 16
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6e76616375cf5b750800000000000000
+      internalID: 6320235103584151526
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: inner circle_33
+      rect:
+        serializedVersion: 2
+        x: 112
+        y: 0
+        width: 15
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 155b19104e70db990800000000000000
+      internalID: -7368724739447999151
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: inner circle_34
+      rect:
+        serializedVersion: 2
+        x: 135
+        y: 0
+        width: 17
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 00768e5c8cca04920800000000000000
+      internalID: 2972565732378306304
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: inner circle_35
+      rect:
+        serializedVersion: 2
+        x: 160
+        y: 1
+        width: 15
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1ec5d6b0747319940800000000000000
+      internalID: 5301079014665706721
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: inner circle_36
+      rect:
+        serializedVersion: 2
+        x: 183
+        y: 7
+        width: 15
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 184865143a30c8240800000000000000
+      internalID: 4795211702953477249
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    nameFileIdTable:
+      inner circle_0: -905575055129149549
+      inner circle_1: 1603599717162488559
+      inner circle_10: 3665497346746627374
+      inner circle_11: -5770302536976708383
+      inner circle_12: 3652380476912387317
+      inner circle_13: 1128229708679857937
+      inner circle_14: -1249906994146666977
+      inner circle_15: 3254058545082775137
+      inner circle_16: 2078564993180348572
+      inner circle_17: -7980302240001168009
+      inner circle_18: 6976782770261353319
+      inner circle_19: -7663770408139879750
+      inner circle_2: -1214659215683232086
+      inner circle_20: -8354190862523846554
+      inner circle_21: -9044871677790884312
+      inner circle_22: 7846542794244487140
+      inner circle_23: 224295819278464837
+      inner circle_24: -4144885457023259917
+      inner circle_25: 1354479456906715865
+      inner circle_26: 461199371039372614
+      inner circle_27: 7685188714197273378
+      inner circle_28: 2471125061842182159
+      inner circle_29: 6893478940730980158
+      inner circle_3: -3031276516114825061
+      inner circle_30: -128476945121706701
+      inner circle_31: 3862364726410469655
+      inner circle_32: 6320235103584151526
+      inner circle_33: -7368724739447999151
+      inner circle_34: 2972565732378306304
+      inner circle_35: 5301079014665706721
+      inner circle_36: 4795211702953477249
+      inner circle_4: -5169241328829125736
+      inner circle_5: 1329768917941333847
+      inner circle_6: 8754483450809274719
+      inner circle_7: 6154377486958228134
+      inner circle_8: -5439823717844442693
+      inner circle_9: -4055919959657884162
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

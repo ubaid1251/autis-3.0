@@ -1,0 +1,4365 @@
+fileFormatVersion: 2
+guid: eead2b5b5f0eaf1459f33b13a324f799
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: -7034519565113873553
+    second: dot copy_0
+  - first:
+      213: -6087393888629528099
+    second: dot copy_1
+  - first:
+      213: -8145788982846355297
+    second: dot copy_2
+  - first:
+      213: -4624860651316586699
+    second: dot copy_3
+  - first:
+      213: -4909971734863855593
+    second: dot copy_4
+  - first:
+      213: 8606044067587323552
+    second: dot copy_5
+  - first:
+      213: 5681782697373403573
+    second: dot copy_6
+  - first:
+      213: -8427696109773826041
+    second: dot copy_7
+  - first:
+      213: -2720860350122657301
+    second: dot copy_8
+  - first:
+      213: 68664340040767044
+    second: dot copy_9
+  - first:
+      213: 6462804111382643124
+    second: dot copy_10
+  - first:
+      213: -3982174205977123828
+    second: dot copy_11
+  - first:
+      213: -7963828075669021144
+    second: dot copy_12
+  - first:
+      213: 3084631581453610568
+    second: dot copy_13
+  - first:
+      213: 800631843826757740
+    second: dot copy_14
+  - first:
+      213: -5339178778773512856
+    second: dot copy_15
+  - first:
+      213: 6910830203344951278
+    second: dot copy_16
+  - first:
+      213: 2312069909932332109
+    second: dot copy_17
+  - first:
+      213: 1024844917470025914
+    second: dot copy_18
+  - first:
+      213: -8440541142914368483
+    second: dot copy_19
+  - first:
+      213: 2539726252013125551
+    second: dot copy_20
+  - first:
+      213: -313097982036438132
+    second: dot copy_21
+  - first:
+      213: -2467689823510863966
+    second: dot copy_22
+  - first:
+      213: -8123325322791694126
+    second: dot copy_23
+  - first:
+      213: 196928478655345987
+    second: dot copy_24
+  - first:
+      213: -7733687244012507214
+    second: dot copy_25
+  - first:
+      213: 557386912207417211
+    second: dot copy_26
+  - first:
+      213: -1954908112954786192
+    second: dot copy_27
+  - first:
+      213: -6601155441393765635
+    second: dot copy_28
+  - first:
+      213: 6637477787969357200
+    second: dot copy_29
+  - first:
+      213: -7599454562985992720
+    second: dot copy_30
+  - first:
+      213: -1626219489478660521
+    second: dot copy_31
+  - first:
+      213: -4239538798382647415
+    second: dot copy_32
+  - first:
+      213: -7643917512829176998
+    second: dot copy_33
+  - first:
+      213: 2802630689952913011
+    second: dot copy_34
+  - first:
+      213: -2528306122666542977
+    second: dot copy_35
+  - first:
+      213: 2298391416689576740
+    second: dot copy_36
+  - first:
+      213: 3009421560240346186
+    second: dot copy_37
+  - first:
+      213: -2582261602444393829
+    second: dot copy_38
+  - first:
+      213: -3924237432036584106
+    second: dot copy_39
+  - first:
+      213: -2119825433106275802
+    second: dot copy_40
+  - first:
+      213: 4694847054073382568
+    second: dot copy_41
+  - first:
+      213: -5001386101296207953
+    second: dot copy_42
+  - first:
+      213: 3383257506082152472
+    second: dot copy_43
+  - first:
+      213: 5014096320291630512
+    second: dot copy_44
+  - first:
+      213: 3399284164208957408
+    second: dot copy_45
+  - first:
+      213: -3928960475528658587
+    second: dot copy_46
+  - first:
+      213: 9147713378554294942
+    second: dot copy_47
+  - first:
+      213: -6204039747471722104
+    second: dot copy_48
+  - first:
+      213: 4971982794956946889
+    second: dot copy_49
+  - first:
+      213: -3867451349812255283
+    second: dot copy_50
+  - first:
+      213: 8383671504305840544
+    second: dot copy_51
+  - first:
+      213: 1567041424583976515
+    second: dot copy_52
+  - first:
+      213: -1449131307461480048
+    second: dot copy_53
+  - first:
+      213: -1299327921934061921
+    second: dot copy_54
+  - first:
+      213: -7594106487719223358
+    second: dot copy_55
+  - first:
+      213: -3746839865160078124
+    second: dot copy_56
+  - first:
+      213: -5251097396236408023
+    second: dot copy_57
+  - first:
+      213: 811786427911003056
+    second: dot copy_58
+  - first:
+      213: -2935160409029693679
+    second: dot copy_59
+  - first:
+      213: -2357693194416248993
+    second: dot copy_60
+  - first:
+      213: -1309430598447960658
+    second: dot copy_61
+  - first:
+      213: -5050188079417404112
+    second: dot copy_62
+  - first:
+      213: -7705307513955765777
+    second: dot copy_63
+  - first:
+      213: 7118032265034450312
+    second: dot copy_64
+  - first:
+      213: 5989296461077967461
+    second: dot copy_65
+  - first:
+      213: 7715557262667985665
+    second: dot copy_66
+  - first:
+      213: 6500920621113034737
+    second: dot copy_67
+  - first:
+      213: -8004579887974027582
+    second: dot copy_68
+  - first:
+      213: 8290036766342094231
+    second: dot copy_69
+  - first:
+      213: -4564222029719388239
+    second: dot copy_70
+  - first:
+      213: 5980428475986466676
+    second: dot copy_71
+  - first:
+      213: 6908355060924181936
+    second: dot copy_72
+  - first:
+      213: 5882659101435279668
+    second: dot copy_73
+  - first:
+      213: -3741995960246195546
+    second: dot copy_74
+  - first:
+      213: -5031762415734485154
+    second: dot copy_75
+  - first:
+      213: 1827639846463241426
+    second: dot copy_76
+  - first:
+      213: -1917858120850177867
+    second: dot copy_77
+  - first:
+      213: 900529066459218319
+    second: dot copy_78
+  - first:
+      213: 6408117782372918623
+    second: dot copy_79
+  - first:
+      213: 3847148528184475268
+    second: dot copy_80
+  - first:
+      213: 1112793342606533402
+    second: dot copy_81
+  - first:
+      213: -8942732294229339628
+    second: dot copy_82
+  - first:
+      213: 551555238137837692
+    second: dot copy_83
+  - first:
+      213: 1851867114863483063
+    second: dot copy_84
+  - first:
+      213: -179725362549729887
+    second: dot copy_85
+  - first:
+      213: -7444853483133585938
+    second: dot copy_86
+  - first:
+      213: -2601386904569485052
+    second: dot copy_87
+  - first:
+      213: 7890481151676405605
+    second: dot copy_88
+  - first:
+      213: 8393958320288235770
+    second: dot copy_89
+  - first:
+      213: 6752161236404927644
+    second: dot copy_90
+  - first:
+      213: -265964534113754483
+    second: dot copy_91
+  - first:
+      213: -4451565698371543433
+    second: dot copy_92
+  - first:
+      213: -3449816931149736595
+    second: dot copy_93
+  - first:
+      213: 616632890080659420
+    second: dot copy_94
+  - first:
+      213: -2948214759171328663
+    second: dot copy_95
+  - first:
+      213: 8465441884314882694
+    second: dot copy_96
+  - first:
+      213: 8949643860174041622
+    second: dot copy_97
+  - first:
+      213: -6194199680510179232
+    second: dot copy_98
+  - first:
+      213: 514739093611249299
+    second: dot copy_99
+  - first:
+      213: -7113309207888687034
+    second: dot copy_100
+  - first:
+      213: 3119058879983369384
+    second: dot copy_101
+  - first:
+      213: 2691902338622768449
+    second: dot copy_102
+  - first:
+      213: -5237227100935014627
+    second: dot copy_103
+  - first:
+      213: 2543957985021920484
+    second: dot copy_104
+  - first:
+      213: -8470131299587979457
+    second: dot copy_105
+  - first:
+      213: 1625160098447420068
+    second: dot copy_106
+  - first:
+      213: 2116277256052062682
+    second: dot copy_107
+  - first:
+      213: 5424346214234531073
+    second: dot copy_108
+  - first:
+      213: 3799025160363397795
+    second: dot copy_109
+  - first:
+      213: -7920528359636638602
+    second: dot copy_110
+  - first:
+      213: 7863931894294681532
+    second: dot copy_111
+  - first:
+      213: -6281721405448715361
+    second: dot copy_112
+  - first:
+      213: 9099003155064523113
+    second: dot copy_113
+  - first:
+      213: -7245256345399187366
+    second: dot copy_114
+  - first:
+      213: -3123132478255005593
+    second: dot copy_115
+  - first:
+      213: -3386224585000984077
+    second: dot copy_116
+  - first:
+      213: 2075710994296337295
+    second: dot copy_117
+  - first:
+      213: 3296753049833022070
+    second: dot copy_118
+  - first:
+      213: -5476797339883408101
+    second: dot copy_119
+  - first:
+      213: -1660574018865917969
+    second: dot copy_120
+  - first:
+      213: 620031173673145178
+    second: dot copy_121
+  - first:
+      213: 8176746083335305018
+    second: dot copy_122
+  - first:
+      213: 1423666381532771244
+    second: dot copy_123
+  - first:
+      213: 599984862264150183
+    second: dot copy_124
+  - first:
+      213: -1153162290324420651
+    second: dot copy_125
+  - first:
+      213: 2737825339371546329
+    second: dot copy_126
+  - first:
+      213: 7619417814923952348
+    second: dot copy_127
+  - first:
+      213: -1021273412893045871
+    second: dot copy_128
+  - first:
+      213: 4376390754651647942
+    second: dot copy_129
+  - first:
+      213: -3248729023116201092
+    second: dot copy_130
+  - first:
+      213: 1338583415741722415
+    second: dot copy_131
+  - first:
+      213: -3965195003326679286
+    second: dot copy_132
+  - first:
+      213: -8155809421639656738
+    second: dot copy_133
+  - first:
+      213: -2719388543305225119
+    second: dot copy_134
+  - first:
+      213: 8225863902653281906
+    second: dot copy_135
+  - first:
+      213: 8341569463314334649
+    second: dot copy_136
+  - first:
+      213: -3471055860997869790
+    second: dot copy_137
+  - first:
+      213: -2088022078451000853
+    second: dot copy_138
+  - first:
+      213: -3602317399477678691
+    second: dot copy_139
+  - first:
+      213: -4530904908260928362
+    second: dot copy_140
+  - first:
+      213: 2667592370348267888
+    second: dot copy_141
+  - first:
+      213: -5012868811444070722
+    second: dot copy_142
+  - first:
+      213: -4281365561802229688
+    second: dot copy_143
+  - first:
+      213: -6325502971767929750
+    second: dot copy_144
+  - first:
+      213: 6883014518971353409
+    second: dot copy_145
+  - first:
+      213: -870026011504571391
+    second: dot copy_146
+  - first:
+      213: -7837875923521238695
+    second: dot copy_147
+  - first:
+      213: 8633831365771576424
+    second: dot copy_148
+  - first:
+      213: -1763041399208028551
+    second: dot copy_149
+  - first:
+      213: -1903081645127075472
+    second: dot copy_150
+  - first:
+      213: 9211621038319847002
+    second: dot copy_151
+  - first:
+      213: -5165109554511739474
+    second: dot copy_152
+  - first:
+      213: 5517230529344727358
+    second: dot copy_153
+  - first:
+      213: -724768134299759483
+    second: dot copy_154
+  - first:
+      213: 1676811750231853760
+    second: dot copy_155
+  - first:
+      213: -663340098533820165
+    second: dot copy_156
+  - first:
+      213: -5017504680115970862
+    second: dot copy_157
+  - first:
+      213: 3832562318702271589
+    second: dot copy_158
+  - first:
+      213: 3346824765260360394
+    second: dot copy_159
+  - first:
+      213: -1142042315865139857
+    second: dot copy_160
+  - first:
+      213: -5089630152091117836
+    second: dot copy_161
+  - first:
+      213: -7530670873090329169
+    second: dot copy_162
+  - first:
+      213: 1023161418031760529
+    second: dot copy_163
+  - first:
+      213: -2709387122357074731
+    second: dot copy_164
+  - first:
+      213: 2314530771484171788
+    second: dot copy_165
+  - first:
+      213: 5719374410047784463
+    second: dot copy_166
+  - first:
+      213: 697554358350131228
+    second: dot copy_167
+  - first:
+      213: 4300295714120786937
+    second: dot copy_168
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 1
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Android
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: iPhone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: dot copy_0
+      rect:
+        serializedVersion: 2
+        x: 275
+        y: 943
+        width: 15
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f6b2adbd9bd506e90800000000000000
+      internalID: -7034519565113873553
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: dot copy_1
+      rect:
+        serializedVersion: 2
+        x: 292
+        y: 958
+        width: 24
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: dd96a5cb28b358ba0800000000000000
+      internalID: -6087393888629528099
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: dot copy_2
+      rect:
+        serializedVersion: 2
+        x: 259
+        y: 926
+        width: 15
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f98072e041854fe80800000000000000
+      internalID: -8145788982846355297
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: dot copy_3
+      rect:
+        serializedVersion: 2
+        x: 317
+        y: 941
+        width: 15
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 537d79ebdb131dfb0800000000000000
+      internalID: -4624860651316586699
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: dot copy_4
+      rect:
+        serializedVersion: 2
+        x: 243
+        y: 908
+        width: 15
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7104b36a8b64cdbb0800000000000000
+      internalID: -4909971734863855593
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: dot copy_5
+      rect:
+        serializedVersion: 2
+        x: 333
+        y: 923
+        width: 15
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0a676e19b7fce6770800000000000000
+      internalID: 8606044067587323552
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: dot copy_6
+      rect:
+        serializedVersion: 2
+        x: 228
+        y: 890
+        width: 15
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5b907e7824fb9de40800000000000000
+      internalID: 5681782697373403573
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: dot copy_7
+      rect:
+        serializedVersion: 2
+        x: 348
+        y: 904
+        width: 15
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7085dfd3a0fca0b80800000000000000
+      internalID: -8427696109773826041
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: dot copy_8
+      rect:
+        serializedVersion: 2
+        x: 213
+        y: 871
+        width: 15
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: be97e736def8d3ad0800000000000000
+      internalID: -2720860350122657301
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: dot copy_9
+      rect:
+        serializedVersion: 2
+        x: 362
+        y: 885
+        width: 15
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 446dddc7ad1f3f000800000000000000
+      internalID: 68664340040767044
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: dot copy_10
+      rect:
+        serializedVersion: 2
+        x: 199
+        y: 851
+        width: 15
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4b185ef091e70b950800000000000000
+      internalID: 6462804111382643124
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: dot copy_11
+      rect:
+        serializedVersion: 2
+        x: 375
+        y: 865
+        width: 15
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c04a20b78a97cb8c0800000000000000
+      internalID: -3982174205977123828
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: dot copy_12
+      rect:
+        serializedVersion: 2
+        x: 186
+        y: 831
+        width: 15
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 82e17713f8cca7190800000000000000
+      internalID: -7963828075669021144
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: dot copy_13
+      rect:
+        serializedVersion: 2
+        x: 388
+        y: 845
+        width: 15
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 84e6e7b8410deca20800000000000000
+      internalID: 3084631581453610568
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: dot copy_14
+      rect:
+        serializedVersion: 2
+        x: 173
+        y: 811
+        width: 15
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c60f8278b6a6c1b00800000000000000
+      internalID: 800631843826757740
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: dot copy_15
+      rect:
+        serializedVersion: 2
+        x: 400
+        y: 824
+        width: 15
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 86d96ea503d67e5b0800000000000000
+      internalID: -5339178778773512856
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: dot copy_16
+      rect:
+        serializedVersion: 2
+        x: 161
+        y: 790
+        width: 15
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ee79a6d647338ef50800000000000000
+      internalID: 6910830203344951278
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: dot copy_17
+      rect:
+        serializedVersion: 2
+        x: 186
+        y: 788
+        width: 15
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d44d26d455f161020800000000000000
+      internalID: 2312069909932332109
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: dot copy_18
+      rect:
+        serializedVersion: 2
+        x: 403
+        y: 790
+        width: 15
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ab85aa7c50bf83e00800000000000000
+      internalID: 1024844917470025914
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: dot copy_19
+      rect:
+        serializedVersion: 2
+        x: 411
+        y: 803
+        width: 15
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d1cf488ec8c2dda80800000000000000
+      internalID: -8440541142914368483
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: dot copy_20
+      rect:
+        serializedVersion: 2
+        x: 151
+        y: 769
+        width: 14
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: faff9f5f19bee3320800000000000000
+      internalID: 2539726252013125551
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: dot copy_21
+      rect:
+        serializedVersion: 2
+        x: 210
+        y: 782
+        width: 15
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c8393d05b07a7abf0800000000000000
+      internalID: -313097982036438132
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: dot copy_22
+      rect:
+        serializedVersion: 2
+        x: 234
+        y: 777
+        width: 15
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2afd9cd0e2101cdd0800000000000000
+      internalID: -2467689823510863966
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: dot copy_23
+      rect:
+        serializedVersion: 2
+        x: 258
+        y: 773
+        width: 15
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2d0d01c78a6244f80800000000000000
+      internalID: -8123325322791694126
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: dot copy_24
+      rect:
+        serializedVersion: 2
+        x: 283
+        y: 771
+        width: 15
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 345f8607861abb200800000000000000
+      internalID: 196928478655345987
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: dot copy_25
+      rect:
+        serializedVersion: 2
+        x: 307
+        y: 771
+        width: 15
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2bf2aa82d6c6ca490800000000000000
+      internalID: -7733687244012507214
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: dot copy_26
+      rect:
+        serializedVersion: 2
+        x: 332
+        y: 772
+        width: 15
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b7f2398817c3cb700800000000000000
+      internalID: 557386912207417211
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: dot copy_27
+      rect:
+        serializedVersion: 2
+        x: 356
+        y: 776
+        width: 15
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 07efcc6cd65ced4e0800000000000000
+      internalID: -1954908112954786192
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: dot copy_28
+      rect:
+        serializedVersion: 2
+        x: 380
+        y: 782
+        width: 15
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: df27698b91cf364a0800000000000000
+      internalID: -6601155441393765635
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: dot copy_29
+      rect:
+        serializedVersion: 2
+        x: 422
+        y: 782
+        width: 15
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 095857c91ee0d1c50800000000000000
+      internalID: 6637477787969357200
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: dot copy_30
+      rect:
+        serializedVersion: 2
+        x: 141
+        y: 747
+        width: 14
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0fd9f7ea650598690800000000000000
+      internalID: -7599454562985992720
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: dot copy_31
+      rect:
+        serializedVersion: 2
+        x: 431
+        y: 760
+        width: 15
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 75eaeca8df18e69e0800000000000000
+      internalID: -1626219489478660521
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: dot copy_32
+      rect:
+        serializedVersion: 2
+        x: 131
+        y: 725
+        width: 15
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9877ae6cce12a25c0800000000000000
+      internalID: -4239538798382647415
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: dot copy_33
+      rect:
+        serializedVersion: 2
+        x: 440
+        y: 738
+        width: 15
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a53fd6375895be590800000000000000
+      internalID: -7643917512829176998
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: dot copy_34
+      rect:
+        serializedVersion: 2
+        x: 123
+        y: 703
+        width: 15
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 376504773c1f4e620800000000000000
+      internalID: 2802630689952913011
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: dot copy_35
+      rect:
+        serializedVersion: 2
+        x: 447
+        y: 715
+        width: 15
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f78f30b1af6a9ecd0800000000000000
+      internalID: -2528306122666542977
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: dot copy_36
+      rect:
+        serializedVersion: 2
+        x: 116
+        y: 680
+        width: 15
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 42bc69ae0d685ef10800000000000000
+      internalID: 2298391416689576740
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: dot copy_37
+      rect:
+        serializedVersion: 2
+        x: 268
+        y: 680
+        width: 15
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a441785e6fc93c920800000000000000
+      internalID: 3009421560240346186
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: dot copy_38
+      rect:
+        serializedVersion: 2
+        x: 290
+        y: 681
+        width: 15
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b92cb2501c6f92cd0800000000000000
+      internalID: -2582261602444393829
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: dot copy_39
+      rect:
+        serializedVersion: 2
+        x: 454
+        y: 692
+        width: 15
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6551b29d8de4a89c0800000000000000
+      internalID: -3924237432036584106
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: dot copy_40
+      rect:
+        serializedVersion: 2
+        x: 246
+        y: 673
+        width: 15
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 622acd9fffdd492e0800000000000000
+      internalID: -2119825433106275802
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: dot copy_41
+      rect:
+        serializedVersion: 2
+        x: 312
+        y: 676
+        width: 15
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8a645d47582772140800000000000000
+      internalID: 4694847054073382568
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: dot copy_42
+      rect:
+        serializedVersion: 2
+        x: 332
+        y: 666
+        width: 15
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fa7e9afd6d1879ab0800000000000000
+      internalID: -5001386101296207953
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: dot copy_43
+      rect:
+        serializedVersion: 2
+        x: 459
+        y: 669
+        width: 15
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 81063b9c6ceb3fe20800000000000000
+      internalID: 3383257506082152472
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: dot copy_44
+      rect:
+        serializedVersion: 2
+        x: 110
+        y: 657
+        width: 15
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0bd63989906a59540800000000000000
+      internalID: 5014096320291630512
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: dot copy_45
+      rect:
+        serializedVersion: 2
+        x: 228
+        y: 660
+        width: 15
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0e7194aefeeac2f20800000000000000
+      internalID: 3399284164208957408
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: dot copy_46
+      rect:
+        serializedVersion: 2
+        x: 349
+        y: 651
+        width: 15
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 561809793478979c0800000000000000
+      internalID: -3928960475528658587
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: dot copy_47
+      rect:
+        serializedVersion: 2
+        x: 464
+        y: 646
+        width: 15
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e9231d3e9d433fe70800000000000000
+      internalID: 9147713378554294942
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: dot copy_48
+      rect:
+        serializedVersion: 2
+        x: 105
+        y: 634
+        width: 15
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8893b8758b2d6e9a0800000000000000
+      internalID: -6204039747471722104
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: dot copy_49
+      rect:
+        serializedVersion: 2
+        x: 214
+        y: 643
+        width: 15
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9cd33c26208000540800000000000000
+      internalID: 4971982794956946889
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: dot copy_50
+      rect:
+        serializedVersion: 2
+        x: 360
+        y: 632
+        width: 15
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: dc5e55cec7d045ac0800000000000000
+      internalID: -3867451349812255283
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: dot copy_51
+      rect:
+        serializedVersion: 2
+        x: 101
+        y: 610
+        width: 15
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0a1e6b780d8c85470800000000000000
+      internalID: 8383671504305840544
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: dot copy_52
+      rect:
+        serializedVersion: 2
+        x: 204
+        y: 622
+        width: 15
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 34666a48fdf3fb510800000000000000
+      internalID: 1567041424583976515
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: dot copy_53
+      rect:
+        serializedVersion: 2
+        x: 367
+        y: 610
+        width: 15
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0917cd1f0c6a3ebe0800000000000000
+      internalID: -1449131307461480048
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: dot copy_54
+      rect:
+        serializedVersion: 2
+        x: 467
+        y: 622
+        width: 15
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f9eaf5e932cd7fde0800000000000000
+      internalID: -1299327921934061921
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: dot copy_55
+      rect:
+        serializedVersion: 2
+        x: 99
+        y: 587
+        width: 15
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2cf910d72605c9690800000000000000
+      internalID: -7594106487719223358
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: dot copy_56
+      rect:
+        serializedVersion: 2
+        x: 200
+        y: 600
+        width: 15
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4dc6cd68efc800cc0800000000000000
+      internalID: -3746839865160078124
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: dot copy_57
+      rect:
+        serializedVersion: 2
+        x: 367
+        y: 588
+        width: 15
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 92ba9585dba5027b0800000000000000
+      internalID: -5251097396236408023
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: dot copy_58
+      rect:
+        serializedVersion: 2
+        x: 470
+        y: 598
+        width: 15
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0bb5e15847b044b00800000000000000
+      internalID: 811786427911003056
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: dot copy_59
+      rect:
+        serializedVersion: 2
+        x: 97
+        y: 563
+        width: 15
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 11faefcb8273447d0800000000000000
+      internalID: -2935160409029693679
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: dot copy_60
+      rect:
+        serializedVersion: 2
+        x: 202
+        y: 578
+        width: 15
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f57a671088ac74fd0800000000000000
+      internalID: -2357693194416248993
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: dot copy_61
+      rect:
+        serializedVersion: 2
+        x: 362
+        y: 566
+        width: 14
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ead6b71fec7f3dde0800000000000000
+      internalID: -1309430598447960658
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: dot copy_62
+      rect:
+        serializedVersion: 2
+        x: 471
+        y: 574
+        width: 15
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 035d965e2b02ae9b0800000000000000
+      internalID: -5050188079417404112
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: dot copy_63
+      rect:
+        serializedVersion: 2
+        x: 209
+        y: 557
+        width: 15
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fe1b489f3af311590800000000000000
+      internalID: -7705307513955765777
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: dot copy_64
+      rect:
+        serializedVersion: 2
+        x: 350
+        y: 547
+        width: 15
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 885c521d1a458c260800000000000000
+      internalID: 7118032265034450312
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: dot copy_65
+      rect:
+        serializedVersion: 2
+        x: 471
+        y: 551
+        width: 15
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5627e0116614e1350800000000000000
+      internalID: 5989296461077967461
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: dot copy_66
+      rect:
+        serializedVersion: 2
+        x: 96
+        y: 539
+        width: 15
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 103b28d937a231b60800000000000000
+      internalID: 7715557262667985665
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: dot copy_67
+      rect:
+        serializedVersion: 2
+        x: 223
+        y: 539
+        width: 15
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1f7447e8cd8e73a50800000000000000
+      internalID: 6500920621113034737
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: dot copy_68
+      rect:
+        serializedVersion: 2
+        x: 241
+        y: 526
+        width: 15
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2ce621180050ae090800000000000000
+      internalID: -8004579887974027582
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: dot copy_69
+      rect:
+        serializedVersion: 2
+        x: 334
+        y: 531
+        width: 16
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 79d9fb834802c0370800000000000000
+      internalID: 8290036766342094231
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: dot copy_70
+      rect:
+        serializedVersion: 2
+        x: 470
+        y: 527
+        width: 15
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1bf309a0f30a8a0c0800000000000000
+      internalID: -4564222029719388239
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: dot copy_71
+      rect:
+        serializedVersion: 2
+        x: 97
+        y: 515
+        width: 15
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 477ddc36300cef250800000000000000
+      internalID: 5980428475986466676
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: dot copy_72
+      rect:
+        serializedVersion: 2
+        x: 262
+        y: 518
+        width: 15
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0bd68ac63586fdf50800000000000000
+      internalID: 6908355060924181936
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: dot copy_73
+      rect:
+        serializedVersion: 2
+        x: 284
+        y: 515
+        width: 24
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 439b4cbf84763a150800000000000000
+      internalID: 5882659101435279668
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: dot copy_74
+      rect:
+        serializedVersion: 2
+        x: 315
+        y: 520
+        width: 15
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6aa24960082c11cc0800000000000000
+      internalID: -3741995960246195546
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: dot copy_75
+      rect:
+        serializedVersion: 2
+        x: 98
+        y: 491
+        width: 15
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e5f0cf70eb69b2ab0800000000000000
+      internalID: -5031762415734485154
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: dot copy_76
+      rect:
+        serializedVersion: 2
+        x: 467
+        y: 503
+        width: 15
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2dc7ac1d1c41d5910800000000000000
+      internalID: 1827639846463241426
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: dot copy_77
+      rect:
+        serializedVersion: 2
+        x: 72
+        y: 469
+        width: 21
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5b0802943366265e0800000000000000
+      internalID: -1917858120850177867
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: dot copy_78
+      rect:
+        serializedVersion: 2
+        x: 101
+        y: 468
+        width: 15
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f81473c2a625f7c00800000000000000
+      internalID: 900529066459218319
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: dot copy_79
+      rect:
+        serializedVersion: 2
+        x: 464
+        y: 480
+        width: 15
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f55a331eb253ee850800000000000000
+      internalID: 6408117782372918623
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: dot copy_80
+      rect:
+        serializedVersion: 2
+        x: 479
+        y: 477
+        width: 15
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 48e3a9c0431d36530800000000000000
+      internalID: 3847148528184475268
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: dot copy_81
+      rect:
+        serializedVersion: 2
+        x: 498
+        y: 466
+        width: 16
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a136b7636af617f00800000000000000
+      internalID: 1112793342606533402
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: dot copy_82
+      rect:
+        serializedVersion: 2
+        x: 31
+        y: 443
+        width: 15
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 412db09eb5805e380800000000000000
+      internalID: -8942732294229339628
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: dot copy_83
+      rect:
+        serializedVersion: 2
+        x: 52
+        y: 456
+        width: 15
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c78363b119487a700800000000000000
+      internalID: 551555238137837692
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: dot copy_84
+      rect:
+        serializedVersion: 2
+        x: 105
+        y: 444
+        width: 15
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7b85aa0545723b910800000000000000
+      internalID: 1851867114863483063
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: dot copy_85
+      rect:
+        serializedVersion: 2
+        x: 459
+        y: 456
+        width: 15
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1a558182cbc718df0800000000000000
+      internalID: -179725362549729887
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: dot copy_86
+      rect:
+        serializedVersion: 2
+        x: 518
+        y: 452
+        width: 15
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ee53efc93319ea890800000000000000
+      internalID: -7444853483133585938
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: dot copy_87
+      rect:
+        serializedVersion: 2
+        x: 11
+        y: 431
+        width: 15
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 40968cd946406ebd0800000000000000
+      internalID: -2601386904569485052
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: dot copy_88
+      rect:
+        serializedVersion: 2
+        x: 454
+        y: 433
+        width: 15
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 56756984dce908d60800000000000000
+      internalID: 7890481151676405605
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: dot copy_89
+      rect:
+        serializedVersion: 2
+        x: 538
+        y: 438
+        width: 15
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: af007348e945d7470800000000000000
+      internalID: 8393958320288235770
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: dot copy_90
+      rect:
+        serializedVersion: 2
+        x: 552
+        y: 428
+        width: 14
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c9cf31abede74bd50800000000000000
+      internalID: 6752161236404927644
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: dot copy_91
+      rect:
+        serializedVersion: 2
+        x: 9
+        y: 414
+        width: 15
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d822c455aaa1f4cf0800000000000000
+      internalID: -265964534113754483
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: dot copy_92
+      rect:
+        serializedVersion: 2
+        x: 109
+        y: 421
+        width: 15
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 77e104e259cd832c0800000000000000
+      internalID: -4451565698371543433
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: dot copy_93
+      rect:
+        serializedVersion: 2
+        x: 447
+        y: 410
+        width: 15
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d6511be67c9cf10d0800000000000000
+      internalID: -3449816931149736595
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: dot copy_94
+      rect:
+        serializedVersion: 2
+        x: 8
+        y: 389
+        width: 15
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: cd78412b858be8800800000000000000
+      internalID: 616632890080659420
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: dot copy_95
+      rect:
+        serializedVersion: 2
+        x: 115
+        y: 398
+        width: 15
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 965770efb46d517d0800000000000000
+      internalID: -2948214759171328663
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: dot copy_96
+      rect:
+        serializedVersion: 2
+        x: 551
+        y: 403
+        width: 14
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6825d4dba8a4b7570800000000000000
+      internalID: 8465441884314882694
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: dot copy_97
+      rect:
+        serializedVersion: 2
+        x: 121
+        y: 375
+        width: 15
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 612fdef6ca5833c70800000000000000
+      internalID: 8949643860174041622
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: dot copy_98
+      rect:
+        serializedVersion: 2
+        x: 440
+        y: 387
+        width: 15
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0684a577538c90aa0800000000000000
+      internalID: -6194199680510179232
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: dot copy_99
+      rect:
+        serializedVersion: 2
+        x: 549
+        y: 379
+        width: 15
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 39e74ba7a78b42700800000000000000
+      internalID: 514739093611249299
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: dot copy_100
+      rect:
+        serializedVersion: 2
+        x: 7
+        y: 365
+        width: 15
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 640974e96f2784d90800000000000000
+      internalID: -7113309207888687034
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: dot copy_101
+      rect:
+        serializedVersion: 2
+        x: 129
+        y: 352
+        width: 15
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8acbfee968f194b20800000000000000
+      internalID: 3119058879983369384
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: dot copy_102
+      rect:
+        serializedVersion: 2
+        x: 431
+        y: 365
+        width: 15
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 14547a72aee8b5520800000000000000
+      internalID: 2691902338622768449
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: dot copy_103
+      rect:
+        serializedVersion: 2
+        x: 548
+        y: 355
+        width: 15
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d1738b023b1a157b0800000000000000
+      internalID: -5237227100935014627
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: dot copy_104
+      rect:
+        serializedVersion: 2
+        x: 6
+        y: 341
+        width: 15
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4e400c41f44fd4320800000000000000
+      internalID: 2543957985021920484
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: dot copy_105
+      rect:
+        serializedVersion: 2
+        x: 137
+        y: 330
+        width: 15
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f37042fa57c047a80800000000000000
+      internalID: -8470131299587979457
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: dot copy_106
+      rect:
+        serializedVersion: 2
+        x: 422
+        y: 343
+        width: 15
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4aae813cf7abd8610800000000000000
+      internalID: 1625160098447420068
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: dot copy_107
+      rect:
+        serializedVersion: 2
+        x: 547
+        y: 331
+        width: 15
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ad9b83da3f68e5d10800000000000000
+      internalID: 2116277256052062682
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: dot copy_108
+      rect:
+        serializedVersion: 2
+        x: 5
+        y: 317
+        width: 15
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1052f267426274b40800000000000000
+      internalID: 5424346214234531073
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: dot copy_109
+      rect:
+        serializedVersion: 2
+        x: 147
+        y: 308
+        width: 15
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3a25b385149d8b430800000000000000
+      internalID: 3799025160363397795
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: dot copy_110
+      rect:
+        serializedVersion: 2
+        x: 412
+        y: 321
+        width: 15
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6746372fb61a41290800000000000000
+      internalID: -7920528359636638602
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: dot copy_111
+      rect:
+        serializedVersion: 2
+        x: 546
+        y: 307
+        width: 15
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: cb79c49946c422d60800000000000000
+      internalID: 7863931894294681532
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: dot copy_112
+      rect:
+        serializedVersion: 2
+        x: 4
+        y: 293
+        width: 15
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f93034ae9a7d2d8a0800000000000000
+      internalID: -6281721405448715361
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: dot copy_113
+      rect:
+        serializedVersion: 2
+        x: 157
+        y: 286
+        width: 15
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 96987c33927264e70800000000000000
+      internalID: 9099003155064523113
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: dot copy_114
+      rect:
+        serializedVersion: 2
+        x: 401
+        y: 300
+        width: 15
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a5826d9adbda37b90800000000000000
+      internalID: -7245256345399187366
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: dot copy_115
+      rect:
+        serializedVersion: 2
+        x: 3
+        y: 269
+        width: 15
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 760002fde8768a4d0800000000000000
+      internalID: -3123132478255005593
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: dot copy_116
+      rect:
+        serializedVersion: 2
+        x: 136
+        y: 270
+        width: 20
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3f162515ea6b101d0800000000000000
+      internalID: -3386224585000984077
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: dot copy_117
+      rect:
+        serializedVersion: 2
+        x: 389
+        y: 279
+        width: 15
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f83f767d6286ecc10800000000000000
+      internalID: 2075710994296337295
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: dot copy_118
+      rect:
+        serializedVersion: 2
+        x: 408
+        y: 282
+        width: 15
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 672ab7f8e6b60cd20800000000000000
+      internalID: 3296753049833022070
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: dot copy_119
+      rect:
+        serializedVersion: 2
+        x: 545
+        y: 283
+        width: 15
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b15f17136d18ef3b0800000000000000
+      internalID: -5476797339883408101
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: dot copy_120
+      rect:
+        serializedVersion: 2
+        x: 118
+        y: 255
+        width: 15
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fef014a5ab474f8e0800000000000000
+      internalID: -1660574018865917969
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: dot copy_121
+      rect:
+        serializedVersion: 2
+        x: 168
+        y: 265
+        width: 15
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a53d470411bca9800800000000000000
+      internalID: 620031173673145178
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: dot copy_122
+      rect:
+        serializedVersion: 2
+        x: 377
+        y: 259
+        width: 15
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a3774c39d33a97170800000000000000
+      internalID: 8176746083335305018
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: dot copy_123
+      rect:
+        serializedVersion: 2
+        x: 425
+        y: 266
+        width: 15
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ca33de5f701e1c310800000000000000
+      internalID: 1423666381532771244
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: dot copy_124
+      rect:
+        serializedVersion: 2
+        x: 544
+        y: 259
+        width: 15
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7a8cdd9ad03935800800000000000000
+      internalID: 599984862264150183
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: dot copy_125
+      rect:
+        serializedVersion: 2
+        x: 2
+        y: 245
+        width: 15
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5d746d4b1052fffe0800000000000000
+      internalID: -1153162290324420651
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: dot copy_126
+      rect:
+        serializedVersion: 2
+        x: 99
+        y: 240
+        width: 15
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9d6ed4af3a5bef520800000000000000
+      internalID: 2737825339371546329
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: dot copy_127
+      rect:
+        serializedVersion: 2
+        x: 180
+        y: 245
+        width: 15
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: cd043dd122c9db960800000000000000
+      internalID: 7619417814923952348
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: dot copy_128
+      rect:
+        serializedVersion: 2
+        x: 198
+        y: 244
+        width: 15
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 19b85fded35b3d1f0800000000000000
+      internalID: -1021273412893045871
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: dot copy_129
+      rect:
+        serializedVersion: 2
+        x: 222
+        y: 243
+        width: 15
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6cfa05944301cbc30800000000000000
+      internalID: 4376390754651647942
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: dot copy_130
+      rect:
+        serializedVersion: 2
+        x: 246
+        y: 242
+        width: 15
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c7338ad7a223ae2d0800000000000000
+      internalID: -3248729023116201092
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: dot copy_131
+      rect:
+        serializedVersion: 2
+        x: 270
+        y: 242
+        width: 15
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f2fa385468a939210800000000000000
+      internalID: 1338583415741722415
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: dot copy_132
+      rect:
+        serializedVersion: 2
+        x: 294
+        y: 241
+        width: 15
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a073f89272cc8f8c0800000000000000
+      internalID: -3965195003326679286
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: dot copy_133
+      rect:
+        serializedVersion: 2
+        x: 318
+        y: 240
+        width: 15
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: eda5267da8eb0de80800000000000000
+      internalID: -8155809421639656738
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: dot copy_134
+      rect:
+        serializedVersion: 2
+        x: 342
+        y: 239
+        width: 15
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 16c660e178ac24ad0800000000000000
+      internalID: -2719388543305225119
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: dot copy_135
+      rect:
+        serializedVersion: 2
+        x: 362
+        y: 243
+        width: 16
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2767b5013a3282270800000000000000
+      internalID: 8225863902653281906
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: dot copy_136
+      rect:
+        serializedVersion: 2
+        x: 443
+        y: 250
+        width: 15
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9b3c81a3b3533c370800000000000000
+      internalID: 8341569463314334649
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: dot copy_137
+      rect:
+        serializedVersion: 2
+        x: 543
+        y: 235
+        width: 15
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 22f2fa9b51554dfc0800000000000000
+      internalID: -3471055860997869790
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: dot copy_138
+      rect:
+        serializedVersion: 2
+        x: 1
+        y: 221
+        width: 15
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: be951c28bfad503e0800000000000000
+      internalID: -2088022078451000853
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: dot copy_139
+      rect:
+        serializedVersion: 2
+        x: 80
+        y: 225
+        width: 15
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d9d8ceb396ff10ec0800000000000000
+      internalID: -3602317399477678691
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: dot copy_140
+      rect:
+        serializedVersion: 2
+        x: 175
+        y: 224
+        width: 15
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6949800edfdfe11c0800000000000000
+      internalID: -4530904908260928362
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: dot copy_141
+      rect:
+        serializedVersion: 2
+        x: 366
+        y: 222
+        width: 17
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 07996289021350520800000000000000
+      internalID: 2667592370348267888
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: dot copy_142
+      rect:
+        serializedVersion: 2
+        x: 461
+        y: 233
+        width: 15
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: eb6dd341066be6ab0800000000000000
+      internalID: -5012868811444070722
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: dot copy_143
+      rect:
+        serializedVersion: 2
+        x: 61
+        y: 210
+        width: 15
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 848ff2784b88594c0800000000000000
+      internalID: -4281365561802229688
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: dot copy_144
+      rect:
+        serializedVersion: 2
+        x: 166
+        y: 202
+        width: 15
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a644816af8c4738a0800000000000000
+      internalID: -6325502971767929750
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: dot copy_145
+      rect:
+        serializedVersion: 2
+        x: 478
+        y: 217
+        width: 15
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 149c42bbc31658f50800000000000000
+      internalID: 6883014518971353409
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: dot copy_146
+      rect:
+        serializedVersion: 2
+        x: 542
+        y: 211
+        width: 15
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 10c8beeb3fb0de3f0800000000000000
+      internalID: -870026011504571391
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: dot copy_147
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 197
+        width: 15
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9590ee8df554a3390800000000000000
+      internalID: -7837875923521238695
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: dot copy_148
+      rect:
+        serializedVersion: 2
+        x: 42
+        y: 195
+        width: 15
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 864c07712e781d770800000000000000
+      internalID: 8633831365771576424
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: dot copy_149
+      rect:
+        serializedVersion: 2
+        x: 379
+        y: 200
+        width: 15
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 976d5eb303b6887e0800000000000000
+      internalID: -1763041399208028551
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: dot copy_150
+      rect:
+        serializedVersion: 2
+        x: 496
+        y: 200
+        width: 15
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 07972a3a355e695e0800000000000000
+      internalID: -1903081645127075472
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: dot copy_151
+      rect:
+        serializedVersion: 2
+        x: 541
+        y: 187
+        width: 15
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a56c192778046df70800000000000000
+      internalID: 9211621038319847002
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: dot copy_152
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 166
+        width: 19
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ea50a51e938d158b0800000000000000
+      internalID: -5165109554511739474
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: dot copy_153
+      rect:
+        serializedVersion: 2
+        x: 23
+        y: 180
+        width: 15
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e3968855fe3219c40800000000000000
+      internalID: 5517230529344727358
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: dot copy_154
+      rect:
+        serializedVersion: 2
+        x: 159
+        y: 178
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 58c4a8ac83b11f5f0800000000000000
+      internalID: -724768134299759483
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: dot copy_155
+      rect:
+        serializedVersion: 2
+        x: 184
+        y: 178
+        width: 15
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0ca45c7176b354710800000000000000
+      internalID: 1676811750231853760
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: dot copy_156
+      rect:
+        serializedVersion: 2
+        x: 208
+        y: 177
+        width: 15
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bf87e95e1b75bc6f0800000000000000
+      internalID: -663340098533820165
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: dot copy_157
+      rect:
+        serializedVersion: 2
+        x: 232
+        y: 176
+        width: 15
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2dcd3dac31e3e5ab0800000000000000
+      internalID: -5017504680115970862
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: dot copy_158
+      rect:
+        serializedVersion: 2
+        x: 256
+        y: 176
+        width: 15
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 56cdbc18f1fff2530800000000000000
+      internalID: 3832562318702271589
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: dot copy_159
+      rect:
+        serializedVersion: 2
+        x: 280
+        y: 175
+        width: 15
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: acae2da446f427e20800000000000000
+      internalID: 3346824765260360394
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: dot copy_160
+      rect:
+        serializedVersion: 2
+        x: 305
+        y: 175
+        width: 15
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f65d4648096a620f0800000000000000
+      internalID: -1142042315865139857
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: dot copy_161
+      rect:
+        serializedVersion: 2
+        x: 329
+        y: 174
+        width: 15
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4f6dd7ab7500e59b0800000000000000
+      internalID: -5089630152091117836
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: dot copy_162
+      rect:
+        serializedVersion: 2
+        x: 353
+        y: 173
+        width: 15
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fa5f1197dbead7790800000000000000
+      internalID: -7530670873090329169
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: dot copy_163
+      rect:
+        serializedVersion: 2
+        x: 377
+        y: 173
+        width: 29
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1940ba583eff23e00800000000000000
+      internalID: 1023161418031760529
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: dot copy_164
+      rect:
+        serializedVersion: 2
+        x: 514
+        y: 184
+        width: 15
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5d483e464c2566ad0800000000000000
+      internalID: -2709387122357074731
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: dot copy_165
+      rect:
+        serializedVersion: 2
+        x: 531
+        y: 160
+        width: 24
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c0e5608497dde1020800000000000000
+      internalID: 2314530771484171788
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: dot copy_166
+      rect:
+        serializedVersion: 2
+        x: 224
+        y: 32
+        width: 18
+        height: 126
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f068b5039bc4f5f40800000000000000
+      internalID: 5719374410047784463
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: dot copy_167
+      rect:
+        serializedVersion: 2
+        x: 269
+        y: 0
+        width: 18
+        height: 126
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c103cfc3ef53ea900800000000000000
+      internalID: 697554358350131228
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: dot copy_168
+      rect:
+        serializedVersion: 2
+        x: 316
+        y: 32
+        width: 17
+        height: 126
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9f3ed450b28bdab30800000000000000
+      internalID: 4300295714120786937
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    nameFileIdTable:
+      dot copy_0: -7034519565113873553
+      dot copy_1: -6087393888629528099
+      dot copy_10: 6462804111382643124
+      dot copy_100: -7113309207888687034
+      dot copy_101: 3119058879983369384
+      dot copy_102: 2691902338622768449
+      dot copy_103: -5237227100935014627
+      dot copy_104: 2543957985021920484
+      dot copy_105: -8470131299587979457
+      dot copy_106: 1625160098447420068
+      dot copy_107: 2116277256052062682
+      dot copy_108: 5424346214234531073
+      dot copy_109: 3799025160363397795
+      dot copy_11: -3982174205977123828
+      dot copy_110: -7920528359636638602
+      dot copy_111: 7863931894294681532
+      dot copy_112: -6281721405448715361
+      dot copy_113: 9099003155064523113
+      dot copy_114: -7245256345399187366
+      dot copy_115: -3123132478255005593
+      dot copy_116: -3386224585000984077
+      dot copy_117: 2075710994296337295
+      dot copy_118: 3296753049833022070
+      dot copy_119: -5476797339883408101
+      dot copy_12: -7963828075669021144
+      dot copy_120: -1660574018865917969
+      dot copy_121: 620031173673145178
+      dot copy_122: 8176746083335305018
+      dot copy_123: 1423666381532771244
+      dot copy_124: 599984862264150183
+      dot copy_125: -1153162290324420651
+      dot copy_126: 2737825339371546329
+      dot copy_127: 7619417814923952348
+      dot copy_128: -1021273412893045871
+      dot copy_129: 4376390754651647942
+      dot copy_13: 3084631581453610568
+      dot copy_130: -3248729023116201092
+      dot copy_131: 1338583415741722415
+      dot copy_132: -3965195003326679286
+      dot copy_133: -8155809421639656738
+      dot copy_134: -2719388543305225119
+      dot copy_135: 8225863902653281906
+      dot copy_136: 8341569463314334649
+      dot copy_137: -3471055860997869790
+      dot copy_138: -2088022078451000853
+      dot copy_139: -3602317399477678691
+      dot copy_14: 800631843826757740
+      dot copy_140: -4530904908260928362
+      dot copy_141: 2667592370348267888
+      dot copy_142: -5012868811444070722
+      dot copy_143: -4281365561802229688
+      dot copy_144: -6325502971767929750
+      dot copy_145: 6883014518971353409
+      dot copy_146: -870026011504571391
+      dot copy_147: -7837875923521238695
+      dot copy_148: 8633831365771576424
+      dot copy_149: -1763041399208028551
+      dot copy_15: -5339178778773512856
+      dot copy_150: -1903081645127075472
+      dot copy_151: 9211621038319847002
+      dot copy_152: -5165109554511739474
+      dot copy_153: 5517230529344727358
+      dot copy_154: -724768134299759483
+      dot copy_155: 1676811750231853760
+      dot copy_156: -663340098533820165
+      dot copy_157: -5017504680115970862
+      dot copy_158: 3832562318702271589
+      dot copy_159: 3346824765260360394
+      dot copy_16: 6910830203344951278
+      dot copy_160: -1142042315865139857
+      dot copy_161: -5089630152091117836
+      dot copy_162: -7530670873090329169
+      dot copy_163: 1023161418031760529
+      dot copy_164: -2709387122357074731
+      dot copy_165: 2314530771484171788
+      dot copy_166: 5719374410047784463
+      dot copy_167: 697554358350131228
+      dot copy_168: 4300295714120786937
+      dot copy_17: 2312069909932332109
+      dot copy_18: 1024844917470025914
+      dot copy_19: -8440541142914368483
+      dot copy_2: -8145788982846355297
+      dot copy_20: 2539726252013125551
+      dot copy_21: -313097982036438132
+      dot copy_22: -2467689823510863966
+      dot copy_23: -8123325322791694126
+      dot copy_24: 196928478655345987
+      dot copy_25: -7733687244012507214
+      dot copy_26: 557386912207417211
+      dot copy_27: -1954908112954786192
+      dot copy_28: -6601155441393765635
+      dot copy_29: 6637477787969357200
+      dot copy_3: -4624860651316586699
+      dot copy_30: -7599454562985992720
+      dot copy_31: -1626219489478660521
+      dot copy_32: -4239538798382647415
+      dot copy_33: -7643917512829176998
+      dot copy_34: 2802630689952913011
+      dot copy_35: -2528306122666542977
+      dot copy_36: 2298391416689576740
+      dot copy_37: 3009421560240346186
+      dot copy_38: -2582261602444393829
+      dot copy_39: -3924237432036584106
+      dot copy_4: -4909971734863855593
+      dot copy_40: -2119825433106275802
+      dot copy_41: 4694847054073382568
+      dot copy_42: -5001386101296207953
+      dot copy_43: 3383257506082152472
+      dot copy_44: 5014096320291630512
+      dot copy_45: 3399284164208957408
+      dot copy_46: -3928960475528658587
+      dot copy_47: 9147713378554294942
+      dot copy_48: -6204039747471722104
+      dot copy_49: 4971982794956946889
+      dot copy_5: 8606044067587323552
+      dot copy_50: -3867451349812255283
+      dot copy_51: 8383671504305840544
+      dot copy_52: 1567041424583976515
+      dot copy_53: -1449131307461480048
+      dot copy_54: -1299327921934061921
+      dot copy_55: -7594106487719223358
+      dot copy_56: -3746839865160078124
+      dot copy_57: -5251097396236408023
+      dot copy_58: 811786427911003056
+      dot copy_59: -2935160409029693679
+      dot copy_6: 5681782697373403573
+      dot copy_60: -2357693194416248993
+      dot copy_61: -1309430598447960658
+      dot copy_62: -5050188079417404112
+      dot copy_63: -7705307513955765777
+      dot copy_64: 7118032265034450312
+      dot copy_65: 5989296461077967461
+      dot copy_66: 7715557262667985665
+      dot copy_67: 6500920621113034737
+      dot copy_68: -8004579887974027582
+      dot copy_69: 8290036766342094231
+      dot copy_7: -8427696109773826041
+      dot copy_70: -4564222029719388239
+      dot copy_71: 5980428475986466676
+      dot copy_72: 6908355060924181936
+      dot copy_73: 5882659101435279668
+      dot copy_74: -3741995960246195546
+      dot copy_75: -5031762415734485154
+      dot copy_76: 1827639846463241426
+      dot copy_77: -1917858120850177867
+      dot copy_78: 900529066459218319
+      dot copy_79: 6408117782372918623
+      dot copy_8: -2720860350122657301
+      dot copy_80: 3847148528184475268
+      dot copy_81: 1112793342606533402
+      dot copy_82: -8942732294229339628
+      dot copy_83: 551555238137837692
+      dot copy_84: 1851867114863483063
+      dot copy_85: -179725362549729887
+      dot copy_86: -7444853483133585938
+      dot copy_87: -2601386904569485052
+      dot copy_88: 7890481151676405605
+      dot copy_89: 8393958320288235770
+      dot copy_9: 68664340040767044
+      dot copy_90: 6752161236404927644
+      dot copy_91: -265964534113754483
+      dot copy_92: -4451565698371543433
+      dot copy_93: -3449816931149736595
+      dot copy_94: 616632890080659420
+      dot copy_95: -2948214759171328663
+      dot copy_96: 8465441884314882694
+      dot copy_97: 8949643860174041622
+      dot copy_98: -6194199680510179232
+      dot copy_99: 514739093611249299
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

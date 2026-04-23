@@ -1,0 +1,63 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!1045 &1
+EditorBuildSettings:
+  m_ObjectHideFlags: 0
+  serializedVersion: 2
+  m_Scenes:
+  - enabled: 1
+    path: Assets/Scenes/Splash.unity
+    guid: 00a147b78474e47d085054e3ee82b18b
+  - enabled: 1
+    path: Assets/Scenes/Selection.unity
+    guid: acf8c213b4f4a8b419c2ca9f9ed42727
+  - enabled: 1
+    path: Assets/Scenes/Objects.unity
+    guid: 2a64914921375724885c48dc723a70e7
+  - enabled: 1
+    path: Assets/Scenes/Fruit.unity
+    guid: 2cda990e2423bbf4892e6590ba056729
+  - enabled: 1
+    path: Assets/Scenes/AnimalSounds.unity
+    guid: 314c80e65f3db50488bdf61935f51be0
+  - enabled: 1
+    path: Assets/Scenes/Puzzle.unity
+    guid: 33530baf37dae59419133c51e900f38f
+  - enabled: 1
+    path: Assets/Scenes/ShapeSounds.unity
+    guid: cb17cf0f1b3cc92449ffbccf6fc430b8
+  - enabled: 1
+    path: Assets/Scenes/Vegatables.unity
+    guid: a281f9419f2c7e04682653120ff06208
+  - enabled: 1
+    path: Assets/Scenes/FruitSounds.unity
+    guid: 8abfcf6fbd9187144973498bb546f8fc
+  - enabled: 1
+    path: Assets/Scenes/BodyPartsSounds.unity
+    guid: 855028efab2f96c4781294c1a27c9fc2
+  - enabled: 1
+    path: Assets/Scenes/VegetablesSounds.unity
+    guid: 9a999cf7ffbdd1a42b08503e726d549d
+  - enabled: 1
+    path: Assets/Scenes/PurchasePanel_New.unity
+    guid: 851bcd557e6dcac4db2814a7ed2ee2a3
+  - enabled: 1
+    path: Assets/Scenes/ColorGame.unity
+    guid: a03806cb1771a3c4abf55918a4905547
+  - enabled: 1
+    path: Assets/Scenes/Piano.unity
+    guid: dd862514f7fb2f44781754389707ac79
+  - enabled: 1
+    path: Assets/Scenes/MatchLetters.unity
+    guid: b456f6e74ba2348d0a4dbeda78cfb69f
+  - enabled: 1
+    path: Assets/Scenes/TapTIles.unity
+    guid: 8d669b01aee264776a69bf8e7560238f
+  - enabled: 1
+    path: Assets/Scenes/MatchNumbers.unity
+    guid: e058cf2620783ec48a3a56e4f834275d
+  - enabled: 1
+    path: Assets/Scenes/PopIt.unity
+    guid: b95c08d436166264ab8349624b8f6464
+  m_configObjects: {}
+  m_UseUCBPForAssetBundles: 0

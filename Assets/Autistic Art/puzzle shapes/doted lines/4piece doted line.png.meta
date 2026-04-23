@@ -1,0 +1,1027 @@
+fileFormatVersion: 2
+guid: 95a59b3a58e9fd0468db81ac481eac22
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 7391509760599746281
+    second: 4piece doted line_0
+  - first:
+      213: 3725292677506931747
+    second: 4piece doted line_1
+  - first:
+      213: -3041999312867924880
+    second: 4piece doted line_2
+  - first:
+      213: 959819333698685401
+    second: 4piece doted line_3
+  - first:
+      213: 5024948523522095575
+    second: 4piece doted line_4
+  - first:
+      213: -8700475253414497367
+    second: 4piece doted line_5
+  - first:
+      213: 4010359010579874126
+    second: 4piece doted line_6
+  - first:
+      213: -4561029753424010784
+    second: 4piece doted line_7
+  - first:
+      213: -3006096026951022165
+    second: 4piece doted line_8
+  - first:
+      213: -2886367283044260080
+    second: 4piece doted line_9
+  - first:
+      213: 418511198623003917
+    second: 4piece doted line_10
+  - first:
+      213: -1883256422553996021
+    second: 4piece doted line_11
+  - first:
+      213: -2993394222772588308
+    second: 4piece doted line_12
+  - first:
+      213: 6228609089017998453
+    second: 4piece doted line_13
+  - first:
+      213: -478381565416879597
+    second: 4piece doted line_14
+  - first:
+      213: -5214222490852858054
+    second: 4piece doted line_15
+  - first:
+      213: 765064058658098262
+    second: 4piece doted line_16
+  - first:
+      213: -7805574149947558937
+    second: 4piece doted line_17
+  - first:
+      213: 5811276833859111123
+    second: 4piece doted line_18
+  - first:
+      213: -698233973867594586
+    second: 4piece doted line_19
+  - first:
+      213: -6576701964989052264
+    second: 4piece doted line_20
+  - first:
+      213: -671216755708728711
+    second: 4piece doted line_21
+  - first:
+      213: 704210104424636686
+    second: 4piece doted line_22
+  - first:
+      213: -7855224153354396108
+    second: 4piece doted line_23
+  - first:
+      213: 7948661225024988324
+    second: 4piece doted line_24
+  - first:
+      213: -1515567499012158477
+    second: 4piece doted line_25
+  - first:
+      213: -340077362649041229
+    second: 4piece doted line_26
+  - first:
+      213: 7207128948860131887
+    second: 4piece doted line_27
+  - first:
+      213: -8990772311584250763
+    second: 4piece doted line_28
+  - first:
+      213: 4284575581675446125
+    second: 4piece doted line_29
+  - first:
+      213: -5425410401144846651
+    second: 4piece doted line_30
+  - first:
+      213: -2738692794239284806
+    second: 4piece doted line_31
+  - first:
+      213: -3238446106656661334
+    second: 4piece doted line_32
+  - first:
+      213: 7319625652846362567
+    second: 4piece doted line_33
+  - first:
+      213: 7874262057078312552
+    second: 4piece doted line_34
+  - first:
+      213: 873448552969330477
+    second: 4piece doted line_35
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 1
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Android
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: 4piece doted line_0
+      rect:
+        serializedVersion: 2
+        x: 398
+        y: 513
+        width: 9
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9e6616227fae39660800000000000000
+      internalID: 7391509760599746281
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 4piece doted line_1
+      rect:
+        serializedVersion: 2
+        x: 398
+        y: 475
+        width: 9
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 32c1a27e3f5e2b330800000000000000
+      internalID: 3725292677506931747
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 4piece doted line_2
+      rect:
+        serializedVersion: 2
+        x: 398
+        y: 436
+        width: 9
+        height: 29
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 074668dfdb5a8c5d0800000000000000
+      internalID: -3041999312867924880
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 4piece doted line_3
+      rect:
+        serializedVersion: 2
+        x: 398
+        y: 398
+        width: 9
+        height: 29
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9d989a14996f15d00800000000000000
+      internalID: 959819333698685401
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 4piece doted line_4
+      rect:
+        serializedVersion: 2
+        x: 398
+        y: 360
+        width: 9
+        height: 29
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7d9782f0f043cb540800000000000000
+      internalID: 5024948523522095575
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 4piece doted line_5
+      rect:
+        serializedVersion: 2
+        x: 398
+        y: 322
+        width: 9
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9a3f627aad3b14780800000000000000
+      internalID: -8700475253414497367
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 4piece doted line_6
+      rect:
+        serializedVersion: 2
+        x: 398
+        y: 284
+        width: 9
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e418667b548a7a730800000000000000
+      internalID: 4010359010579874126
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 4piece doted line_7
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 272
+        width: 21
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0e1ac29ca97f3b0c0800000000000000
+      internalID: -4561029753424010784
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 4piece doted line_8
+      rect:
+        serializedVersion: 2
+        x: 31
+        y: 272
+        width: 28
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ba90fd827933846d0800000000000000
+      internalID: -3006096026951022165
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 4piece doted line_9
+      rect:
+        serializedVersion: 2
+        x: 69
+        y: 272
+        width: 29
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 01766daaf3091f7d0800000000000000
+      internalID: -2886367283044260080
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 4piece doted line_10
+      rect:
+        serializedVersion: 2
+        x: 107
+        y: 272
+        width: 29
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d057270c7b9dec500800000000000000
+      internalID: 418511198623003917
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 4piece doted line_11
+      rect:
+        serializedVersion: 2
+        x: 145
+        y: 272
+        width: 29
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b0532b8f2445dd5e0800000000000000
+      internalID: -1883256422553996021
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 4piece doted line_12
+      rect:
+        serializedVersion: 2
+        x: 184
+        y: 272
+        width: 28
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ce0fee660d35576d0800000000000000
+      internalID: -2993394222772588308
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 4piece doted line_13
+      rect:
+        serializedVersion: 2
+        x: 222
+        y: 272
+        width: 28
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 57cefa347f6707650800000000000000
+      internalID: 6228609089017998453
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 4piece doted line_14
+      rect:
+        serializedVersion: 2
+        x: 260
+        y: 272
+        width: 28
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 31a4b3630827c59f0800000000000000
+      internalID: -478381565416879597
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 4piece doted line_15
+      rect:
+        serializedVersion: 2
+        x: 298
+        y: 272
+        width: 28
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a37ecdc454c53a7b0800000000000000
+      internalID: -5214222490852858054
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 4piece doted line_16
+      rect:
+        serializedVersion: 2
+        x: 336
+        y: 272
+        width: 28
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 65c0cb635bd0e9a00800000000000000
+      internalID: 765064058658098262
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 4piece doted line_17
+      rect:
+        serializedVersion: 2
+        x: 374
+        y: 246
+        width: 33
+        height: 35
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7e377649aa70da390800000000000000
+      internalID: -7805574149947558937
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 4piece doted line_18
+      rect:
+        serializedVersion: 2
+        x: 412
+        y: 272
+        width: 28
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3d801adad7dc5a050800000000000000
+      internalID: 5811276833859111123
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 4piece doted line_19
+      rect:
+        serializedVersion: 2
+        x: 450
+        y: 272
+        width: 29
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6ac338176ef5f46f0800000000000000
+      internalID: -698233973867594586
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 4piece doted line_20
+      rect:
+        serializedVersion: 2
+        x: 488
+        y: 272
+        width: 29
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 89ac63f586cdab4a0800000000000000
+      internalID: -6576701964989052264
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 4piece doted line_21
+      rect:
+        serializedVersion: 2
+        x: 526
+        y: 272
+        width: 29
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 97ae0bcbaeb5fa6f0800000000000000
+      internalID: -671216755708728711
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 4piece doted line_22
+      rect:
+        serializedVersion: 2
+        x: 565
+        y: 272
+        width: 28
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e01a871eb5bd5c900800000000000000
+      internalID: 704210104424636686
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 4piece doted line_23
+      rect:
+        serializedVersion: 2
+        x: 603
+        y: 272
+        width: 28
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 43e1e345043acf290800000000000000
+      internalID: -7855224153354396108
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 4piece doted line_24
+      rect:
+        serializedVersion: 2
+        x: 641
+        y: 272
+        width: 28
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4a4298535415f4e60800000000000000
+      internalID: 7948661225024988324
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 4piece doted line_25
+      rect:
+        serializedVersion: 2
+        x: 679
+        y: 272
+        width: 28
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3fbc044b36f97fae0800000000000000
+      internalID: -1515567499012158477
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 4piece doted line_26
+      rect:
+        serializedVersion: 2
+        x: 717
+        y: 272
+        width: 28
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3b6f623c07dc74bf0800000000000000
+      internalID: -340077362649041229
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 4piece doted line_27
+      rect:
+        serializedVersion: 2
+        x: 755
+        y: 272
+        width: 28
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f2a1e3f089dd40460800000000000000
+      internalID: 7207128948860131887
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 4piece doted line_28
+      rect:
+        serializedVersion: 2
+        x: 793
+        y: 272
+        width: 12
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5746a9fb73c5a3380800000000000000
+      internalID: -8990772311584250763
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 4piece doted line_29
+      rect:
+        serializedVersion: 2
+        x: 398
+        y: 208
+        width: 9
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d6fd3177aced57b30800000000000000
+      internalID: 4284575581675446125
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 4piece doted line_30
+      rect:
+        serializedVersion: 2
+        x: 398
+        y: 170
+        width: 9
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5c64d073cf115b4b0800000000000000
+      internalID: -5425410401144846651
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 4piece doted line_31
+      rect:
+        serializedVersion: 2
+        x: 398
+        y: 132
+        width: 9
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ab90272f9653ef9d0800000000000000
+      internalID: -2738692794239284806
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 4piece doted line_32
+      rect:
+        serializedVersion: 2
+        x: 398
+        y: 94
+        width: 9
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: aa0ab7c8c6abe03d0800000000000000
+      internalID: -3238446106656661334
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 4piece doted line_33
+      rect:
+        serializedVersion: 2
+        x: 398
+        y: 55
+        width: 9
+        height: 29
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7cf7ebe00c8849560800000000000000
+      internalID: 7319625652846362567
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 4piece doted line_34
+      rect:
+        serializedVersion: 2
+        x: 398
+        y: 17
+        width: 9
+        height: 29
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 86e4d7c0f9ff64d60800000000000000
+      internalID: 7874262057078312552
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 4piece doted line_35
+      rect:
+        serializedVersion: 2
+        x: 398
+        y: 0
+        width: 9
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d2fd059c4dc1f1c00800000000000000
+      internalID: 873448552969330477
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    nameFileIdTable:
+      4piece doted line_0: 7391509760599746281
+      4piece doted line_1: 3725292677506931747
+      4piece doted line_10: 418511198623003917
+      4piece doted line_11: -1883256422553996021
+      4piece doted line_12: -2993394222772588308
+      4piece doted line_13: 6228609089017998453
+      4piece doted line_14: -478381565416879597
+      4piece doted line_15: -5214222490852858054
+      4piece doted line_16: 765064058658098262
+      4piece doted line_17: -7805574149947558937
+      4piece doted line_18: 5811276833859111123
+      4piece doted line_19: -698233973867594586
+      4piece doted line_2: -3041999312867924880
+      4piece doted line_20: -6576701964989052264
+      4piece doted line_21: -671216755708728711
+      4piece doted line_22: 704210104424636686
+      4piece doted line_23: -7855224153354396108
+      4piece doted line_24: 7948661225024988324
+      4piece doted line_25: -1515567499012158477
+      4piece doted line_26: -340077362649041229
+      4piece doted line_27: 7207128948860131887
+      4piece doted line_28: -8990772311584250763
+      4piece doted line_29: 4284575581675446125
+      4piece doted line_3: 959819333698685401
+      4piece doted line_30: -5425410401144846651
+      4piece doted line_31: -2738692794239284806
+      4piece doted line_32: -3238446106656661334
+      4piece doted line_33: 7319625652846362567
+      4piece doted line_34: 7874262057078312552
+      4piece doted line_35: 873448552969330477
+      4piece doted line_4: 5024948523522095575
+      4piece doted line_5: -8700475253414497367
+      4piece doted line_6: 4010359010579874126
+      4piece doted line_7: -4561029753424010784
+      4piece doted line_8: -3006096026951022165
+      4piece doted line_9: -2886367283044260080
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

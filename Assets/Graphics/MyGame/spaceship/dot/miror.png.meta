@@ -1,0 +1,715 @@
+fileFormatVersion: 2
+guid: 717b69e5f3ccf414fa5a1d24021032f1
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 7493891864112957443
+    second: miror_0
+  - first:
+      213: 3170449164329856062
+    second: miror_1
+  - first:
+      213: -4649476494435577515
+    second: miror_2
+  - first:
+      213: -1674507135116269596
+    second: miror_3
+  - first:
+      213: 9034704472145278923
+    second: miror_4
+  - first:
+      213: -1233091658334843007
+    second: miror_5
+  - first:
+      213: -455947653828320706
+    second: miror_6
+  - first:
+      213: 6152641913791742346
+    second: miror_7
+  - first:
+      213: -3562353230943416687
+    second: miror_8
+  - first:
+      213: -8862416575811111364
+    second: miror_9
+  - first:
+      213: 2079701474019015166
+    second: miror_10
+  - first:
+      213: 8390816781489810833
+    second: miror_11
+  - first:
+      213: 1118162813772892535
+    second: miror_12
+  - first:
+      213: 4793743332252605418
+    second: miror_13
+  - first:
+      213: 7205792287030958533
+    second: miror_14
+  - first:
+      213: 6099005948450985378
+    second: miror_15
+  - first:
+      213: -8944816384083227774
+    second: miror_16
+  - first:
+      213: -490130223103272443
+    second: miror_17
+  - first:
+      213: 2045741870767961417
+    second: miror_18
+  - first:
+      213: -997025854960760455
+    second: miror_19
+  - first:
+      213: -4127638896102540796
+    second: miror_20
+  - first:
+      213: 6300048220702159250
+    second: miror_21
+  - first:
+      213: 6170692904974803163
+    second: miror_22
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 1
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Android
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: iPhone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: miror_0
+      rect:
+        serializedVersion: 2
+        x: 45
+        y: 157
+        width: 15
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 30884a132f6aff760800000000000000
+      internalID: 7493891864112957443
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: miror_1
+      rect:
+        serializedVersion: 2
+        x: 67
+        y: 164
+        width: 15
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e3ca05a97b2bffb20800000000000000
+      internalID: 3170449164329856062
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: miror_2
+      rect:
+        serializedVersion: 2
+        x: 89
+        y: 165
+        width: 15
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 55193a523cdb97fb0800000000000000
+      internalID: -4649476494435577515
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: miror_3
+      rect:
+        serializedVersion: 2
+        x: 111
+        y: 160
+        width: 15
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4e7a98de1a4f2c8e0800000000000000
+      internalID: -1674507135116269596
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: miror_4
+      rect:
+        serializedVersion: 2
+        x: 131
+        y: 150
+        width: 15
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bc73ad879d7b16d70800000000000000
+      internalID: 9034704472145278923
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: miror_5
+      rect:
+        serializedVersion: 2
+        x: 27
+        y: 144
+        width: 15
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 18f44718bad23eee0800000000000000
+      internalID: -1233091658334843007
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: miror_6
+      rect:
+        serializedVersion: 2
+        x: 148
+        y: 135
+        width: 15
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e32e36946062ca9f0800000000000000
+      internalID: -455947653828320706
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: miror_7
+      rect:
+        serializedVersion: 2
+        x: 13
+        y: 127
+        width: 15
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a818cb5f833926550800000000000000
+      internalID: 6152641913791742346
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: miror_8
+      rect:
+        serializedVersion: 2
+        x: 159
+        y: 116
+        width: 15
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 19e07215c9aff8ec0800000000000000
+      internalID: -3562353230943416687
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: miror_9
+      rect:
+        serializedVersion: 2
+        x: 3
+        y: 106
+        width: 15
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c36be33541f520580800000000000000
+      internalID: -8862416575811111364
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: miror_10
+      rect:
+        serializedVersion: 2
+        x: 166
+        y: 94
+        width: 14
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ef972cdc8759cdc10800000000000000
+      internalID: 2079701474019015166
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: miror_11
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 84
+        width: 14
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 19d2614086b227470800000000000000
+      internalID: 8390816781489810833
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: miror_12
+      rect:
+        serializedVersion: 2
+        x: 166
+        y: 72
+        width: 14
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7790cf3a723848f00800000000000000
+      internalID: 1118162813772892535
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: miror_13
+      rect:
+        serializedVersion: 2
+        x: 1
+        y: 62
+        width: 15
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: aeb505f892cc68240800000000000000
+      internalID: 4793743332252605418
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: miror_14
+      rect:
+        serializedVersion: 2
+        x: 161
+        y: 50
+        width: 14
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5c9dab938ed100460800000000000000
+      internalID: 7205792287030958533
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: miror_15
+      rect:
+        serializedVersion: 2
+        x: 8
+        y: 41
+        width: 15
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2a55a60a89504a450800000000000000
+      internalID: 6099005948450985378
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: miror_16
+      rect:
+        serializedVersion: 2
+        x: 149
+        y: 31
+        width: 15
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 28b00ade3e0add380800000000000000
+      internalID: -8944816384083227774
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: miror_17
+      rect:
+        serializedVersion: 2
+        x: 22
+        y: 23
+        width: 15
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 50a1f3ea825b239f0800000000000000
+      internalID: -490130223103272443
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: miror_18
+      rect:
+        serializedVersion: 2
+        x: 40
+        y: 10
+        width: 15
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9457445846fe36c10800000000000000
+      internalID: 2045741870767961417
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: miror_19
+      rect:
+        serializedVersion: 2
+        x: 133
+        y: 15
+        width: 16
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9790f23744ad922f0800000000000000
+      internalID: -997025854960760455
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: miror_20
+      rect:
+        serializedVersion: 2
+        x: 61
+        y: 2
+        width: 15
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 40af8bc0b4ea7b6c0800000000000000
+      internalID: -4127638896102540796
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: miror_21
+      rect:
+        serializedVersion: 2
+        x: 83
+        y: 0
+        width: 24
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 291b8c64a744e6750800000000000000
+      internalID: 6300048220702159250
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: miror_22
+      rect:
+        serializedVersion: 2
+        x: 114
+        y: 4
+        width: 15
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bd0eb0bd084b2a550800000000000000
+      internalID: 6170692904974803163
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    nameFileIdTable:
+      miror_0: 7493891864112957443
+      miror_1: 3170449164329856062
+      miror_10: 2079701474019015166
+      miror_11: 8390816781489810833
+      miror_12: 1118162813772892535
+      miror_13: 4793743332252605418
+      miror_14: 7205792287030958533
+      miror_15: 6099005948450985378
+      miror_16: -8944816384083227774
+      miror_17: -490130223103272443
+      miror_18: 2045741870767961417
+      miror_19: -997025854960760455
+      miror_2: -4649476494435577515
+      miror_20: -4127638896102540796
+      miror_21: 6300048220702159250
+      miror_22: 6170692904974803163
+      miror_3: -1674507135116269596
+      miror_4: 9034704472145278923
+      miror_5: -1233091658334843007
+      miror_6: -455947653828320706
+      miror_7: 6152641913791742346
+      miror_8: -3562353230943416687
+      miror_9: -8862416575811111364
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

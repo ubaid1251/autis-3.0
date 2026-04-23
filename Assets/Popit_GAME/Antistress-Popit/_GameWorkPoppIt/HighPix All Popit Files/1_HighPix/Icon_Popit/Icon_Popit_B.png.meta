@@ -1,0 +1,1366 @@
+fileFormatVersion: 2
+guid: aaa9d54a0465197469993cd3b03b1537
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 2241217158929767775
+    second: Icon_Popit_B_0
+  - first:
+      213: 5796352423440389137
+    second: Icon_Popit_B_1
+  - first:
+      213: 5665561135747715100
+    second: Icon_Popit_B_2
+  - first:
+      213: 8965802830499851176
+    second: Icon_Popit_B_3
+  - first:
+      213: -5927716740595620421
+    second: Icon_Popit_B_4
+  - first:
+      213: -587614425471501148
+    second: Icon_Popit_B_5
+  - first:
+      213: 8306544430682243986
+    second: Icon_Popit_B_6
+  - first:
+      213: 8226146448120004394
+    second: Icon_Popit_B_7
+  - first:
+      213: -7046792370184449876
+    second: Icon_Popit_B_8
+  - first:
+      213: 9205842775521845611
+    second: Icon_Popit_B_9
+  - first:
+      213: -4554665278593809867
+    second: Icon_Popit_B_10
+  - first:
+      213: -8768102241762402773
+    second: Icon_Popit_B_11
+  - first:
+      213: -5795322925144598984
+    second: Icon_Popit_B_12
+  - first:
+      213: -2604683163392167948
+    second: Icon_Popit_B_13
+  - first:
+      213: 4306770513737545761
+    second: Icon_Popit_B_14
+  - first:
+      213: -7959871988697355134
+    second: Icon_Popit_B_15
+  - first:
+      213: -3971744221693660247
+    second: Icon_Popit_B_16
+  - first:
+      213: -5366205628146657067
+    second: Icon_Popit_B_17
+  - first:
+      213: -4516106953401449827
+    second: Icon_Popit_B_18
+  - first:
+      213: 7200829762625397395
+    second: Icon_Popit_B_19
+  - first:
+      213: -4118265226538314120
+    second: Icon_Popit_B_20
+  - first:
+      213: 7249579630163778066
+    second: Icon_Popit_B_21
+  - first:
+      213: -5783307007329505148
+    second: Icon_Popit_B_22
+  - first:
+      213: 2696189778866060473
+    second: Icon_Popit_B_23
+  - first:
+      213: 8549652974954064406
+    second: Icon_Popit_B_24
+  - first:
+      213: 7638455714514681737
+    second: Icon_Popit_B_25
+  - first:
+      213: 1384478331015381945
+    second: Icon_Popit_B_26
+  - first:
+      213: 4660373099542524613
+    second: Icon_Popit_B_27
+  - first:
+      213: 8722209449642255267
+    second: Icon_Popit_B_28
+  - first:
+      213: 7016791122216684262
+    second: Icon_Popit_B_29
+  - first:
+      213: 7671988166809808048
+    second: Icon_Popit_B_30
+  - first:
+      213: 8485231963188374099
+    second: Icon_Popit_B_31
+  - first:
+      213: 8994917032312045477
+    second: Icon_Popit_B_32
+  - first:
+      213: 5692703643876163237
+    second: Icon_Popit_B_33
+  - first:
+      213: -7409806141373763647
+    second: Icon_Popit_B_34
+  - first:
+      213: -5292345249154138353
+    second: Icon_Popit_B_35
+  - first:
+      213: -4045923451377408795
+    second: Icon_Popit_B_36
+  - first:
+      213: -4983841851870900947
+    second: Icon_Popit_B_37
+  - first:
+      213: 7160450216999110060
+    second: Icon_Popit_B_38
+  - first:
+      213: 5598305665604816975
+    second: Icon_Popit_B_39
+  - first:
+      213: 182295978492977248
+    second: Icon_Popit_B_40
+  - first:
+      213: -26648749634322580
+    second: Icon_Popit_B_41
+  - first:
+      213: -1421935253460667444
+    second: Icon_Popit_B_42
+  - first:
+      213: -4020125441065159744
+    second: Icon_Popit_B_43
+  - first:
+      213: 4260701535067546391
+    second: Icon_Popit_B_44
+  - first:
+      213: 4828134531342675812
+    second: Icon_Popit_B_45
+  - first:
+      213: 4713624821615457362
+    second: Icon_Popit_B_46
+  - first:
+      213: 8062003684203882563
+    second: Icon_Popit_B_47
+  externalObjects: {}
+  serializedVersion: 12
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 2
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 0
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 1
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 1024
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 1024
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: iPhone
+    maxTextureSize: 1024
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Android
+    maxTextureSize: 1024
+    resizeAlgorithm: 0
+    textureFormat: 49
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 1
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Windows Store Apps
+    maxTextureSize: 8192
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Server
+    maxTextureSize: 1024
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: Icon_Popit_B_0
+      rect:
+        serializedVersion: 2
+        x: 82
+        y: 721
+        width: 65
+        height: 67
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f5dd48ea1276a1f10800000000000000
+      internalID: 2241217158929767775
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Icon_Popit_B_1
+      rect:
+        serializedVersion: 2
+        x: 169
+        y: 721
+        width: 64
+        height: 67
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 114932891d7c07050800000000000000
+      internalID: 5796352423440389137
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Icon_Popit_B_2
+      rect:
+        serializedVersion: 2
+        x: 263
+        y: 721
+        width: 64
+        height: 67
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c105085e5dd10ae40800000000000000
+      internalID: 5665561135747715100
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Icon_Popit_B_3
+      rect:
+        serializedVersion: 2
+        x: 352
+        y: 721
+        width: 64
+        height: 67
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8aba226eb2eec6c70800000000000000
+      internalID: 8965802830499851176
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Icon_Popit_B_4
+      rect:
+        serializedVersion: 2
+        x: 440
+        y: 721
+        width: 65
+        height: 67
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bb569a3e7058cbda0800000000000000
+      internalID: -5927716740595620421
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Icon_Popit_B_5
+      rect:
+        serializedVersion: 2
+        x: 530
+        y: 721
+        width: 66
+        height: 67
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4ac30e81bcf58d7f0800000000000000
+      internalID: -587614425471501148
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Icon_Popit_B_6
+      rect:
+        serializedVersion: 2
+        x: 82
+        y: 630
+        width: 65
+        height: 65
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 29380d55626c64370800000000000000
+      internalID: 8306544430682243986
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Icon_Popit_B_7
+      rect:
+        serializedVersion: 2
+        x: 169
+        y: 630
+        width: 64
+        height: 65
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a2fb88e4c94292270800000000000000
+      internalID: 8226146448120004394
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Icon_Popit_B_8
+      rect:
+        serializedVersion: 2
+        x: 263
+        y: 630
+        width: 64
+        height: 65
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ca01931cca3c43e90800000000000000
+      internalID: -7046792370184449876
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Icon_Popit_B_9
+      rect:
+        serializedVersion: 2
+        x: 352
+        y: 630
+        width: 64
+        height: 65
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b61631dca39b1cf70800000000000000
+      internalID: 9205842775521845611
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Icon_Popit_B_10
+      rect:
+        serializedVersion: 2
+        x: 440
+        y: 630
+        width: 65
+        height: 65
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5324c9e8f049ac0c0800000000000000
+      internalID: -4554665278593809867
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Icon_Popit_B_11
+      rect:
+        serializedVersion: 2
+        x: 530
+        y: 630
+        width: 66
+        height: 65
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b2e127d6771715680800000000000000
+      internalID: -8768102241762402773
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Icon_Popit_B_12
+      rect:
+        serializedVersion: 2
+        x: 82
+        y: 542
+        width: 65
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 83614182180e29fa0800000000000000
+      internalID: -5795322925144598984
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Icon_Popit_B_13
+      rect:
+        serializedVersion: 2
+        x: 169
+        y: 542
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4ffa19d867e4adbd0800000000000000
+      internalID: -2604683163392167948
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Icon_Popit_B_14
+      rect:
+        serializedVersion: 2
+        x: 263
+        y: 542
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 128f378c6f8b4cb30800000000000000
+      internalID: 4306770513737545761
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Icon_Popit_B_15
+      rect:
+        serializedVersion: 2
+        x: 352
+        y: 542
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 28cac18799ad88190800000000000000
+      internalID: -7959871988697355134
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Icon_Popit_B_16
+      rect:
+        serializedVersion: 2
+        x: 440
+        y: 542
+        width: 65
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9a33d3f6ca781e8c0800000000000000
+      internalID: -3971744221693660247
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Icon_Popit_B_17
+      rect:
+        serializedVersion: 2
+        x: 530
+        y: 542
+        width: 66
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5d8dd9e99686785b0800000000000000
+      internalID: -5366205628146657067
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Icon_Popit_B_18
+      rect:
+        serializedVersion: 2
+        x: 82
+        y: 450
+        width: 65
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d92c5da37a09351c0800000000000000
+      internalID: -4516106953401449827
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Icon_Popit_B_19
+      rect:
+        serializedVersion: 2
+        x: 169
+        y: 451
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 392e859748c7ee360800000000000000
+      internalID: 7200829762625397395
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Icon_Popit_B_20
+      rect:
+        serializedVersion: 2
+        x: 263
+        y: 451
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8761751989bf8d6c0800000000000000
+      internalID: -4118265226538314120
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Icon_Popit_B_21
+      rect:
+        serializedVersion: 2
+        x: 352
+        y: 451
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 21ad1d2834eab9460800000000000000
+      internalID: 7249579630163778066
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Icon_Popit_B_22
+      rect:
+        serializedVersion: 2
+        x: 440
+        y: 451
+        width: 65
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 480f8190be09dbfa0800000000000000
+      internalID: -5783307007329505148
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Icon_Popit_B_23
+      rect:
+        serializedVersion: 2
+        x: 530
+        y: 451
+        width: 66
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9bcb950a15aca6520800000000000000
+      internalID: 2696189778866060473
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Icon_Popit_B_24
+      rect:
+        serializedVersion: 2
+        x: 82
+        y: 361
+        width: 65
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 61aaffc251876a670800000000000000
+      internalID: 8549652974954064406
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Icon_Popit_B_25
+      rect:
+        serializedVersion: 2
+        x: 169
+        y: 361
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 98f3338800f310a60800000000000000
+      internalID: 7638455714514681737
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Icon_Popit_B_26
+      rect:
+        serializedVersion: 2
+        x: 263
+        y: 361
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9b3c56fe4b7a63310800000000000000
+      internalID: 1384478331015381945
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Icon_Popit_B_27
+      rect:
+        serializedVersion: 2
+        x: 352
+        y: 361
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5c2b40f64a8fca040800000000000000
+      internalID: 4660373099542524613
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Icon_Popit_B_28
+      rect:
+        serializedVersion: 2
+        x: 440
+        y: 361
+        width: 65
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3a36b7e38438b0970800000000000000
+      internalID: 8722209449642255267
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Icon_Popit_B_29
+      rect:
+        serializedVersion: 2
+        x: 530
+        y: 361
+        width: 66
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6ea07de5956a06160800000000000000
+      internalID: 7016791122216684262
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Icon_Popit_B_30
+      rect:
+        serializedVersion: 2
+        x: 82
+        y: 270
+        width: 65
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0bce2bbf690687a60800000000000000
+      internalID: 7671988166809808048
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Icon_Popit_B_31
+      rect:
+        serializedVersion: 2
+        x: 169
+        y: 270
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 35a22aa838991c570800000000000000
+      internalID: 8485231963188374099
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Icon_Popit_B_32
+      rect:
+        serializedVersion: 2
+        x: 263
+        y: 270
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5aff11f326d54dc70800000000000000
+      internalID: 8994917032312045477
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Icon_Popit_B_33
+      rect:
+        serializedVersion: 2
+        x: 352
+        y: 270
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5ae7fc88dcb800f40800000000000000
+      internalID: 5692703643876163237
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Icon_Popit_B_34
+      rect:
+        serializedVersion: 2
+        x: 440
+        y: 270
+        width: 65
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1cfa8e0c2941b2990800000000000000
+      internalID: -7409806141373763647
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Icon_Popit_B_35
+      rect:
+        serializedVersion: 2
+        x: 530
+        y: 270
+        width: 66
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f0ff0733900dd86b0800000000000000
+      internalID: -5292345249154138353
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Icon_Popit_B_36
+      rect:
+        serializedVersion: 2
+        x: 82
+        y: 180
+        width: 65
+        height: 66
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5e42a34ae0ef9d7c0800000000000000
+      internalID: -4045923451377408795
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Icon_Popit_B_37
+      rect:
+        serializedVersion: 2
+        x: 169
+        y: 180
+        width: 64
+        height: 66
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d2d8282cd36d5dab0800000000000000
+      internalID: -4983841851870900947
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Icon_Popit_B_38
+      rect:
+        serializedVersion: 2
+        x: 263
+        y: 180
+        width: 64
+        height: 66
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ca5c910e8870f5360800000000000000
+      internalID: 7160450216999110060
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Icon_Popit_B_39
+      rect:
+        serializedVersion: 2
+        x: 352
+        y: 180
+        width: 64
+        height: 66
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f409e6e775d21bd40800000000000000
+      internalID: 5598305665604816975
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Icon_Popit_B_40
+      rect:
+        serializedVersion: 2
+        x: 440
+        y: 180
+        width: 65
+        height: 66
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0606e020a35a78200800000000000000
+      internalID: 182295978492977248
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Icon_Popit_B_41
+      rect:
+        serializedVersion: 2
+        x: 530
+        y: 180
+        width: 66
+        height: 66
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c6f76587a1351aff0800000000000000
+      internalID: -26648749634322580
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Icon_Popit_B_42
+      rect:
+        serializedVersion: 2
+        x: 82
+        y: 88
+        width: 65
+        height: 68
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cc33fd3bb65444ce0800000000000000
+      internalID: -1421935253460667444
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Icon_Popit_B_43
+      rect:
+        serializedVersion: 2
+        x: 169
+        y: 88
+        width: 64
+        height: 68
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0c3fcccf535a538c0800000000000000
+      internalID: -4020125441065159744
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Icon_Popit_B_44
+      rect:
+        serializedVersion: 2
+        x: 263
+        y: 88
+        width: 64
+        height: 68
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 713a9a3d87d012b30800000000000000
+      internalID: 4260701535067546391
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Icon_Popit_B_45
+      rect:
+        serializedVersion: 2
+        x: 352
+        y: 88
+        width: 64
+        height: 68
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 46f2a7496caf00340800000000000000
+      internalID: 4828134531342675812
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Icon_Popit_B_46
+      rect:
+        serializedVersion: 2
+        x: 440
+        y: 88
+        width: 65
+        height: 68
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2547ad82dc82a6140800000000000000
+      internalID: 4713624821615457362
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Icon_Popit_B_47
+      rect:
+        serializedVersion: 2
+        x: 530
+        y: 88
+        width: 66
+        height: 68
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 348ecdee2adf1ef60800000000000000
+      internalID: 8062003684203882563
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 45f5f1938736bd04d92437735031e033
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    nameFileIdTable:
+      Icon_Popit_B_0: 2241217158929767775
+      Icon_Popit_B_1: 5796352423440389137
+      Icon_Popit_B_10: -4554665278593809867
+      Icon_Popit_B_11: -8768102241762402773
+      Icon_Popit_B_12: -5795322925144598984
+      Icon_Popit_B_13: -2604683163392167948
+      Icon_Popit_B_14: 4306770513737545761
+      Icon_Popit_B_15: -7959871988697355134
+      Icon_Popit_B_16: -3971744221693660247
+      Icon_Popit_B_17: -5366205628146657067
+      Icon_Popit_B_18: -4516106953401449827
+      Icon_Popit_B_19: 7200829762625397395
+      Icon_Popit_B_2: 5665561135747715100
+      Icon_Popit_B_20: -4118265226538314120
+      Icon_Popit_B_21: 7249579630163778066
+      Icon_Popit_B_22: -5783307007329505148
+      Icon_Popit_B_23: 2696189778866060473
+      Icon_Popit_B_24: 8549652974954064406
+      Icon_Popit_B_25: 7638455714514681737
+      Icon_Popit_B_26: 1384478331015381945
+      Icon_Popit_B_27: 4660373099542524613
+      Icon_Popit_B_28: 8722209449642255267
+      Icon_Popit_B_29: 7016791122216684262
+      Icon_Popit_B_3: 8965802830499851176
+      Icon_Popit_B_30: 7671988166809808048
+      Icon_Popit_B_31: 8485231963188374099
+      Icon_Popit_B_32: 8994917032312045477
+      Icon_Popit_B_33: 5692703643876163237
+      Icon_Popit_B_34: -7409806141373763647
+      Icon_Popit_B_35: -5292345249154138353
+      Icon_Popit_B_36: -4045923451377408795
+      Icon_Popit_B_37: -4983841851870900947
+      Icon_Popit_B_38: 7160450216999110060
+      Icon_Popit_B_39: 5598305665604816975
+      Icon_Popit_B_4: -5927716740595620421
+      Icon_Popit_B_40: 182295978492977248
+      Icon_Popit_B_41: -26648749634322580
+      Icon_Popit_B_42: -1421935253460667444
+      Icon_Popit_B_43: -4020125441065159744
+      Icon_Popit_B_44: 4260701535067546391
+      Icon_Popit_B_45: 4828134531342675812
+      Icon_Popit_B_46: 4713624821615457362
+      Icon_Popit_B_47: 8062003684203882563
+      Icon_Popit_B_5: -587614425471501148
+      Icon_Popit_B_6: 8306544430682243986
+      Icon_Popit_B_7: 8226146448120004394
+      Icon_Popit_B_8: -7046792370184449876
+      Icon_Popit_B_9: 9205842775521845611
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

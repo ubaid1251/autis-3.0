@@ -1,0 +1,2991 @@
+fileFormatVersion: 2
+guid: 1069e9a0f09c23e47b8612afef8bea45
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 7445626743406363761
+    second: katty_Popit_B_0
+  - first:
+      213: -442393538860423197
+    second: katty_Popit_B_1
+  - first:
+      213: -1466966716336649382
+    second: katty_Popit_B_2
+  - first:
+      213: -7685315119010677656
+    second: katty_Popit_B_3
+  - first:
+      213: -3994085520749997438
+    second: katty_Popit_B_4
+  - first:
+      213: 6613430819681223266
+    second: katty_Popit_B_5
+  - first:
+      213: -8540070557566640135
+    second: katty_Popit_B_6
+  - first:
+      213: 2423637354238009531
+    second: katty_Popit_B_7
+  - first:
+      213: 8879230690243748042
+    second: katty_Popit_B_8
+  - first:
+      213: 2177818301167105784
+    second: katty_Popit_B_9
+  - first:
+      213: 438462421076406949
+    second: katty_Popit_B_10
+  - first:
+      213: 4163573056838858413
+    second: katty_Popit_B_11
+  - first:
+      213: -1624296850192100415
+    second: katty_Popit_B_12
+  - first:
+      213: -3941326147020454101
+    second: katty_Popit_B_13
+  - first:
+      213: 5946862004800780073
+    second: katty_Popit_B_14
+  - first:
+      213: -5991021867928467437
+    second: katty_Popit_B_15
+  - first:
+      213: -5309986348047545508
+    second: katty_Popit_B_16
+  - first:
+      213: 6057686090555717580
+    second: katty_Popit_B_17
+  - first:
+      213: 8818563746389895462
+    second: katty_Popit_B_18
+  - first:
+      213: -8740631841867366319
+    second: katty_Popit_B_19
+  - first:
+      213: 26617173797197059
+    second: katty_Popit_B_20
+  - first:
+      213: 71512481176444829
+    second: katty_Popit_B_21
+  - first:
+      213: -1424698931683914625
+    second: katty_Popit_B_22
+  - first:
+      213: 7936197513707029489
+    second: katty_Popit_B_23
+  - first:
+      213: -3800042366263872663
+    second: katty_Popit_B_24
+  - first:
+      213: 7481447154472690117
+    second: katty_Popit_B_25
+  - first:
+      213: -3330627227609122949
+    second: katty_Popit_B_26
+  - first:
+      213: 173886487965016712
+    second: katty_Popit_B_27
+  - first:
+      213: -8066314309715623067
+    second: katty_Popit_B_28
+  - first:
+      213: -2342188203028985158
+    second: katty_Popit_B_29
+  - first:
+      213: 7735321238200632684
+    second: katty_Popit_B_30
+  - first:
+      213: 3059836776000884569
+    second: katty_Popit_B_31
+  - first:
+      213: 7002968697850146724
+    second: katty_Popit_B_32
+  - first:
+      213: -4867599693423839503
+    second: katty_Popit_B_33
+  - first:
+      213: -3321191499057563835
+    second: katty_Popit_B_34
+  - first:
+      213: -3193342257967385450
+    second: katty_Popit_B_35
+  - first:
+      213: 1045645036402402817
+    second: katty_Popit_B_36
+  - first:
+      213: -4922959529938832810
+    second: katty_Popit_B_37
+  - first:
+      213: 2423655424640768505
+    second: katty_Popit_B_38
+  - first:
+      213: 8019167513725263369
+    second: katty_Popit_B_39
+  - first:
+      213: -3668648355465492509
+    second: katty_Popit_B_40
+  - first:
+      213: 8102700873867501656
+    second: katty_Popit_B_41
+  - first:
+      213: -287423583958696958
+    second: katty_Popit_B_42
+  - first:
+      213: -4716065883543968672
+    second: katty_Popit_B_43
+  - first:
+      213: 6121454686533319248
+    second: katty_Popit_B_44
+  - first:
+      213: 5503321348096623895
+    second: katty_Popit_B_45
+  - first:
+      213: -4986487783284026630
+    second: katty_Popit_B_46
+  - first:
+      213: -7888861653234752994
+    second: katty_Popit_B_47
+  - first:
+      213: -3670297710954593088
+    second: katty_Popit_B_48
+  - first:
+      213: 8797057584375760868
+    second: katty_Popit_B_49
+  - first:
+      213: 3280944324719811490
+    second: katty_Popit_B_50
+  - first:
+      213: -6649620699030579752
+    second: katty_Popit_B_51
+  - first:
+      213: 7981164751305331763
+    second: katty_Popit_B_52
+  - first:
+      213: -3547979695121615997
+    second: katty_Popit_B_53
+  - first:
+      213: 3323634351909466518
+    second: katty_Popit_B_54
+  - first:
+      213: 1752896343024067615
+    second: katty_Popit_B_55
+  - first:
+      213: -3967863544656854195
+    second: katty_Popit_B_56
+  - first:
+      213: 6249618231732489471
+    second: katty_Popit_B_57
+  - first:
+      213: 4523425608817255977
+    second: katty_Popit_B_58
+  - first:
+      213: 3127374163903357075
+    second: katty_Popit_B_59
+  - first:
+      213: -3599457147803950052
+    second: katty_Popit_B_60
+  - first:
+      213: 4240462458832741544
+    second: katty_Popit_B_61
+  - first:
+      213: 97492730380209918
+    second: katty_Popit_B_62
+  - first:
+      213: -7593661778339223681
+    second: katty_Popit_B_63
+  - first:
+      213: 770702316317147803
+    second: katty_Popit_B_64
+  - first:
+      213: 9140331034895040379
+    second: katty_Popit_B_65
+  - first:
+      213: -6714904778195980994
+    second: katty_Popit_B_66
+  - first:
+      213: -5952246921232197121
+    second: katty_Popit_B_67
+  - first:
+      213: 2197143225548474799
+    second: katty_Popit_B_68
+  - first:
+      213: -8390143142977410542
+    second: katty_Popit_B_69
+  - first:
+      213: 3112392846546202105
+    second: katty_Popit_B_70
+  - first:
+      213: 5040850454374871924
+    second: katty_Popit_B_71
+  - first:
+      213: -8404299297349115698
+    second: katty_Popit_B_72
+  - first:
+      213: 789077888653458883
+    second: katty_Popit_B_73
+  - first:
+      213: 1900008099165032500
+    second: katty_Popit_B_74
+  - first:
+      213: 3127399308539893837
+    second: katty_Popit_B_75
+  - first:
+      213: 1223839878955599652
+    second: katty_Popit_B_76
+  - first:
+      213: 6169139665079389181
+    second: katty_Popit_B_77
+  - first:
+      213: 1772424787593651747
+    second: katty_Popit_B_78
+  - first:
+      213: 8453389977571548451
+    second: katty_Popit_B_79
+  - first:
+      213: 2400716107121548508
+    second: katty_Popit_B_80
+  - first:
+      213: 2581922586315001694
+    second: katty_Popit_B_81
+  - first:
+      213: -5692073967537537514
+    second: katty_Popit_B_82
+  - first:
+      213: -1346196580794471166
+    second: katty_Popit_B_83
+  - first:
+      213: 9109724669554086787
+    second: katty_Popit_B_84
+  - first:
+      213: -6293306872506925853
+    second: katty_Popit_B_85
+  - first:
+      213: -341593145316246243
+    second: katty_Popit_B_86
+  - first:
+      213: 2493961710701497526
+    second: katty_Popit_B_87
+  - first:
+      213: -237755902752484097
+    second: katty_Popit_B_88
+  - first:
+      213: -7641113550310268964
+    second: katty_Popit_B_89
+  - first:
+      213: 5822446596992170643
+    second: katty_Popit_B_90
+  - first:
+      213: 668371644989443794
+    second: katty_Popit_B_91
+  - first:
+      213: 5293880999123979086
+    second: katty_Popit_B_92
+  - first:
+      213: 42700543061443876
+    second: katty_Popit_B_93
+  - first:
+      213: -8541957925709711448
+    second: katty_Popit_B_94
+  - first:
+      213: 605004202252695152
+    second: katty_Popit_B_95
+  - first:
+      213: -8874172931531006332
+    second: katty_Popit_B_96
+  - first:
+      213: -1784895101956572183
+    second: katty_Popit_B_97
+  - first:
+      213: -4380248234264226258
+    second: katty_Popit_B_98
+  - first:
+      213: 8358681058164626806
+    second: katty_Popit_B_99
+  - first:
+      213: -7342227202356914255
+    second: katty_Popit_B_100
+  - first:
+      213: 2944918418341507668
+    second: katty_Popit_B_101
+  - first:
+      213: -8872651405751096771
+    second: katty_Popit_B_102
+  - first:
+      213: 400272121461813971
+    second: katty_Popit_B_103
+  - first:
+      213: -8258703088463628958
+    second: katty_Popit_B_104
+  - first:
+      213: -6473685116748720589
+    second: katty_Popit_B_105
+  - first:
+      213: -3591376896888166529
+    second: katty_Popit_B_106
+  - first:
+      213: -4484026398477735180
+    second: katty_Popit_B_107
+  - first:
+      213: 1632642053761097234
+    second: katty_Popit_B_108
+  - first:
+      213: -75350441678052370
+    second: katty_Popit_B_109
+  - first:
+      213: 4061838848269827723
+    second: katty_Popit_B_110
+  - first:
+      213: 7563475158269070740
+    second: katty_Popit_B_111
+  - first:
+      213: -1073279402690327501
+    second: katty_Popit_B_112
+  externalObjects: {}
+  serializedVersion: 12
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 2
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 0
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 1
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 1024
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 1024
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: iPhone
+    maxTextureSize: 1024
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Android
+    maxTextureSize: 1024
+    resizeAlgorithm: 0
+    textureFormat: 49
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 1
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Windows Store Apps
+    maxTextureSize: 8192
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Server
+    maxTextureSize: 1024
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: katty_Popit_B_0
+      rect:
+        serializedVersion: 2
+        x: 142
+        y: 748
+        width: 37
+        height: 38
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 17482e2131e245760800000000000000
+      internalID: 7445626743406363761
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: katty_Popit_B_1
+      rect:
+        serializedVersion: 2
+        x: 395
+        y: 720
+        width: 37
+        height: 39
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3e7eb499b6d4cd9f0800000000000000
+      internalID: -442393538860423197
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: katty_Popit_B_2
+      rect:
+        serializedVersion: 2
+        x: 488
+        y: 728
+        width: 37
+        height: 39
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a5bce673b8944abe0800000000000000
+      internalID: -1466966716336649382
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: katty_Popit_B_3
+      rect:
+        serializedVersion: 2
+        x: 117
+        y: 700
+        width: 35
+        height: 36
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 86cfd682e96485590800000000000000
+      internalID: -7685315119010677656
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: katty_Popit_B_4
+      rect:
+        serializedVersion: 2
+        x: 162
+        y: 700
+        width: 34
+        height: 36
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2825a2561682298c0800000000000000
+      internalID: -3994085520749997438
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: katty_Popit_B_5
+      rect:
+        serializedVersion: 2
+        x: 208
+        y: 700
+        width: 34
+        height: 35
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 26248b18a40a7cb50800000000000000
+      internalID: 6613430819681223266
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: katty_Popit_B_6
+      rect:
+        serializedVersion: 2
+        x: 255
+        y: 700
+        width: 33
+        height: 35
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9ffd77b33139b7980800000000000000
+      internalID: -8540070557566640135
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: katty_Popit_B_7
+      rect:
+        serializedVersion: 2
+        x: 300
+        y: 701
+        width: 33
+        height: 36
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bb069bb255d72a120800000000000000
+      internalID: 2423637354238009531
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: katty_Popit_B_8
+      rect:
+        serializedVersion: 2
+        x: 458
+        y: 666
+        width: 50
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ac0a9b2c44d593b70800000000000000
+      internalID: 8879230690243748042
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: katty_Popit_B_9
+      rect:
+        serializedVersion: 2
+        x: 528
+        y: 702
+        width: 38
+        height: 39
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8f6f862d43a293e10800000000000000
+      internalID: 2177818301167105784
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: katty_Popit_B_10
+      rect:
+        serializedVersion: 2
+        x: 123
+        y: 657
+        width: 34
+        height: 35
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5a2fd97bf3bb51600800000000000000
+      internalID: 438462421076406949
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: katty_Popit_B_11
+      rect:
+        serializedVersion: 2
+        x: 166
+        y: 657
+        width: 33
+        height: 35
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: da67449b2abf7c930800000000000000
+      internalID: 4163573056838858413
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: katty_Popit_B_12
+      rect:
+        serializedVersion: 2
+        x: 209
+        y: 657
+        width: 33
+        height: 35
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1c39382ee965579e0800000000000000
+      internalID: -1624296850192100415
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: katty_Popit_B_13
+      rect:
+        serializedVersion: 2
+        x: 253
+        y: 657
+        width: 33
+        height: 35
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b2703e650c89d49c0800000000000000
+      internalID: -3941326147020454101
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: katty_Popit_B_14
+      rect:
+        serializedVersion: 2
+        x: 294
+        y: 658
+        width: 33
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 927fa6c4c7f778250800000000000000
+      internalID: 5946862004800780073
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: katty_Popit_B_15
+      rect:
+        serializedVersion: 2
+        x: 350
+        y: 657
+        width: 36
+        height: 37
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 318c6885a5d9bdca0800000000000000
+      internalID: -5991021867928467437
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: katty_Popit_B_16
+      rect:
+        serializedVersion: 2
+        x: 401
+        y: 658
+        width: 36
+        height: 37
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c5bc37acc832f46b0800000000000000
+      internalID: -5309986348047545508
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: katty_Popit_B_17
+      rect:
+        serializedVersion: 2
+        x: 523
+        y: 653
+        width: 38
+        height: 38
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cc7f5648769311450800000000000000
+      internalID: 6057686090555717580
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: katty_Popit_B_18
+      rect:
+        serializedVersion: 2
+        x: 104
+        y: 613
+        width: 34
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 62925bc2105d16a70800000000000000
+      internalID: 8818563746389895462
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: katty_Popit_B_19
+      rect:
+        serializedVersion: 2
+        x: 145
+        y: 613
+        width: 34
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 150070156a903b680800000000000000
+      internalID: -8740631841867366319
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: katty_Popit_B_20
+      rect:
+        serializedVersion: 2
+        x: 187
+        y: 613
+        width: 34
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3055b15bd209e5000800000000000000
+      internalID: 26617173797197059
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: katty_Popit_B_21
+      rect:
+        serializedVersion: 2
+        x: 229
+        y: 613
+        width: 33
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d9f578509301ef000800000000000000
+      internalID: 71512481176444829
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: katty_Popit_B_22
+      rect:
+        serializedVersion: 2
+        x: 270
+        y: 613
+        width: 33
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f7c0a19bed37a3ce0800000000000000
+      internalID: -1424698931683914625
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: katty_Popit_B_23
+      rect:
+        serializedVersion: 2
+        x: 311
+        y: 613
+        width: 34
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1f388d74799032e60800000000000000
+      internalID: 7936197513707029489
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: katty_Popit_B_24
+      rect:
+        serializedVersion: 2
+        x: 438
+        y: 615
+        width: 36
+        height: 38
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9633863f999834bc0800000000000000
+      internalID: -3800042366263872663
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: katty_Popit_B_25
+      rect:
+        serializedVersion: 2
+        x: 460
+        y: 579
+        width: 37
+        height: 37
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5c1a3307c8073d760800000000000000
+      internalID: 7481447154472690117
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: katty_Popit_B_26
+      rect:
+        serializedVersion: 2
+        x: 486
+        y: 614
+        width: 37
+        height: 38
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b773d13de2c37c1d0800000000000000
+      internalID: -3330627227609122949
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: katty_Popit_B_27
+      rect:
+        serializedVersion: 2
+        x: 545
+        y: 614
+        width: 38
+        height: 37
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 882256ae6d4c96200800000000000000
+      internalID: 173886487965016712
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: katty_Popit_B_28
+      rect:
+        serializedVersion: 2
+        x: 88
+        y: 569
+        width: 35
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 56300ca5fd1be0090800000000000000
+      internalID: -8066314309715623067
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: katty_Popit_B_29
+      rect:
+        serializedVersion: 2
+        x: 129
+        y: 569
+        width: 35
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: abac8512d30ee7fd0800000000000000
+      internalID: -2342188203028985158
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: katty_Popit_B_30
+      rect:
+        serializedVersion: 2
+        x: 171
+        y: 569
+        width: 34
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c65cb72cea1695b60800000000000000
+      internalID: 7735321238200632684
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: katty_Popit_B_31
+      rect:
+        serializedVersion: 2
+        x: 213
+        y: 569
+        width: 34
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 95f85380659b67a20800000000000000
+      internalID: 3059836776000884569
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: katty_Popit_B_32
+      rect:
+        serializedVersion: 2
+        x: 255
+        y: 569
+        width: 33
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4afa9886dea8f2160800000000000000
+      internalID: 7002968697850146724
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: katty_Popit_B_33
+      rect:
+        serializedVersion: 2
+        x: 296
+        y: 569
+        width: 33
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1f6fba45edfc27cb0800000000000000
+      internalID: -4867599693423839503
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: katty_Popit_B_34
+      rect:
+        serializedVersion: 2
+        x: 339
+        y: 566
+        width: 33
+        height: 33
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 54770a39de1c8e1d0800000000000000
+      internalID: -3321191499057563835
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: katty_Popit_B_35
+      rect:
+        serializedVersion: 2
+        x: 380
+        y: 569
+        width: 34
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6943c9ba228fea3d0800000000000000
+      internalID: -3193342257967385450
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: katty_Popit_B_36
+      rect:
+        serializedVersion: 2
+        x: 570
+        y: 569
+        width: 35
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1066aebde90e28e00800000000000000
+      internalID: 1045645036402402817
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: katty_Popit_B_37
+      rect:
+        serializedVersion: 2
+        x: 97
+        y: 525
+        width: 35
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6523f56f3622eabb0800000000000000
+      internalID: -4922959529938832810
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: katty_Popit_B_38
+      rect:
+        serializedVersion: 2
+        x: 143
+        y: 525
+        width: 35
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9f959a384cd82a120800000000000000
+      internalID: 2423655424640768505
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: katty_Popit_B_39
+      rect:
+        serializedVersion: 2
+        x: 231
+        y: 525
+        width: 34
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 90e52f9cd5ec94f60800000000000000
+      internalID: 8019167513725263369
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: katty_Popit_B_40
+      rect:
+        serializedVersion: 2
+        x: 273
+        y: 525
+        width: 34
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3e788ae02c7561dc0800000000000000
+      internalID: -3668648355465492509
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: katty_Popit_B_41
+      rect:
+        serializedVersion: 2
+        x: 314
+        y: 525
+        width: 34
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 850ae1cc383927070800000000000000
+      internalID: 8102700873867501656
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: katty_Popit_B_42
+      rect:
+        serializedVersion: 2
+        x: 356
+        y: 525
+        width: 33
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 20c7212f5cdd20cf0800000000000000
+      internalID: -287423583958696958
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: katty_Popit_B_43
+      rect:
+        serializedVersion: 2
+        x: 399
+        y: 525
+        width: 33
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 064e502d01b2d8eb0800000000000000
+      internalID: -4716065883543968672
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: katty_Popit_B_44
+      rect:
+        serializedVersion: 2
+        x: 440
+        y: 525
+        width: 34
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 05af773ca96c3f450800000000000000
+      internalID: 6121454686533319248
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: katty_Popit_B_45
+      rect:
+        serializedVersion: 2
+        x: 535
+        y: 525
+        width: 34
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7158f16bb99bf5c40800000000000000
+      internalID: 5503321348096623895
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: katty_Popit_B_46
+      rect:
+        serializedVersion: 2
+        x: 576
+        y: 525
+        width: 35
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: af2d788d7cf6ccab0800000000000000
+      internalID: -4986487783284026630
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: katty_Popit_B_47
+      rect:
+        serializedVersion: 2
+        x: 97
+        y: 479
+        width: 35
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e12edb49f12258290800000000000000
+      internalID: -7888861653234752994
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: katty_Popit_B_48
+      rect:
+        serializedVersion: 2
+        x: 143
+        y: 479
+        width: 35
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0c44f9e8dab701dc0800000000000000
+      internalID: -3670297710954593088
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: katty_Popit_B_49
+      rect:
+        serializedVersion: 2
+        x: 231
+        y: 479
+        width: 34
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4e78f51a34d651a70800000000000000
+      internalID: 8797057584375760868
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: katty_Popit_B_50
+      rect:
+        serializedVersion: 2
+        x: 273
+        y: 479
+        width: 34
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2ab12caea71488d20800000000000000
+      internalID: 3280944324719811490
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: katty_Popit_B_51
+      rect:
+        serializedVersion: 2
+        x: 314
+        y: 479
+        width: 34
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8d59237943dc7b3a0800000000000000
+      internalID: -6649620699030579752
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: katty_Popit_B_52
+      rect:
+        serializedVersion: 2
+        x: 356
+        y: 479
+        width: 33
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3345c672e0bc2ce60800000000000000
+      internalID: 7981164751305331763
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: katty_Popit_B_53
+      rect:
+        serializedVersion: 2
+        x: 399
+        y: 479
+        width: 33
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3833af9e34b03cec0800000000000000
+      internalID: -3547979695121615997
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: katty_Popit_B_54
+      rect:
+        serializedVersion: 2
+        x: 440
+        y: 479
+        width: 34
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 69179dc65dbef1e20800000000000000
+      internalID: 3323634351909466518
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: katty_Popit_B_55
+      rect:
+        serializedVersion: 2
+        x: 535
+        y: 479
+        width: 34
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f14e70ecfe9835810800000000000000
+      internalID: 1752896343024067615
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: katty_Popit_B_56
+      rect:
+        serializedVersion: 2
+        x: 576
+        y: 479
+        width: 35
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d438187f0215fe8c0800000000000000
+      internalID: -3967863544656854195
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: katty_Popit_B_57
+      rect:
+        serializedVersion: 2
+        x: 110
+        y: 433
+        width: 35
+        height: 33
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ffc483c7baa1bb650800000000000000
+      internalID: 6249618231732489471
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: katty_Popit_B_58
+      rect:
+        serializedVersion: 2
+        x: 151
+        y: 433
+        width: 34
+        height: 33
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 926257500af66ce30800000000000000
+      internalID: 4523425608817255977
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: katty_Popit_B_59
+      rect:
+        serializedVersion: 2
+        x: 192
+        y: 433
+        width: 34
+        height: 33
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 390a1378b3aa66b20800000000000000
+      internalID: 3127374163903357075
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: katty_Popit_B_60
+      rect:
+        serializedVersion: 2
+        x: 234
+        y: 433
+        width: 34
+        height: 33
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c14a7e87bc82c0ec0800000000000000
+      internalID: -3599457147803950052
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: katty_Popit_B_61
+      rect:
+        serializedVersion: 2
+        x: 276
+        y: 433
+        width: 33
+        height: 33
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8a4ea1ea32629da30800000000000000
+      internalID: 4240462458832741544
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: katty_Popit_B_62
+      rect:
+        serializedVersion: 2
+        x: 394
+        y: 433
+        width: 34
+        height: 33
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: efece7a2f1d5a5100800000000000000
+      internalID: 97492730380209918
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: katty_Popit_B_63
+      rect:
+        serializedVersion: 2
+        x: 433
+        y: 433
+        width: 33
+        height: 33
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f7721a578d4ed9690800000000000000
+      internalID: -7593661778339223681
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: katty_Popit_B_64
+      rect:
+        serializedVersion: 2
+        x: 478
+        y: 433
+        width: 34
+        height: 33
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b9287af5ca512ba00800000000000000
+      internalID: 770702316317147803
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: katty_Popit_B_65
+      rect:
+        serializedVersion: 2
+        x: 521
+        y: 433
+        width: 35
+        height: 33
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b7fb56016aaf8de70800000000000000
+      internalID: 9140331034895040379
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: katty_Popit_B_66
+      rect:
+        serializedVersion: 2
+        x: 563
+        y: 433
+        width: 35
+        height: 33
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e3d2e0b6eaddfc2a0800000000000000
+      internalID: -6714904778195980994
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: katty_Popit_B_67
+      rect:
+        serializedVersion: 2
+        x: 191
+        y: 387
+        width: 33
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ff9da8426fe556da0800000000000000
+      internalID: -5952246921232197121
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: katty_Popit_B_68
+      rect:
+        serializedVersion: 2
+        x: 231
+        y: 383
+        width: 34
+        height: 33
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fa909776f12dd7e10800000000000000
+      internalID: 2197143225548474799
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: katty_Popit_B_69
+      rect:
+        serializedVersion: 2
+        x: 273
+        y: 378
+        width: 33
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 21ae62ca349309b80800000000000000
+      internalID: -8390143142977410542
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: katty_Popit_B_70
+      rect:
+        serializedVersion: 2
+        x: 314
+        y: 376
+        width: 34
+        height: 33
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9fd6ad3cdc0713b20800000000000000
+      internalID: 3112392846546202105
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: katty_Popit_B_71
+      rect:
+        serializedVersion: 2
+        x: 355
+        y: 376
+        width: 34
+        height: 33
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 47371ead7c2b4f540800000000000000
+      internalID: 5040850454374871924
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: katty_Popit_B_72
+      rect:
+        serializedVersion: 2
+        x: 394
+        y: 379
+        width: 34
+        height: 33
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ec0e073215eed5b80800000000000000
+      internalID: -8404299297349115698
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: katty_Popit_B_73
+      rect:
+        serializedVersion: 2
+        x: 435
+        y: 383
+        width: 34
+        height: 33
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3cdfd45b82e53fa00800000000000000
+      internalID: 789077888653458883
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: katty_Popit_B_74
+      rect:
+        serializedVersion: 2
+        x: 477
+        y: 388
+        width: 35
+        height: 33
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 430d81dac4f2e5a10800000000000000
+      internalID: 1900008099165032500
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: katty_Popit_B_75
+      rect:
+        serializedVersion: 2
+        x: 138
+        y: 302
+        width: 42
+        height: 42
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d489258f911c66b20800000000000000
+      internalID: 3127399308539893837
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: katty_Popit_B_76
+      rect:
+        serializedVersion: 2
+        x: 206
+        y: 325
+        width: 34
+        height: 33
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4270b1fb2e3fbf010800000000000000
+      internalID: 1223839878955599652
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: katty_Popit_B_77
+      rect:
+        serializedVersion: 2
+        x: 248
+        y: 325
+        width: 34
+        height: 33
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: dfb44d207df2d9550800000000000000
+      internalID: 6169139665079389181
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: katty_Popit_B_78
+      rect:
+        serializedVersion: 2
+        x: 290
+        y: 325
+        width: 33
+        height: 33
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 326ed9f14fae89810800000000000000
+      internalID: 1772424787593651747
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: katty_Popit_B_79
+      rect:
+        serializedVersion: 2
+        x: 331
+        y: 325
+        width: 33
+        height: 33
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 32ddff88569705570800000000000000
+      internalID: 8453389977571548451
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: katty_Popit_B_80
+      rect:
+        serializedVersion: 2
+        x: 374
+        y: 325
+        width: 33
+        height: 33
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cdcd983749e015120800000000000000
+      internalID: 2400716107121548508
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: katty_Popit_B_81
+      rect:
+        serializedVersion: 2
+        x: 415
+        y: 325
+        width: 34
+        height: 33
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e5f0dd2a9e4d4d320800000000000000
+      internalID: 2581922586315001694
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: katty_Popit_B_82
+      rect:
+        serializedVersion: 2
+        x: 456
+        y: 325
+        width: 33
+        height: 33
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 61e3da962e0b101b0800000000000000
+      internalID: -5692073967537537514
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: katty_Popit_B_83
+      rect:
+        serializedVersion: 2
+        x: 508
+        y: 302
+        width: 42
+        height: 42
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 20d66eb9759515de0800000000000000
+      internalID: -1346196580794471166
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: katty_Popit_B_84
+      rect:
+        serializedVersion: 2
+        x: 109
+        y: 256
+        width: 43
+        height: 42
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3835262525e3c6e70800000000000000
+      internalID: 9109724669554086787
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: katty_Popit_B_85
+      rect:
+        serializedVersion: 2
+        x: 201
+        y: 280
+        width: 34
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3ec33b92ebea9a8a0800000000000000
+      internalID: -6293306872506925853
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: katty_Popit_B_86
+      rect:
+        serializedVersion: 2
+        x: 243
+        y: 280
+        width: 34
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d1d77bb18da624bf0800000000000000
+      internalID: -341593145316246243
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: katty_Popit_B_87
+      rect:
+        serializedVersion: 2
+        x: 284
+        y: 280
+        width: 34
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6bcc9c956f45c9220800000000000000
+      internalID: 2493961710701497526
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: katty_Popit_B_88
+      rect:
+        serializedVersion: 2
+        x: 326
+        y: 280
+        width: 33
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ff49f21244253bcf0800000000000000
+      internalID: -237755902752484097
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: katty_Popit_B_89
+      rect:
+        serializedVersion: 2
+        x: 369
+        y: 280
+        width: 33
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cdf1559d5bf45f590800000000000000
+      internalID: -7641113550310268964
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: katty_Popit_B_90
+      rect:
+        serializedVersion: 2
+        x: 410
+        y: 280
+        width: 34
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 39a7661d45c7dc050800000000000000
+      internalID: 5822446596992170643
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: katty_Popit_B_91
+      rect:
+        serializedVersion: 2
+        x: 450
+        y: 280
+        width: 34
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2de0a8d4878864900800000000000000
+      internalID: 668371644989443794
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: katty_Popit_B_92
+      rect:
+        serializedVersion: 2
+        x: 536
+        y: 256
+        width: 43
+        height: 42
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e4b89f378b4a77940800000000000000
+      internalID: 5293880999123979086
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: katty_Popit_B_93
+      rect:
+        serializedVersion: 2
+        x: 171
+        y: 215
+        width: 42
+        height: 43
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 425c4eceae3b79000800000000000000
+      internalID: 42700543061443876
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: katty_Popit_B_94
+      rect:
+        serializedVersion: 2
+        x: 225
+        y: 215
+        width: 42
+        height: 43
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8a77db7168ed47980800000000000000
+      internalID: -8541957925709711448
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: katty_Popit_B_95
+      rect:
+        serializedVersion: 2
+        x: 290
+        y: 239
+        width: 33
+        height: 35
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 076f3e2dd18656800800000000000000
+      internalID: 605004202252695152
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: katty_Popit_B_96
+      rect:
+        serializedVersion: 2
+        x: 325
+        y: 211
+        width: 33
+        height: 35
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 48e15b47cba98d480800000000000000
+      internalID: -8874172931531006332
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: katty_Popit_B_97
+      rect:
+        serializedVersion: 2
+        x: 359
+        y: 239
+        width: 34
+        height: 35
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9eb3b8e8c57ca37e0800000000000000
+      internalID: -1784895101956572183
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: katty_Popit_B_98
+      rect:
+        serializedVersion: 2
+        x: 417
+        y: 215
+        width: 41
+        height: 43
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e2616a0407b3633c0800000000000000
+      internalID: -4380248234264226258
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: katty_Popit_B_99
+      rect:
+        serializedVersion: 2
+        x: 470
+        y: 215
+        width: 42
+        height: 43
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 67550bed220000470800000000000000
+      internalID: 8358681058164626806
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: katty_Popit_B_100
+      rect:
+        serializedVersion: 2
+        x: 145
+        y: 162
+        width: 42
+        height: 43
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1b75e4f924b2b1a90800000000000000
+      internalID: -7342227202356914255
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: katty_Popit_B_101
+      rect:
+        serializedVersion: 2
+        x: 199
+        y: 162
+        width: 42
+        height: 43
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 45230c9d2b37ed820800000000000000
+      internalID: 2944918418341507668
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: katty_Popit_B_102
+      rect:
+        serializedVersion: 2
+        x: 250
+        y: 162
+        width: 41
+        height: 43
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d3ae5584e820ed480800000000000000
+      internalID: -8872651405751096771
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: katty_Popit_B_103
+      rect:
+        serializedVersion: 2
+        x: 315
+        y: 137
+        width: 53
+        height: 57
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3d2393daf5d0e8500800000000000000
+      internalID: 400272121461813971
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: katty_Popit_B_104
+      rect:
+        serializedVersion: 2
+        x: 391
+        y: 162
+        width: 41
+        height: 43
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 26534ba2c41336d80800000000000000
+      internalID: -8258703088463628958
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: katty_Popit_B_105
+      rect:
+        serializedVersion: 2
+        x: 445
+        y: 162
+        width: 41
+        height: 43
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 33695747fa9d826a0800000000000000
+      internalID: -6473685116748720589
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: katty_Popit_B_106
+      rect:
+        serializedVersion: 2
+        x: 495
+        y: 162
+        width: 42
+        height: 43
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f77af6e7dbdd82ec0800000000000000
+      internalID: -3591376896888166529
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: katty_Popit_B_107
+      rect:
+        serializedVersion: 2
+        x: 150
+        y: 110
+        width: 41
+        height: 44
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4faa24b7fb985c1c0800000000000000
+      internalID: -4484026398477735180
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: katty_Popit_B_108
+      rect:
+        serializedVersion: 2
+        x: 197
+        y: 110
+        width: 42
+        height: 44
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 21e5bcb3c4f48a610800000000000000
+      internalID: 1632642053761097234
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: katty_Popit_B_109
+      rect:
+        serializedVersion: 2
+        x: 246
+        y: 110
+        width: 41
+        height: 44
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ee36c1a2c2d44fef0800000000000000
+      internalID: -75350441678052370
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: katty_Popit_B_110
+      rect:
+        serializedVersion: 2
+        x: 397
+        y: 110
+        width: 41
+        height: 44
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b8e310679ec8e5830800000000000000
+      internalID: 4061838848269827723
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: katty_Popit_B_111
+      rect:
+        serializedVersion: 2
+        x: 448
+        y: 110
+        width: 41
+        height: 44
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 49d8e1c559cd6f860800000000000000
+      internalID: 7563475158269070740
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: katty_Popit_B_112
+      rect:
+        serializedVersion: 2
+        x: 495
+        y: 110
+        width: 42
+        height: 44
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 33c46e9d112fa11f0800000000000000
+      internalID: -1073279402690327501
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 5a2c5c7f369a4814ca6c8eb2e83dc262
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    nameFileIdTable:
+      katty_Popit_B_0: 7445626743406363761
+      katty_Popit_B_1: -442393538860423197
+      katty_Popit_B_10: 438462421076406949
+      katty_Popit_B_100: -7342227202356914255
+      katty_Popit_B_101: 2944918418341507668
+      katty_Popit_B_102: -8872651405751096771
+      katty_Popit_B_103: 400272121461813971
+      katty_Popit_B_104: -8258703088463628958
+      katty_Popit_B_105: -6473685116748720589
+      katty_Popit_B_106: -3591376896888166529
+      katty_Popit_B_107: -4484026398477735180
+      katty_Popit_B_108: 1632642053761097234
+      katty_Popit_B_109: -75350441678052370
+      katty_Popit_B_11: 4163573056838858413
+      katty_Popit_B_110: 4061838848269827723
+      katty_Popit_B_111: 7563475158269070740
+      katty_Popit_B_112: -1073279402690327501
+      katty_Popit_B_12: -1624296850192100415
+      katty_Popit_B_13: -3941326147020454101
+      katty_Popit_B_14: 5946862004800780073
+      katty_Popit_B_15: -5991021867928467437
+      katty_Popit_B_16: -5309986348047545508
+      katty_Popit_B_17: 6057686090555717580
+      katty_Popit_B_18: 8818563746389895462
+      katty_Popit_B_19: -8740631841867366319
+      katty_Popit_B_2: -1466966716336649382
+      katty_Popit_B_20: 26617173797197059
+      katty_Popit_B_21: 71512481176444829
+      katty_Popit_B_22: -1424698931683914625
+      katty_Popit_B_23: 7936197513707029489
+      katty_Popit_B_24: -3800042366263872663
+      katty_Popit_B_25: 7481447154472690117
+      katty_Popit_B_26: -3330627227609122949
+      katty_Popit_B_27: 173886487965016712
+      katty_Popit_B_28: -8066314309715623067
+      katty_Popit_B_29: -2342188203028985158
+      katty_Popit_B_3: -7685315119010677656
+      katty_Popit_B_30: 7735321238200632684
+      katty_Popit_B_31: 3059836776000884569
+      katty_Popit_B_32: 7002968697850146724
+      katty_Popit_B_33: -4867599693423839503
+      katty_Popit_B_34: -3321191499057563835
+      katty_Popit_B_35: -3193342257967385450
+      katty_Popit_B_36: 1045645036402402817
+      katty_Popit_B_37: -4922959529938832810
+      katty_Popit_B_38: 2423655424640768505
+      katty_Popit_B_39: 8019167513725263369
+      katty_Popit_B_4: -3994085520749997438
+      katty_Popit_B_40: -3668648355465492509
+      katty_Popit_B_41: 8102700873867501656
+      katty_Popit_B_42: -287423583958696958
+      katty_Popit_B_43: -4716065883543968672
+      katty_Popit_B_44: 6121454686533319248
+      katty_Popit_B_45: 5503321348096623895
+      katty_Popit_B_46: -4986487783284026630
+      katty_Popit_B_47: -7888861653234752994
+      katty_Popit_B_48: -3670297710954593088
+      katty_Popit_B_49: 8797057584375760868
+      katty_Popit_B_5: 6613430819681223266
+      katty_Popit_B_50: 3280944324719811490
+      katty_Popit_B_51: -6649620699030579752
+      katty_Popit_B_52: 7981164751305331763
+      katty_Popit_B_53: -3547979695121615997
+      katty_Popit_B_54: 3323634351909466518
+      katty_Popit_B_55: 1752896343024067615
+      katty_Popit_B_56: -3967863544656854195
+      katty_Popit_B_57: 6249618231732489471
+      katty_Popit_B_58: 4523425608817255977
+      katty_Popit_B_59: 3127374163903357075
+      katty_Popit_B_6: -8540070557566640135
+      katty_Popit_B_60: -3599457147803950052
+      katty_Popit_B_61: 4240462458832741544
+      katty_Popit_B_62: 97492730380209918
+      katty_Popit_B_63: -7593661778339223681
+      katty_Popit_B_64: 770702316317147803
+      katty_Popit_B_65: 9140331034895040379
+      katty_Popit_B_66: -6714904778195980994
+      katty_Popit_B_67: -5952246921232197121
+      katty_Popit_B_68: 2197143225548474799
+      katty_Popit_B_69: -8390143142977410542
+      katty_Popit_B_7: 2423637354238009531
+      katty_Popit_B_70: 3112392846546202105
+      katty_Popit_B_71: 5040850454374871924
+      katty_Popit_B_72: -8404299297349115698
+      katty_Popit_B_73: 789077888653458883
+      katty_Popit_B_74: 1900008099165032500
+      katty_Popit_B_75: 3127399308539893837
+      katty_Popit_B_76: 1223839878955599652
+      katty_Popit_B_77: 6169139665079389181
+      katty_Popit_B_78: 1772424787593651747
+      katty_Popit_B_79: 8453389977571548451
+      katty_Popit_B_8: 8879230690243748042
+      katty_Popit_B_80: 2400716107121548508
+      katty_Popit_B_81: 2581922586315001694
+      katty_Popit_B_82: -5692073967537537514
+      katty_Popit_B_83: -1346196580794471166
+      katty_Popit_B_84: 9109724669554086787
+      katty_Popit_B_85: -6293306872506925853
+      katty_Popit_B_86: -341593145316246243
+      katty_Popit_B_87: 2493961710701497526
+      katty_Popit_B_88: -237755902752484097
+      katty_Popit_B_89: -7641113550310268964
+      katty_Popit_B_9: 2177818301167105784
+      katty_Popit_B_90: 5822446596992170643
+      katty_Popit_B_91: 668371644989443794
+      katty_Popit_B_92: 5293880999123979086
+      katty_Popit_B_93: 42700543061443876
+      katty_Popit_B_94: -8541957925709711448
+      katty_Popit_B_95: 605004202252695152
+      katty_Popit_B_96: -8874172931531006332
+      katty_Popit_B_97: -1784895101956572183
+      katty_Popit_B_98: -4380248234264226258
+      katty_Popit_B_99: 8358681058164626806
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

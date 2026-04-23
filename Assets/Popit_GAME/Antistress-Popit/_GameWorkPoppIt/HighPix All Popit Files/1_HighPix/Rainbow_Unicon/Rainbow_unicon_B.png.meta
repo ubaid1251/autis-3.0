@@ -1,0 +1,1066 @@
+fileFormatVersion: 2
+guid: 8cf6e48f4fc720e4ea92eea793e45e27
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: -1784432012251534749
+    second: Rainbow_unicon_B_0
+  - first:
+      213: -8017222700026416856
+    second: Rainbow_unicon_B_1
+  - first:
+      213: 1295903374195067938
+    second: Rainbow_unicon_B_2
+  - first:
+      213: 2477625403923594696
+    second: Rainbow_unicon_B_3
+  - first:
+      213: 3817042625024658559
+    second: Rainbow_unicon_B_4
+  - first:
+      213: 500291794765410303
+    second: Rainbow_unicon_B_5
+  - first:
+      213: -7775508473924198310
+    second: Rainbow_unicon_B_6
+  - first:
+      213: 4505332193240640564
+    second: Rainbow_unicon_B_7
+  - first:
+      213: -7691874853997766755
+    second: Rainbow_unicon_B_8
+  - first:
+      213: -2923036497256451893
+    second: Rainbow_unicon_B_9
+  - first:
+      213: -5114288663602631876
+    second: Rainbow_unicon_B_10
+  - first:
+      213: -271104434744468835
+    second: Rainbow_unicon_B_11
+  - first:
+      213: 5412226825234346558
+    second: Rainbow_unicon_B_12
+  - first:
+      213: 2386277144847963658
+    second: Rainbow_unicon_B_13
+  - first:
+      213: 8361404674026973819
+    second: Rainbow_unicon_B_14
+  - first:
+      213: 226051162351767272
+    second: Rainbow_unicon_B_15
+  - first:
+      213: -1767504097259141037
+    second: Rainbow_unicon_B_16
+  - first:
+      213: -3564671798924125709
+    second: Rainbow_unicon_B_17
+  - first:
+      213: -2944604459892206137
+    second: Rainbow_unicon_B_18
+  - first:
+      213: 7138827671228103513
+    second: Rainbow_unicon_B_19
+  - first:
+      213: -6066275677812943277
+    second: Rainbow_unicon_B_20
+  - first:
+      213: -689428158941076834
+    second: Rainbow_unicon_B_21
+  - first:
+      213: -2381256101094105127
+    second: Rainbow_unicon_B_22
+  - first:
+      213: 7905598006960286366
+    second: Rainbow_unicon_B_23
+  - first:
+      213: 2492992627678431225
+    second: Rainbow_unicon_B_24
+  - first:
+      213: -3668593806117198233
+    second: Rainbow_unicon_B_25
+  - first:
+      213: 2391951003161569617
+    second: Rainbow_unicon_B_26
+  - first:
+      213: -8453919419038103417
+    second: Rainbow_unicon_B_27
+  - first:
+      213: -6976608360584835370
+    second: Rainbow_unicon_B_28
+  - first:
+      213: -8820991839699946642
+    second: Rainbow_unicon_B_29
+  - first:
+      213: 7769328195508880955
+    second: Rainbow_unicon_B_30
+  - first:
+      213: 8228069608029124221
+    second: Rainbow_unicon_B_31
+  - first:
+      213: 6503106297494746405
+    second: Rainbow_unicon_B_32
+  - first:
+      213: 3200156355144252473
+    second: Rainbow_unicon_B_33
+  - first:
+      213: 1627115449997655838
+    second: Rainbow_unicon_B_34
+  - first:
+      213: -4241957295072051555
+    second: Rainbow_unicon_B_35
+  externalObjects: {}
+  serializedVersion: 12
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 2
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 0
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 1
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 1024
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 1024
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: iPhone
+    maxTextureSize: 1024
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Android
+    maxTextureSize: 1024
+    resizeAlgorithm: 0
+    textureFormat: 49
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 1
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Windows Store Apps
+    maxTextureSize: 8192
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Server
+    maxTextureSize: 1024
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: Rainbow_unicon_B_0
+      rect:
+        serializedVersion: 2
+        x: 361
+        y: 620
+        width: 40
+        height: 40
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 36a69e70a8c6c37e0800000000000000
+      internalID: -1784432012251534749
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Rainbow_unicon_B_1
+      rect:
+        serializedVersion: 2
+        x: 456
+        y: 627
+        width: 40
+        height: 40
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8213abf6e6a1db090800000000000000
+      internalID: -8017222700026416856
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Rainbow_unicon_B_2
+      rect:
+        serializedVersion: 2
+        x: 331
+        y: 553
+        width: 41
+        height: 40
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 22c802ab049fbf110800000000000000
+      internalID: 1295903374195067938
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Rainbow_unicon_B_3
+      rect:
+        serializedVersion: 2
+        x: 398
+        y: 543
+        width: 40
+        height: 40
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8cd79578d2b426220800000000000000
+      internalID: 2477625403923594696
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Rainbow_unicon_B_4
+      rect:
+        serializedVersion: 2
+        x: 461
+        y: 553
+        width: 40
+        height: 40
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f7c8e1d3b0cd8f430800000000000000
+      internalID: 3817042625024658559
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Rainbow_unicon_B_5
+      rect:
+        serializedVersion: 2
+        x: 299
+        y: 501
+        width: 41
+        height: 40
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fffe8079cb461f600800000000000000
+      internalID: 500291794765410303
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Rainbow_unicon_B_6
+      rect:
+        serializedVersion: 2
+        x: 411
+        y: 491
+        width: 40
+        height: 40
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a5065b74d38d71490800000000000000
+      internalID: -7775508473924198310
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Rainbow_unicon_B_7
+      rect:
+        serializedVersion: 2
+        x: 463
+        y: 486
+        width: 41
+        height: 40
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 43c6d3d62c7268e30800000000000000
+      internalID: 4505332193240640564
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Rainbow_unicon_B_8
+      rect:
+        serializedVersion: 2
+        x: 547
+        y: 486
+        width: 41
+        height: 40
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d9714b6d298f04590800000000000000
+      internalID: -7691874853997766755
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Rainbow_unicon_B_9
+      rect:
+        serializedVersion: 2
+        x: 592
+        y: 513
+        width: 41
+        height: 40
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bc0f68beac94f67d0800000000000000
+      internalID: -2923036497256451893
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Rainbow_unicon_B_10
+      rect:
+        serializedVersion: 2
+        x: 57
+        y: 448
+        width: 42
+        height: 40
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c3b682f9e856609b0800000000000000
+      internalID: -5114288663602631876
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Rainbow_unicon_B_11
+      rect:
+        serializedVersion: 2
+        x: 106
+        y: 466
+        width: 41
+        height: 40
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d9ad506f3f7dc3cf0800000000000000
+      internalID: -271104434744468835
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Rainbow_unicon_B_12
+      rect:
+        serializedVersion: 2
+        x: 190
+        y: 444
+        width: 40
+        height: 40
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e32fee15f971c1b40800000000000000
+      internalID: 5412226825234346558
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Rainbow_unicon_B_13
+      rect:
+        serializedVersion: 2
+        x: 252
+        y: 434
+        width: 40
+        height: 40
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a06db429b62cd1120800000000000000
+      internalID: 2386277144847963658
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Rainbow_unicon_B_14
+      rect:
+        serializedVersion: 2
+        x: 310
+        y: 436
+        width: 40
+        height: 40
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b7a2baa104da90470800000000000000
+      internalID: 8361404674026973819
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Rainbow_unicon_B_15
+      rect:
+        serializedVersion: 2
+        x: 368
+        y: 448
+        width: 40
+        height: 40
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8ee8a01a558132300800000000000000
+      internalID: 226051162351767272
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Rainbow_unicon_B_16
+      rect:
+        serializedVersion: 2
+        x: 193
+        y: 388
+        width: 41
+        height: 40
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 35842df53609877e0800000000000000
+      internalID: -1767504097259141037
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Rainbow_unicon_B_17
+      rect:
+        serializedVersion: 2
+        x: 385
+        y: 400
+        width: 40
+        height: 40
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3f95644a2edb78ec0800000000000000
+      internalID: -3564671798924125709
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Rainbow_unicon_B_18
+      rect:
+        serializedVersion: 2
+        x: 444
+        y: 425
+        width: 41
+        height: 40
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7c5181c48d9a227d0800000000000000
+      internalID: -2944604459892206137
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Rainbow_unicon_B_19
+      rect:
+        serializedVersion: 2
+        x: 131
+        y: 376
+        width: 41
+        height: 40
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 95bb740a1f5321360800000000000000
+      internalID: 7138827671228103513
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Rainbow_unicon_B_20
+      rect:
+        serializedVersion: 2
+        x: 258
+        y: 381
+        width: 40
+        height: 40
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3561e5a596240dba0800000000000000
+      internalID: -6066275677812943277
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Rainbow_unicon_B_21
+      rect:
+        serializedVersion: 2
+        x: 321
+        y: 381
+        width: 40
+        height: 40
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e926a200eb8ae66f0800000000000000
+      internalID: -689428158941076834
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Rainbow_unicon_B_22
+      rect:
+        serializedVersion: 2
+        x: 411
+        y: 351
+        width: 40
+        height: 40
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9dfdd07413414fed0800000000000000
+      internalID: -2381256101094105127
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Rainbow_unicon_B_23
+      rect:
+        serializedVersion: 2
+        x: 144
+        y: 324
+        width: 40
+        height: 41
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e9a67ed608356bd60800000000000000
+      internalID: 7905598006960286366
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Rainbow_unicon_B_24
+      rect:
+        serializedVersion: 2
+        x: 215
+        y: 326
+        width: 41
+        height: 41
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9f7c0702693e89220800000000000000
+      internalID: 2492992627678431225
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Rainbow_unicon_B_25
+      rect:
+        serializedVersion: 2
+        x: 275
+        y: 327
+        width: 41
+        height: 40
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 766af21de59861dc0800000000000000
+      internalID: -3668593806117198233
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Rainbow_unicon_B_26
+      rect:
+        serializedVersion: 2
+        x: 341
+        y: 331
+        width: 40
+        height: 40
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 159a597a3cae13120800000000000000
+      internalID: 2391951003161569617
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Rainbow_unicon_B_27
+      rect:
+        serializedVersion: 2
+        x: 103
+        y: 270
+        width: 40
+        height: 40
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 78805744415adaa80800000000000000
+      internalID: -8453919419038103417
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Rainbow_unicon_B_28
+      rect:
+        serializedVersion: 2
+        x: 158
+        y: 273
+        width: 41
+        height: 41
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6de0252e8ab1e2f90800000000000000
+      internalID: -6976608360584835370
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Rainbow_unicon_B_29
+      rect:
+        serializedVersion: 2
+        x: 306
+        y: 261
+        width: 40
+        height: 40
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e63b01c48aa859580800000000000000
+      internalID: -8820991839699946642
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Rainbow_unicon_B_30
+      rect:
+        serializedVersion: 2
+        x: 366
+        y: 266
+        width: 40
+        height: 40
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b36cbb484d232db60800000000000000
+      internalID: 7769328195508880955
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Rainbow_unicon_B_31
+      rect:
+        serializedVersion: 2
+        x: 429
+        y: 271
+        width: 40
+        height: 41
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d7673cdd6b9ff2270800000000000000
+      internalID: 8228069608029124221
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Rainbow_unicon_B_32
+      rect:
+        serializedVersion: 2
+        x: 118
+        y: 219
+        width: 41
+        height: 41
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 525b7cef8bcaf3a50800000000000000
+      internalID: 6503106297494746405
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Rainbow_unicon_B_33
+      rect:
+        serializedVersion: 2
+        x: 214
+        y: 229
+        width: 40
+        height: 41
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 93cf416ff3d396c20800000000000000
+      internalID: 3200156355144252473
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Rainbow_unicon_B_34
+      rect:
+        serializedVersion: 2
+        x: 352
+        y: 213
+        width: 40
+        height: 41
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e1ff8a581eca49610800000000000000
+      internalID: 1627115449997655838
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Rainbow_unicon_B_35
+      rect:
+        serializedVersion: 2
+        x: 460
+        y: 223
+        width: 41
+        height: 40
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d9e7ad2a05a8125c0800000000000000
+      internalID: -4241957295072051555
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 1f9c1108253f079419fbb9e4a4410d9b
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    nameFileIdTable:
+      Rainbow_unicon_B_0: -1784432012251534749
+      Rainbow_unicon_B_1: -8017222700026416856
+      Rainbow_unicon_B_10: -5114288663602631876
+      Rainbow_unicon_B_11: -271104434744468835
+      Rainbow_unicon_B_12: 5412226825234346558
+      Rainbow_unicon_B_13: 2386277144847963658
+      Rainbow_unicon_B_14: 8361404674026973819
+      Rainbow_unicon_B_15: 226051162351767272
+      Rainbow_unicon_B_16: -1767504097259141037
+      Rainbow_unicon_B_17: -3564671798924125709
+      Rainbow_unicon_B_18: -2944604459892206137
+      Rainbow_unicon_B_19: 7138827671228103513
+      Rainbow_unicon_B_2: 1295903374195067938
+      Rainbow_unicon_B_20: -6066275677812943277
+      Rainbow_unicon_B_21: -689428158941076834
+      Rainbow_unicon_B_22: -2381256101094105127
+      Rainbow_unicon_B_23: 7905598006960286366
+      Rainbow_unicon_B_24: 2492992627678431225
+      Rainbow_unicon_B_25: -3668593806117198233
+      Rainbow_unicon_B_26: 2391951003161569617
+      Rainbow_unicon_B_27: -8453919419038103417
+      Rainbow_unicon_B_28: -6976608360584835370
+      Rainbow_unicon_B_29: -8820991839699946642
+      Rainbow_unicon_B_3: 2477625403923594696
+      Rainbow_unicon_B_30: 7769328195508880955
+      Rainbow_unicon_B_31: 8228069608029124221
+      Rainbow_unicon_B_32: 6503106297494746405
+      Rainbow_unicon_B_33: 3200156355144252473
+      Rainbow_unicon_B_34: 1627115449997655838
+      Rainbow_unicon_B_35: -4241957295072051555
+      Rainbow_unicon_B_4: 3817042625024658559
+      Rainbow_unicon_B_5: 500291794765410303
+      Rainbow_unicon_B_6: -7775508473924198310
+      Rainbow_unicon_B_7: 4505332193240640564
+      Rainbow_unicon_B_8: -7691874853997766755
+      Rainbow_unicon_B_9: -2923036497256451893
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

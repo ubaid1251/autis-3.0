@@ -1,0 +1,553 @@
+fileFormatVersion: 2
+guid: c755cb1cb1424db4bad3ee05dd95fd23
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: -944492062501394594
+    second: Rainbow Duck _B_0
+  - first:
+      213: 673078054880005215
+    second: Rainbow Duck _B_1
+  - first:
+      213: 424448005057452335
+    second: Rainbow Duck _B_2
+  - first:
+      213: 7876814331532296641
+    second: Rainbow Duck _B_3
+  - first:
+      213: 7574831647926596279
+    second: Rainbow Duck _B_4
+  - first:
+      213: -8295572499914787844
+    second: Rainbow Duck _B_5
+  - first:
+      213: 2447557357557526060
+    second: Rainbow Duck _B_6
+  - first:
+      213: 5088804365281735564
+    second: Rainbow Duck _B_7
+  - first:
+      213: -8212232590260898492
+    second: Rainbow Duck _B_8
+  - first:
+      213: -8681972094125955788
+    second: Rainbow Duck _B_9
+  - first:
+      213: -2646543738262475322
+    second: Rainbow Duck _B_10
+  - first:
+      213: -8146564224491066405
+    second: Rainbow Duck _B_11
+  - first:
+      213: 5198299068384971513
+    second: Rainbow Duck _B_12
+  - first:
+      213: -7882438853389103121
+    second: Rainbow Duck _B_13
+  - first:
+      213: -6424411356312453217
+    second: Rainbow Duck _B_14
+  - first:
+      213: 178723793095933422
+    second: Rainbow Duck _B_15
+  externalObjects: {}
+  serializedVersion: 12
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 0
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 1
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: iPhone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Android
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: 48
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 1
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Server
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: Rainbow Duck _B_0
+      rect:
+        serializedVersion: 2
+        x: 172
+        y: 333
+        width: 62
+        height: 61
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e57ad69297d74e2f0800000000000000
+      internalID: -944492062501394594
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Rainbow Duck _B_1
+      rect:
+        serializedVersion: 2
+        x: 260
+        y: 333
+        width: 62
+        height: 61
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f5ccb3fbce0475900800000000000000
+      internalID: 673078054880005215
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Rainbow Duck _B_2
+      rect:
+        serializedVersion: 2
+        x: 346
+        y: 333
+        width: 62
+        height: 61
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f2992173631f3e500800000000000000
+      internalID: 424448005057452335
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Rainbow Duck _B_3
+      rect:
+        serializedVersion: 2
+        x: 434
+        y: 333
+        width: 62
+        height: 61
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1c140b0c6e0105d60800000000000000
+      internalID: 7876814331532296641
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Rainbow Duck _B_4
+      rect:
+        serializedVersion: 2
+        x: 174
+        y: 240
+        width: 61
+        height: 61
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7b23d0820453f1960800000000000000
+      internalID: 7574831647926596279
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Rainbow Duck _B_5
+      rect:
+        serializedVersion: 2
+        x: 261
+        y: 240
+        width: 61
+        height: 61
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cf3741e53c430ec80800000000000000
+      internalID: -8295572499914787844
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Rainbow Duck _B_6
+      rect:
+        serializedVersion: 2
+        x: 346
+        y: 240
+        width: 61
+        height: 61
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c2e2c90f27877f120800000000000000
+      internalID: 2447557357557526060
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Rainbow Duck _B_7
+      rect:
+        serializedVersion: 2
+        x: 433
+        y: 240
+        width: 62
+        height: 61
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c83331ccb901f9640800000000000000
+      internalID: 5088804365281735564
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Rainbow Duck _B_8
+      rect:
+        serializedVersion: 2
+        x: 176
+        y: 154
+        width: 60
+        height: 61
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 445fc9c28f9480e80800000000000000
+      internalID: -8212232590260898492
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Rainbow Duck _B_9
+      rect:
+        serializedVersion: 2
+        x: 262
+        y: 154
+        width: 60
+        height: 61
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 435a4c32160738780800000000000000
+      internalID: -8681972094125955788
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Rainbow Duck _B_10
+      rect:
+        serializedVersion: 2
+        x: 346
+        y: 154
+        width: 61
+        height: 61
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6cda456fd76954bd0800000000000000
+      internalID: -2646543738262475322
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Rainbow Duck _B_11
+      rect:
+        serializedVersion: 2
+        x: 432
+        y: 154
+        width: 61
+        height: 61
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bdbed4b000791fe80800000000000000
+      internalID: -8146564224491066405
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Rainbow Duck _B_12
+      rect:
+        serializedVersion: 2
+        x: 177
+        y: 66
+        width: 61
+        height: 62
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9fa845ff571142840800000000000000
+      internalID: 5198299068384971513
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Rainbow Duck _B_13
+      rect:
+        serializedVersion: 2
+        x: 263
+        y: 66
+        width: 59
+        height: 62
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fef410430a3fb9290800000000000000
+      internalID: -7882438853389103121
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Rainbow Duck _B_14
+      rect:
+        serializedVersion: 2
+        x: 346
+        y: 66
+        width: 60
+        height: 62
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f9fb200d8e7e7d6a0800000000000000
+      internalID: -6424411356312453217
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Rainbow Duck _B_15
+      rect:
+        serializedVersion: 2
+        x: 431
+        y: 66
+        width: 60
+        height: 62
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: eedb468c754fa7200800000000000000
+      internalID: 178723793095933422
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    nameFileIdTable:
+      Rainbow Duck _B_0: -944492062501394594
+      Rainbow Duck _B_1: 673078054880005215
+      Rainbow Duck _B_10: -2646543738262475322
+      Rainbow Duck _B_11: -8146564224491066405
+      Rainbow Duck _B_12: 5198299068384971513
+      Rainbow Duck _B_13: -7882438853389103121
+      Rainbow Duck _B_14: -6424411356312453217
+      Rainbow Duck _B_15: 178723793095933422
+      Rainbow Duck _B_2: 424448005057452335
+      Rainbow Duck _B_3: 7876814331532296641
+      Rainbow Duck _B_4: 7574831647926596279
+      Rainbow Duck _B_5: -8295572499914787844
+      Rainbow Duck _B_6: 2447557357557526060
+      Rainbow Duck _B_7: 5088804365281735564
+      Rainbow Duck _B_8: -8212232590260898492
+      Rainbow Duck _B_9: -8681972094125955788
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

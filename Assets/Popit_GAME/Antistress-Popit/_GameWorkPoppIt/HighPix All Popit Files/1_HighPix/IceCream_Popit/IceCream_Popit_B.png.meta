@@ -1,0 +1,941 @@
+fileFormatVersion: 2
+guid: f648ab6141471ef4bb5d18c9ca3f1375
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: -6193741085408407142
+    second: IceCream_Popit_B_0
+  - first:
+      213: -4628644907152123775
+    second: IceCream_Popit_B_1
+  - first:
+      213: 6076316627109165926
+    second: IceCream_Popit_B_2
+  - first:
+      213: -7264078347547668153
+    second: IceCream_Popit_B_3
+  - first:
+      213: 8451200188603281091
+    second: IceCream_Popit_B_4
+  - first:
+      213: -2426771679027366483
+    second: IceCream_Popit_B_5
+  - first:
+      213: 91955296695729708
+    second: IceCream_Popit_B_6
+  - first:
+      213: -2457318602264094693
+    second: IceCream_Popit_B_7
+  - first:
+      213: 8375251865511394062
+    second: IceCream_Popit_B_8
+  - first:
+      213: 8357377060090136165
+    second: IceCream_Popit_B_9
+  - first:
+      213: 9026866541635270180
+    second: IceCream_Popit_B_10
+  - first:
+      213: 3207585790625044849
+    second: IceCream_Popit_B_11
+  - first:
+      213: -9172064741908486963
+    second: IceCream_Popit_B_12
+  - first:
+      213: 2610247771160363467
+    second: IceCream_Popit_B_13
+  - first:
+      213: 3128772371101377978
+    second: IceCream_Popit_B_14
+  - first:
+      213: -4313501215596681084
+    second: IceCream_Popit_B_15
+  - first:
+      213: -4353884979920224746
+    second: IceCream_Popit_B_16
+  - first:
+      213: 1484667045019912379
+    second: IceCream_Popit_B_17
+  - first:
+      213: 9181168493842989792
+    second: IceCream_Popit_B_18
+  - first:
+      213: -3888184938548463496
+    second: IceCream_Popit_B_19
+  - first:
+      213: 5198213782549178125
+    second: IceCream_Popit_B_20
+  - first:
+      213: -6073651370351036759
+    second: IceCream_Popit_B_21
+  - first:
+      213: -9134178591165911241
+    second: IceCream_Popit_B_22
+  - first:
+      213: 7860293098224881595
+    second: IceCream_Popit_B_23
+  - first:
+      213: -8232249779298960490
+    second: IceCream_Popit_B_24
+  - first:
+      213: -758100124461230621
+    second: IceCream_Popit_B_25
+  - first:
+      213: 1277535781546848238
+    second: IceCream_Popit_B_26
+  - first:
+      213: 3542898575586342235
+    second: IceCream_Popit_B_27
+  - first:
+      213: 2753726116921543374
+    second: IceCream_Popit_B_28
+  - first:
+      213: -1055201646372411600
+    second: IceCream_Popit_B_29
+  - first:
+      213: -3885203445433076405
+    second: IceCream_Popit_B_30
+  externalObjects: {}
+  serializedVersion: 12
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 2
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 0
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 1
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 8192
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 8192
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: iPhone
+    maxTextureSize: 8192
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Android
+    maxTextureSize: 1024
+    resizeAlgorithm: 0
+    textureFormat: 49
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 1
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Windows Store Apps
+    maxTextureSize: 8192
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Server
+    maxTextureSize: 8192
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: IceCream_Popit_B_0
+      rect:
+        serializedVersion: 2
+        x: 278
+        y: 775
+        width: 59
+        height: 60
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a915d757c496b0aa0800000000000000
+      internalID: -6193741085408407142
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: IceCream_Popit_B_1
+      rect:
+        serializedVersion: 2
+        x: 357
+        y: 772
+        width: 58
+        height: 60
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 188d6c50bffb3cfb0800000000000000
+      internalID: -4628644907152123775
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: IceCream_Popit_B_2
+      rect:
+        serializedVersion: 2
+        x: 356
+        y: 696
+        width: 59
+        height: 59
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 66b34a557c9635450800000000000000
+      internalID: 6076316627109165926
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: IceCream_Popit_B_3
+      rect:
+        serializedVersion: 2
+        x: 437
+        y: 696
+        width: 58
+        height: 59
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 74190d9ca3fc03b90800000000000000
+      internalID: -7264078347547668153
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: IceCream_Popit_B_4
+      rect:
+        serializedVersion: 2
+        x: 356
+        y: 618
+        width: 59
+        height: 59
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3cea96f8bc1b84570800000000000000
+      internalID: 8451200188603281091
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: IceCream_Popit_B_5
+      rect:
+        serializedVersion: 2
+        x: 437
+        y: 618
+        width: 58
+        height: 59
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: da57898f300625ed0800000000000000
+      internalID: -2426771679027366483
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: IceCream_Popit_B_6
+      rect:
+        serializedVersion: 2
+        x: 202
+        y: 541
+        width: 59
+        height: 58
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c2eb3caead0b64100800000000000000
+      internalID: 91955296695729708
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: IceCream_Popit_B_7
+      rect:
+        serializedVersion: 2
+        x: 279
+        y: 541
+        width: 58
+        height: 58
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b18d61c20c9d5edd0800000000000000
+      internalID: -2457318602264094693
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: IceCream_Popit_B_8
+      rect:
+        serializedVersion: 2
+        x: 356
+        y: 541
+        width: 59
+        height: 58
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e0bfb3c923fda3470800000000000000
+      internalID: 8375251865511394062
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: IceCream_Popit_B_9
+      rect:
+        serializedVersion: 2
+        x: 436
+        y: 541
+        width: 59
+        height: 58
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 566cba8282e5bf370800000000000000
+      internalID: 8357377060090136165
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: IceCream_Popit_B_10
+      rect:
+        serializedVersion: 2
+        x: 203
+        y: 464
+        width: 58
+        height: 58
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 42677011b4fd54d70800000000000000
+      internalID: 9026866541635270180
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: IceCream_Popit_B_11
+      rect:
+        serializedVersion: 2
+        x: 279
+        y: 464
+        width: 58
+        height: 58
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 179dbc43842a38c20800000000000000
+      internalID: 3207585790625044849
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: IceCream_Popit_B_12
+      rect:
+        serializedVersion: 2
+        x: 356
+        y: 464
+        width: 59
+        height: 58
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: dc4e8a186b746b080800000000000000
+      internalID: -9172064741908486963
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: IceCream_Popit_B_13
+      rect:
+        serializedVersion: 2
+        x: 436
+        y: 464
+        width: 59
+        height: 58
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bc1c4c7a486793420800000000000000
+      internalID: 2610247771160363467
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: IceCream_Popit_B_14
+      rect:
+        serializedVersion: 2
+        x: 203
+        y: 387
+        width: 58
+        height: 59
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ab5ed8205e1ab6b20800000000000000
+      internalID: 3128772371101377978
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: IceCream_Popit_B_15
+      rect:
+        serializedVersion: 2
+        x: 279
+        y: 387
+        width: 58
+        height: 59
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 488e4229f7d5324c0800000000000000
+      internalID: -4313501215596681084
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: IceCream_Popit_B_16
+      rect:
+        serializedVersion: 2
+        x: 356
+        y: 387
+        width: 59
+        height: 59
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 61e32fabda4e393c0800000000000000
+      internalID: -4353884979920224746
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: IceCream_Popit_B_17
+      rect:
+        serializedVersion: 2
+        x: 436
+        y: 387
+        width: 59
+        height: 59
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bb80424bfc89a9410800000000000000
+      internalID: 1484667045019912379
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: IceCream_Popit_B_18
+      rect:
+        serializedVersion: 2
+        x: 203
+        y: 308
+        width: 58
+        height: 59
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0e2058ae9101a6f70800000000000000
+      internalID: 9181168493842989792
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: IceCream_Popit_B_19
+      rect:
+        serializedVersion: 2
+        x: 279
+        y: 308
+        width: 58
+        height: 59
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8787bcc16646a0ac0800000000000000
+      internalID: -3888184938548463496
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: IceCream_Popit_B_20
+      rect:
+        serializedVersion: 2
+        x: 356
+        y: 308
+        width: 59
+        height: 59
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d072267d4e3c32840800000000000000
+      internalID: 5198213782549178125
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: IceCream_Popit_B_21
+      rect:
+        serializedVersion: 2
+        x: 436
+        y: 308
+        width: 59
+        height: 59
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9a679ac124e06bba0800000000000000
+      internalID: -6073651370351036759
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: IceCream_Popit_B_22
+      rect:
+        serializedVersion: 2
+        x: 202
+        y: 231
+        width: 59
+        height: 59
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 73fe39e57f0ec3180800000000000000
+      internalID: -9134178591165911241
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: IceCream_Popit_B_23
+      rect:
+        serializedVersion: 2
+        x: 279
+        y: 231
+        width: 58
+        height: 59
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bbf062e5dee551d60800000000000000
+      internalID: 7860293098224881595
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: IceCream_Popit_B_24
+      rect:
+        serializedVersion: 2
+        x: 356
+        y: 231
+        width: 59
+        height: 59
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 69bf89a217c21cd80800000000000000
+      internalID: -8232249779298960490
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: IceCream_Popit_B_25
+      rect:
+        serializedVersion: 2
+        x: 436
+        y: 231
+        width: 59
+        height: 59
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3e51f4114ffaa75f0800000000000000
+      internalID: -758100124461230621
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: IceCream_Popit_B_26
+      rect:
+        serializedVersion: 2
+        x: 203
+        y: 154
+        width: 58
+        height: 59
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: eef63fe4608bab110800000000000000
+      internalID: 1277535781546848238
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: IceCream_Popit_B_27
+      rect:
+        serializedVersion: 2
+        x: 279
+        y: 154
+        width: 58
+        height: 59
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b55bf01cb77ea2130800000000000000
+      internalID: 3542898575586342235
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: IceCream_Popit_B_28
+      rect:
+        serializedVersion: 2
+        x: 356
+        y: 154
+        width: 59
+        height: 59
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: eca03df3053373620800000000000000
+      internalID: 2753726116921543374
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: IceCream_Popit_B_29
+      rect:
+        serializedVersion: 2
+        x: 436
+        y: 154
+        width: 59
+        height: 59
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 037a09d71bb2b51f0800000000000000
+      internalID: -1055201646372411600
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: IceCream_Popit_B_30
+      rect:
+        serializedVersion: 2
+        x: 326
+        y: 69
+        width: 59
+        height: 60
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b4576d21d0cf41ac0800000000000000
+      internalID: -3885203445433076405
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 6fe4b9e6ce6c95d46a6420722cef52dd
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    nameFileIdTable:
+      IceCream_Popit_B_0: -6193741085408407142
+      IceCream_Popit_B_1: -4628644907152123775
+      IceCream_Popit_B_10: 9026866541635270180
+      IceCream_Popit_B_11: 3207585790625044849
+      IceCream_Popit_B_12: -9172064741908486963
+      IceCream_Popit_B_13: 2610247771160363467
+      IceCream_Popit_B_14: 3128772371101377978
+      IceCream_Popit_B_15: -4313501215596681084
+      IceCream_Popit_B_16: -4353884979920224746
+      IceCream_Popit_B_17: 1484667045019912379
+      IceCream_Popit_B_18: 9181168493842989792
+      IceCream_Popit_B_19: -3888184938548463496
+      IceCream_Popit_B_2: 6076316627109165926
+      IceCream_Popit_B_20: 5198213782549178125
+      IceCream_Popit_B_21: -6073651370351036759
+      IceCream_Popit_B_22: -9134178591165911241
+      IceCream_Popit_B_23: 7860293098224881595
+      IceCream_Popit_B_24: -8232249779298960490
+      IceCream_Popit_B_25: -758100124461230621
+      IceCream_Popit_B_26: 1277535781546848238
+      IceCream_Popit_B_27: 3542898575586342235
+      IceCream_Popit_B_28: 2753726116921543374
+      IceCream_Popit_B_29: -1055201646372411600
+      IceCream_Popit_B_3: -7264078347547668153
+      IceCream_Popit_B_30: -3885203445433076405
+      IceCream_Popit_B_4: 8451200188603281091
+      IceCream_Popit_B_5: -2426771679027366483
+      IceCream_Popit_B_6: 91955296695729708
+      IceCream_Popit_B_7: -2457318602264094693
+      IceCream_Popit_B_8: 8375251865511394062
+      IceCream_Popit_B_9: 8357377060090136165
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

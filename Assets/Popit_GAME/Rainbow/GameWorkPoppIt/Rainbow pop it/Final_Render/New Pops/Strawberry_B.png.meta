@@ -1,0 +1,780 @@
+fileFormatVersion: 2
+guid: 545d6afc177b15b448eb2bdd5a7dea73
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: -3426277209643906714
+    second: Strawberry_B_0
+  - first:
+      213: 4538680384907094124
+    second: Strawberry_B_1
+  - first:
+      213: -8492499585236817359
+    second: Strawberry_B_2
+  - first:
+      213: -6385446685440608456
+    second: Strawberry_B_3
+  - first:
+      213: -4300329340044266591
+    second: Strawberry_B_4
+  - first:
+      213: 4109999981110445317
+    second: Strawberry_B_5
+  - first:
+      213: 1491867932240232397
+    second: Strawberry_B_6
+  - first:
+      213: 4836763277805227659
+    second: Strawberry_B_7
+  - first:
+      213: 6229318430776148225
+    second: Strawberry_B_8
+  - first:
+      213: -8788511943812410723
+    second: Strawberry_B_9
+  - first:
+      213: 8149238064058670031
+    second: Strawberry_B_10
+  - first:
+      213: 3511195126371696823
+    second: Strawberry_B_11
+  - first:
+      213: 8335333487327853557
+    second: Strawberry_B_12
+  - first:
+      213: 1941458087656918077
+    second: Strawberry_B_13
+  - first:
+      213: -5214784043628505193
+    second: Strawberry_B_14
+  - first:
+      213: 606097072531727509
+    second: Strawberry_B_15
+  - first:
+      213: -2001649723609367371
+    second: Strawberry_B_16
+  - first:
+      213: 9148846976986717345
+    second: Strawberry_B_17
+  - first:
+      213: -7674143419079671670
+    second: Strawberry_B_18
+  - first:
+      213: -3380732138325276058
+    second: Strawberry_B_19
+  - first:
+      213: -1216572356221336530
+    second: Strawberry_B_20
+  - first:
+      213: -562059548727039687
+    second: Strawberry_B_21
+  - first:
+      213: 7553450566997721147
+    second: Strawberry_B_22
+  - first:
+      213: 3994770261265751533
+    second: Strawberry_B_23
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 0
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 1
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: iOS
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Android
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: 48
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 1
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Server
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: Strawberry_B_0
+      rect:
+        serializedVersion: 2
+        x: 135
+        y: 514
+        width: 62
+        height: 62
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6698821f70b6370d0800000000000000
+      internalID: -3426277209643906714
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Strawberry_B_1
+      rect:
+        serializedVersion: 2
+        x: 254
+        y: 484
+        width: 58
+        height: 58
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c68ab6b53c1acfe30800000000000000
+      internalID: 4538680384907094124
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Strawberry_B_2
+      rect:
+        serializedVersion: 2
+        x: 363
+        y: 485
+        width: 58
+        height: 58
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 13aaec65f94942a80800000000000000
+      internalID: -8492499585236817359
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Strawberry_B_3
+      rect:
+        serializedVersion: 2
+        x: 479
+        y: 508
+        width: 62
+        height: 62
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 837fd1632165267a0800000000000000
+      internalID: -6385446685440608456
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Strawberry_B_4
+      rect:
+        serializedVersion: 2
+        x: 152
+        y: 436
+        width: 62
+        height: 62
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1a3b875df392254c0800000000000000
+      internalID: -4300329340044266591
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Strawberry_B_5
+      rect:
+        serializedVersion: 2
+        x: 254
+        y: 405
+        width: 58
+        height: 58
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 50543f40537a90930800000000000000
+      internalID: 4109999981110445317
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Strawberry_B_6
+      rect:
+        serializedVersion: 2
+        x: 357
+        y: 407
+        width: 58
+        height: 58
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: dcfb9f8eafd24b410800000000000000
+      internalID: 1491867932240232397
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Strawberry_B_7
+      rect:
+        serializedVersion: 2
+        x: 464
+        y: 434
+        width: 62
+        height: 62
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b8e0c3c2392af1340800000000000000
+      internalID: 4836763277805227659
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Strawberry_B_8
+      rect:
+        serializedVersion: 2
+        x: 160
+        y: 360
+        width: 62
+        height: 62
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 101c433cb1cf27650800000000000000
+      internalID: 6229318430776148225
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Strawberry_B_9
+      rect:
+        serializedVersion: 2
+        x: 260
+        y: 329
+        width: 58
+        height: 58
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d9298cc53fee80680800000000000000
+      internalID: -8788511943812410723
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Strawberry_B_10
+      rect:
+        serializedVersion: 2
+        x: 353
+        y: 332
+        width: 58
+        height: 58
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fcb1f4eb7d8e71170800000000000000
+      internalID: 8149238064058670031
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Strawberry_B_11
+      rect:
+        serializedVersion: 2
+        x: 451
+        y: 363
+        width: 62
+        height: 62
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7b0c7744d554ab030800000000000000
+      internalID: 3511195126371696823
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Strawberry_B_12
+      rect:
+        serializedVersion: 2
+        x: 163
+        y: 284
+        width: 62
+        height: 62
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5fb389ce4ad0da370800000000000000
+      internalID: 8335333487327853557
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Strawberry_B_13
+      rect:
+        serializedVersion: 2
+        x: 262
+        y: 254
+        width: 58
+        height: 58
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d3c891d28d171fa10800000000000000
+      internalID: 1941458087656918077
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Strawberry_B_14
+      rect:
+        serializedVersion: 2
+        x: 346
+        y: 257
+        width: 58
+        height: 59
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 797d52b9a8d51a7b0800000000000000
+      internalID: -5214784043628505193
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Strawberry_B_15
+      rect:
+        serializedVersion: 2
+        x: 440
+        y: 285
+        width: 62
+        height: 62
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 59468a3831a496800800000000000000
+      internalID: 606097072531727509
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Strawberry_B_16
+      rect:
+        serializedVersion: 2
+        x: 167
+        y: 208
+        width: 62
+        height: 62
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5bc318b7e26b834e0800000000000000
+      internalID: -2001649723609367371
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Strawberry_B_17
+      rect:
+        serializedVersion: 2
+        x: 258
+        y: 176
+        width: 58
+        height: 59
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1ac13b75adb37fe70800000000000000
+      internalID: 9148846976986717345
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Strawberry_B_18
+      rect:
+        serializedVersion: 2
+        x: 346
+        y: 179
+        width: 58
+        height: 59
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a80ca5e3837ff7590800000000000000
+      internalID: -7674143419079671670
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Strawberry_B_19
+      rect:
+        serializedVersion: 2
+        x: 435
+        y: 210
+        width: 62
+        height: 62
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 66a0066380a3511d0800000000000000
+      internalID: -3380732138325276058
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Strawberry_B_20
+      rect:
+        serializedVersion: 2
+        x: 161
+        y: 130
+        width: 62
+        height: 62
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e240edf33eddd1fe0800000000000000
+      internalID: -1216572356221336530
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Strawberry_B_21
+      rect:
+        serializedVersion: 2
+        x: 253
+        y: 98
+        width: 58
+        height: 61
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 939228f71d92338f0800000000000000
+      internalID: -562059548727039687
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Strawberry_B_22
+      rect:
+        serializedVersion: 2
+        x: 346
+        y: 101
+        width: 58
+        height: 60
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b304f52554f33d860800000000000000
+      internalID: 7553450566997721147
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Strawberry_B_23
+      rect:
+        serializedVersion: 2
+        x: 430
+        y: 131
+        width: 62
+        height: 62
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ded1a0e2366407730800000000000000
+      internalID: 3994770261265751533
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable:
+      Strawberry_B_0: -3426277209643906714
+      Strawberry_B_1: 4538680384907094124
+      Strawberry_B_10: 8149238064058670031
+      Strawberry_B_11: 3511195126371696823
+      Strawberry_B_12: 8335333487327853557
+      Strawberry_B_13: 1941458087656918077
+      Strawberry_B_14: -5214784043628505193
+      Strawberry_B_15: 606097072531727509
+      Strawberry_B_16: -2001649723609367371
+      Strawberry_B_17: 9148846976986717345
+      Strawberry_B_18: -7674143419079671670
+      Strawberry_B_19: -3380732138325276058
+      Strawberry_B_2: -8492499585236817359
+      Strawberry_B_20: -1216572356221336530
+      Strawberry_B_21: -562059548727039687
+      Strawberry_B_22: 7553450566997721147
+      Strawberry_B_23: 3994770261265751533
+      Strawberry_B_3: -6385446685440608456
+      Strawberry_B_4: -4300329340044266591
+      Strawberry_B_5: 4109999981110445317
+      Strawberry_B_6: 1491867932240232397
+      Strawberry_B_7: 4836763277805227659
+      Strawberry_B_8: 6229318430776148225
+      Strawberry_B_9: -8788511943812410723
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

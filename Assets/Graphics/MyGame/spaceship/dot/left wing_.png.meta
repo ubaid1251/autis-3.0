@@ -1,0 +1,690 @@
+fileFormatVersion: 2
+guid: adf92a324bc67524db84ca63725e8d3d
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 4203138296773347882
+    second: left wing__0
+  - first:
+      213: -4639891863208347989
+    second: left wing__1
+  - first:
+      213: -6792499017325558366
+    second: left wing__2
+  - first:
+      213: -5189634277213590607
+    second: left wing__3
+  - first:
+      213: -7414871713075710102
+    second: left wing__4
+  - first:
+      213: -8089329805393851420
+    second: left wing__5
+  - first:
+      213: -2630597657883878065
+    second: left wing__6
+  - first:
+      213: 5036861724834492912
+    second: left wing__7
+  - first:
+      213: 2617473815707265708
+    second: left wing__8
+  - first:
+      213: -7994451475044231326
+    second: left wing__9
+  - first:
+      213: 1712855367107653041
+    second: left wing__10
+  - first:
+      213: 1921734484545347940
+    second: left wing__11
+  - first:
+      213: -5906714467582145722
+    second: left wing__12
+  - first:
+      213: -3978241373402859735
+    second: left wing__13
+  - first:
+      213: 3687078789033215149
+    second: left wing__14
+  - first:
+      213: -1624318223805392226
+    second: left wing__15
+  - first:
+      213: -5850304448102528335
+    second: left wing__16
+  - first:
+      213: 7937258993051348716
+    second: left wing__17
+  - first:
+      213: 7919564317227690379
+    second: left wing__18
+  - first:
+      213: 7633956639224946238
+    second: left wing__19
+  - first:
+      213: -1984455887375138547
+    second: left wing__20
+  - first:
+      213: 6731448490535768989
+    second: left wing__21
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 1
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Android
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: iPhone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: left wing__0
+      rect:
+        serializedVersion: 2
+        x: 52
+        y: 289
+        width: 15
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a2a0401030c845a30800000000000000
+      internalID: 4203138296773347882
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: left wing__1
+      rect:
+        serializedVersion: 2
+        x: 72
+        y: 302
+        width: 21
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ba6bd310feacb9fb0800000000000000
+      internalID: -4639891863208347989
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: left wing__2
+      rect:
+        serializedVersion: 2
+        x: 11
+        y: 264
+        width: 15
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2a5ce17c1223cb1a0800000000000000
+      internalID: -6792499017325558366
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: left wing__3
+      rect:
+        serializedVersion: 2
+        x: 31
+        y: 276
+        width: 15
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1bb2e78ee17baf7b0800000000000000
+      internalID: -5189634277213590607
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: left wing__4
+      rect:
+        serializedVersion: 2
+        x: 9
+        y: 247
+        width: 15
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a67b70f6675191990800000000000000
+      internalID: -7414871713075710102
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: left wing__5
+      rect:
+        serializedVersion: 2
+        x: 8
+        y: 222
+        width: 15
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4eb058ea66decbf80800000000000000
+      internalID: -8089329805393851420
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: left wing__6
+      rect:
+        serializedVersion: 2
+        x: 7
+        y: 198
+        width: 15
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f4d5bde1e5d3e7bd0800000000000000
+      internalID: -2630597657883878065
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: left wing__7
+      rect:
+        serializedVersion: 2
+        x: 6
+        y: 174
+        width: 15
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0f175836d0786e540800000000000000
+      internalID: 5036861724834492912
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: left wing__8
+      rect:
+        serializedVersion: 2
+        x: 5
+        y: 150
+        width: 15
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: caa2e124192235420800000000000000
+      internalID: 2617473815707265708
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: left wing__9
+      rect:
+        serializedVersion: 2
+        x: 4
+        y: 126
+        width: 15
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 26714e76db00e0190800000000000000
+      internalID: -7994451475044231326
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: left wing__10
+      rect:
+        serializedVersion: 2
+        x: 136
+        y: 103
+        width: 19
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1bda21c91e845c710800000000000000
+      internalID: 1712855367107653041
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: left wing__11
+      rect:
+        serializedVersion: 2
+        x: 3
+        y: 102
+        width: 15
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 461a1f7f45f5baa10800000000000000
+      internalID: 1921734484545347940
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: left wing__12
+      rect:
+        serializedVersion: 2
+        x: 118
+        y: 88
+        width: 15
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 64b0b12ac72270ea0800000000000000
+      internalID: -5906714467582145722
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: left wing__13
+      rect:
+        serializedVersion: 2
+        x: 2
+        y: 78
+        width: 15
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9277f8b6c827ac8c0800000000000000
+      internalID: -3978241373402859735
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: left wing__14
+      rect:
+        serializedVersion: 2
+        x: 99
+        y: 73
+        width: 15
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: da4c337af922b2330800000000000000
+      internalID: 3687078789033215149
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: left wing__15
+      rect:
+        serializedVersion: 2
+        x: 1
+        y: 54
+        width: 15
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e9ad2e37e234579e0800000000000000
+      internalID: -1624318223805392226
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: left wing__16
+      rect:
+        serializedVersion: 2
+        x: 61
+        y: 43
+        width: 15
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1ba06f6c91b8fcea0800000000000000
+      internalID: -5850304448102528335
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: left wing__17
+      rect:
+        serializedVersion: 2
+        x: 80
+        y: 58
+        width: 15
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ceea913300fc62e60800000000000000
+      internalID: 7937258993051348716
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: left wing__18
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 30
+        width: 15
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b89273079c1f7ed60800000000000000
+      internalID: 7919564317227690379
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: left wing__19
+      rect:
+        serializedVersion: 2
+        x: 42
+        y: 28
+        width: 15
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e3edcbfed1341f960800000000000000
+      internalID: 7633956639224946238
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: left wing__20
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 0
+        width: 19
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d01829072ebc574e0800000000000000
+      internalID: -1984455887375138547
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: left wing__21
+      rect:
+        serializedVersion: 2
+        x: 23
+        y: 13
+        width: 15
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d935936ccb8ea6d50800000000000000
+      internalID: 6731448490535768989
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    nameFileIdTable:
+      left wing__0: 4203138296773347882
+      left wing__1: -4639891863208347989
+      left wing__10: 1712855367107653041
+      left wing__11: 1921734484545347940
+      left wing__12: -5906714467582145722
+      left wing__13: -3978241373402859735
+      left wing__14: 3687078789033215149
+      left wing__15: -1624318223805392226
+      left wing__16: -5850304448102528335
+      left wing__17: 7937258993051348716
+      left wing__18: 7919564317227690379
+      left wing__19: 7633956639224946238
+      left wing__2: -6792499017325558366
+      left wing__20: -1984455887375138547
+      left wing__21: 6731448490535768989
+      left wing__3: -5189634277213590607
+      left wing__4: -7414871713075710102
+      left wing__5: -8089329805393851420
+      left wing__6: -2630597657883878065
+      left wing__7: 5036861724834492912
+      left wing__8: 2617473815707265708
+      left wing__9: -7994451475044231326
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

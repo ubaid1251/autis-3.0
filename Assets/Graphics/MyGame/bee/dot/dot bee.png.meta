@@ -1,0 +1,1853 @@
+fileFormatVersion: 2
+guid: af8f031d9352ec444a0dcd1bb6bc5017
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 4059117070987513847
+    second: dot bee_0
+  - first:
+      213: -5709261740791646712
+    second: dot bee_1
+  - first:
+      213: 67624372005519570
+    second: dot bee_2
+  - first:
+      213: 1869233142495341999
+    second: dot bee_3
+  - first:
+      213: -7757817399110310077
+    second: dot bee_4
+  - first:
+      213: -8317435798359665591
+    second: dot bee_5
+  - first:
+      213: -6750017563089273915
+    second: dot bee_6
+  - first:
+      213: 5661349503794031865
+    second: dot bee_7
+  - first:
+      213: -2578484845452273124
+    second: dot bee_8
+  - first:
+      213: -3327889719392491253
+    second: dot bee_9
+  - first:
+      213: -971406812968975237
+    second: dot bee_10
+  - first:
+      213: 6936264517378314009
+    second: dot bee_11
+  - first:
+      213: 592917517949608276
+    second: dot bee_12
+  - first:
+      213: 5780193660652506056
+    second: dot bee_13
+  - first:
+      213: -3325195564160844602
+    second: dot bee_14
+  - first:
+      213: -7052029293506765421
+    second: dot bee_15
+  - first:
+      213: -5672392720313672413
+    second: dot bee_16
+  - first:
+      213: -9164474316046528419
+    second: dot bee_17
+  - first:
+      213: 8165663495403255350
+    second: dot bee_18
+  - first:
+      213: -1919772236165511014
+    second: dot bee_19
+  - first:
+      213: -724197426317941589
+    second: dot bee_20
+  - first:
+      213: 4331153419562144991
+    second: dot bee_21
+  - first:
+      213: 2053242230136594910
+    second: dot bee_22
+  - first:
+      213: 4136285592729525116
+    second: dot bee_23
+  - first:
+      213: -1349872747347151127
+    second: dot bee_24
+  - first:
+      213: 5896874528669065809
+    second: dot bee_25
+  - first:
+      213: -7321640231384370871
+    second: dot bee_26
+  - first:
+      213: -609696100648881696
+    second: dot bee_27
+  - first:
+      213: -3035882296086266571
+    second: dot bee_28
+  - first:
+      213: -2187243831184971249
+    second: dot bee_29
+  - first:
+      213: -3586115022089183065
+    second: dot bee_30
+  - first:
+      213: -1701930722812896992
+    second: dot bee_31
+  - first:
+      213: -8083396910734180303
+    second: dot bee_32
+  - first:
+      213: -5267782026601205080
+    second: dot bee_33
+  - first:
+      213: 257221761207497283
+    second: dot bee_34
+  - first:
+      213: 8582537258175433878
+    second: dot bee_35
+  - first:
+      213: 8119318980515421711
+    second: dot bee_36
+  - first:
+      213: -3407278208885232432
+    second: dot bee_37
+  - first:
+      213: -2159842317375957280
+    second: dot bee_38
+  - first:
+      213: -3872297023512156478
+    second: dot bee_39
+  - first:
+      213: 3411452203220790187
+    second: dot bee_40
+  - first:
+      213: 8276192067134519829
+    second: dot bee_41
+  - first:
+      213: 7935057435805455240
+    second: dot bee_42
+  - first:
+      213: 3420398472910881037
+    second: dot bee_43
+  - first:
+      213: 6080174347604303655
+    second: dot bee_44
+  - first:
+      213: -1490000279278883265
+    second: dot bee_45
+  - first:
+      213: 4659806845228332563
+    second: dot bee_46
+  - first:
+      213: 2039877478714493612
+    second: dot bee_47
+  - first:
+      213: -5851433045361173472
+    second: dot bee_48
+  - first:
+      213: 3301934906594328115
+    second: dot bee_49
+  - first:
+      213: -2641181139719506825
+    second: dot bee_50
+  - first:
+      213: -6286747685795871515
+    second: dot bee_51
+  - first:
+      213: -3061466542773064906
+    second: dot bee_52
+  - first:
+      213: 4005543599617111627
+    second: dot bee_53
+  - first:
+      213: 8720133156231534803
+    second: dot bee_54
+  - first:
+      213: 2263986594270909534
+    second: dot bee_55
+  - first:
+      213: -8947530617658551215
+    second: dot bee_56
+  - first:
+      213: -288105572366073413
+    second: dot bee_57
+  - first:
+      213: -4612187615398611752
+    second: dot bee_58
+  - first:
+      213: 7627029018616963507
+    second: dot bee_59
+  - first:
+      213: 3695600346049997009
+    second: dot bee_60
+  - first:
+      213: -7473965223372667956
+    second: dot bee_61
+  - first:
+      213: 512237621827175243
+    second: dot bee_62
+  - first:
+      213: 747831463027396593
+    second: dot bee_63
+  - first:
+      213: -5870463647593866043
+    second: dot bee_64
+  - first:
+      213: -6987391436842945021
+    second: dot bee_65
+  - first:
+      213: -9123547358744079821
+    second: dot bee_66
+  - first:
+      213: -8837200225014765229
+    second: dot bee_67
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 1
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: WebGL
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Android
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: iPhone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: dot bee_0
+      rect:
+        serializedVersion: 2
+        x: 57
+        y: 444
+        width: 13
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7ff4fed4871e45830800000000000000
+      internalID: 4059117070987513847
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: dot bee_1
+      rect:
+        serializedVersion: 2
+        x: 76
+        y: 449
+        width: 13
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 806b26a12b0a4c0b0800000000000000
+      internalID: -5709261740791646712
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: dot bee_2
+      rect:
+        serializedVersion: 2
+        x: 95
+        y: 452
+        width: 13
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2d04c8f020040f000800000000000000
+      internalID: 67624372005519570
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: dot bee_3
+      rect:
+        serializedVersion: 2
+        x: 114
+        y: 451
+        width: 13
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fad62d4b3a9d0f910800000000000000
+      internalID: 1869233142495341999
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: dot bee_4
+      rect:
+        serializedVersion: 2
+        x: 134
+        y: 448
+        width: 13
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3476fad9d22b65490800000000000000
+      internalID: -7757817399110310077
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: dot bee_5
+      rect:
+        serializedVersion: 2
+        x: 152
+        y: 443
+        width: 13
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 94497a48538829c80800000000000000
+      internalID: -8317435798359665591
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: dot bee_6
+      rect:
+        serializedVersion: 2
+        x: 24
+        y: 424
+        width: 13
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5cb7a6c1ace1352a0800000000000000
+      internalID: -6750017563089273915
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: dot bee_7
+      rect:
+        serializedVersion: 2
+        x: 40
+        y: 436
+        width: 13
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9fc2afae067219e40800000000000000
+      internalID: 5661349503794031865
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: dot bee_8
+      rect:
+        serializedVersion: 2
+        x: 170
+        y: 435
+        width: 13
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c1ad618c1b1673cd0800000000000000
+      internalID: -2578484845452273124
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: dot bee_9
+      rect:
+        serializedVersion: 2
+        x: 186
+        y: 425
+        width: 13
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b09afef9ee5f0d1d0800000000000000
+      internalID: -3327889719392491253
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: dot bee_10
+      rect:
+        serializedVersion: 2
+        x: 10
+        y: 411
+        width: 13
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b74079c76aed482f0800000000000000
+      internalID: -971406812968975237
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: dot bee_11
+      rect:
+        serializedVersion: 2
+        x: 200
+        y: 411
+        width: 13
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 91f0b7224df824060800000000000000
+      internalID: 6936264517378314009
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: dot bee_12
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 396
+        width: 11
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4512e7657577a3800800000000000000
+      internalID: 592917517949608276
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: dot bee_13
+      rect:
+        serializedVersion: 2
+        x: 211
+        y: 396
+        width: 13
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8cb4824728f573050800000000000000
+      internalID: 5780193660652506056
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: dot bee_14
+      rect:
+        serializedVersion: 2
+        x: 219
+        y: 378
+        width: 13
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6ccfc7580488ad1d0800000000000000
+      internalID: -3325195564160844602
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: dot bee_15
+      rect:
+        serializedVersion: 2
+        x: 224
+        y: 359
+        width: 13
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 39d51e688b8222e90800000000000000
+      internalID: -7052029293506765421
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: dot bee_16
+      rect:
+        serializedVersion: 2
+        x: 227
+        y: 340
+        width: 13
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 32d113fdfdc9741b0800000000000000
+      internalID: -5672392720313672413
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: dot bee_17
+      rect:
+        serializedVersion: 2
+        x: 228
+        y: 320
+        width: 12
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d501bde3a2f31d080800000000000000
+      internalID: -9164474316046528419
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: dot bee_18
+      rect:
+        serializedVersion: 2
+        x: 226
+        y: 301
+        width: 13
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 636b2ee7fa3425170800000000000000
+      internalID: 8165663495403255350
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: dot bee_19
+      rect:
+        serializedVersion: 2
+        x: 143
+        y: 268
+        width: 13
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a9882b592599b55e0800000000000000
+      internalID: -1919772236165511014
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: dot bee_20
+      rect:
+        serializedVersion: 2
+        x: 162
+        y: 274
+        width: 13
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ba42119174223f5f0800000000000000
+      internalID: -724197426317941589
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: dot bee_21
+      rect:
+        serializedVersion: 2
+        x: 181
+        y: 278
+        width: 13
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fd458b076195b1c30800000000000000
+      internalID: 4331153419562144991
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: dot bee_22
+      rect:
+        serializedVersion: 2
+        x: 200
+        y: 280
+        width: 13
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ed16f150ee49e7c10800000000000000
+      internalID: 2053242230136594910
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: dot bee_23
+      rect:
+        serializedVersion: 2
+        x: 220
+        y: 279
+        width: 13
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c7b9534e4d9076930800000000000000
+      internalID: 4136285592729525116
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: dot bee_24
+      rect:
+        serializedVersion: 2
+        x: 239
+        y: 277
+        width: 13
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9e6746263e9444de0800000000000000
+      internalID: -1349872747347151127
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: dot bee_25
+      rect:
+        serializedVersion: 2
+        x: 258
+        y: 272
+        width: 13
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1526e5e0428e5d150800000000000000
+      internalID: 5896874528669065809
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: dot bee_26
+      rect:
+        serializedVersion: 2
+        x: 107
+        y: 251
+        width: 13
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9413023500f446a90800000000000000
+      internalID: -7321640231384370871
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: dot bee_27
+      rect:
+        serializedVersion: 2
+        x: 125
+        y: 260
+        width: 13
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0e1f1e370ace987f0800000000000000
+      internalID: -609696100648881696
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: dot bee_28
+      rect:
+        serializedVersion: 2
+        x: 275
+        y: 264
+        width: 13
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 53d71e1f2216ed5d0800000000000000
+      internalID: -3035882296086266571
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: dot bee_29
+      rect:
+        serializedVersion: 2
+        x: 291
+        y: 253
+        width: 13
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f0a2e05f25955a1e0800000000000000
+      internalID: -2187243831184971249
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: dot bee_30
+      rect:
+        serializedVersion: 2
+        x: 75
+        y: 229
+        width: 13
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7a0aea0336f8b3ec0800000000000000
+      internalID: -3586115022089183065
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: dot bee_31
+      rect:
+        serializedVersion: 2
+        x: 91
+        y: 240
+        width: 13
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 029d96a56078168e0800000000000000
+      internalID: -1701930722812896992
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: dot bee_32
+      rect:
+        serializedVersion: 2
+        x: 305
+        y: 240
+        width: 13
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 130033d565102df80800000000000000
+      internalID: -8083396910734180303
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: dot bee_33
+      rect:
+        serializedVersion: 2
+        x: 61
+        y: 215
+        width: 13
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8a27f3e182415e6b0800000000000000
+      internalID: -5267782026601205080
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: dot bee_34
+      rect:
+        serializedVersion: 2
+        x: 317
+        y: 225
+        width: 13
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 342f54934d5d19300800000000000000
+      internalID: 257221761207497283
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: dot bee_35
+      rect:
+        serializedVersion: 2
+        x: 47
+        y: 201
+        width: 13
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 69c0a110a2c4b1770800000000000000
+      internalID: 8582537258175433878
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: dot bee_36
+      rect:
+        serializedVersion: 2
+        x: 325
+        y: 207
+        width: 13
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f0e55b3489d9da070800000000000000
+      internalID: 8119318980515421711
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: dot bee_37
+      rect:
+        serializedVersion: 2
+        x: 35
+        y: 185
+        width: 13
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0dc6774858ae6b0d0800000000000000
+      internalID: -3407278208885232432
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: dot bee_38
+      rect:
+        serializedVersion: 2
+        x: 330
+        y: 189
+        width: 13
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0e613fd0bd2b602e0800000000000000
+      internalID: -2159842317375957280
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: dot bee_39
+      rect:
+        serializedVersion: 2
+        x: 25
+        y: 169
+        width: 13
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2c661c89f56d24ac0800000000000000
+      internalID: -3872297023512156478
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: dot bee_40
+      rect:
+        serializedVersion: 2
+        x: 333
+        y: 170
+        width: 11
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: babe23544b9e75f20800000000000000
+      internalID: 3411452203220790187
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: dot bee_41
+      rect:
+        serializedVersion: 2
+        x: 17
+        y: 151
+        width: 13
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 51a757ef5d0fad270800000000000000
+      internalID: 8276192067134519829
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: dot bee_42
+      rect:
+        serializedVersion: 2
+        x: 332
+        y: 150
+        width: 12
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 883918532bcfe1e60800000000000000
+      internalID: 7935057435805455240
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: dot bee_43
+      rect:
+        serializedVersion: 2
+        x: 11
+        y: 132
+        width: 13
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d0144200a42b77f20800000000000000
+      internalID: 3420398472910881037
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: dot bee_44
+      rect:
+        serializedVersion: 2
+        x: 328
+        y: 131
+        width: 13
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 72f9561ea5e116450800000000000000
+      internalID: 6080174347604303655
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: dot bee_45
+      rect:
+        serializedVersion: 2
+        x: 7
+        y: 113
+        width: 13
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f3e695ee3a4725be0800000000000000
+      internalID: -1490000279278883265
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: dot bee_46
+      rect:
+        serializedVersion: 2
+        x: 322
+        y: 113
+        width: 13
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 316b4c313a5faa040800000000000000
+      internalID: 4659806845228332563
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: dot bee_47
+      rect:
+        serializedVersion: 2
+        x: 7
+        y: 94
+        width: 12
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: caac81852c91f4c10800000000000000
+      internalID: 2039877478714493612
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: dot bee_48
+      rect:
+        serializedVersion: 2
+        x: 313
+        y: 96
+        width: 13
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 02cd340c5a88bcea0800000000000000
+      internalID: -5851433045361173472
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: dot bee_49
+      rect:
+        serializedVersion: 2
+        x: 9
+        y: 75
+        width: 13
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 33e740b9d44d2dd20800000000000000
+      internalID: 3301934906594328115
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: dot bee_50
+      rect:
+        serializedVersion: 2
+        x: 302
+        y: 80
+        width: 13
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 774be8b3fb3a85bd0800000000000000
+      internalID: -2641181139719506825
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: dot bee_51
+      rect:
+        serializedVersion: 2
+        x: 16
+        y: 57
+        width: 13
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5e4c0a3d94cf0c8a0800000000000000
+      internalID: -6286747685795871515
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: dot bee_52
+      rect:
+        serializedVersion: 2
+        x: 275
+        y: 52
+        width: 13
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 63ba442566c7385d0800000000000000
+      internalID: -3061466542773064906
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: dot bee_53
+      rect:
+        serializedVersion: 2
+        x: 289
+        y: 65
+        width: 13
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b46748b7eac869730800000000000000
+      internalID: 4005543599617111627
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: dot bee_54
+      rect:
+        serializedVersion: 2
+        x: 26
+        y: 41
+        width: 13
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3d8594387e2240970800000000000000
+      internalID: 8720133156231534803
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: dot bee_55
+      rect:
+        serializedVersion: 2
+        x: 242
+        y: 29
+        width: 13
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e5493c7ffcb4b6f10800000000000000
+      internalID: 2263986594270909534
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: dot bee_56
+      rect:
+        serializedVersion: 2
+        x: 259
+        y: 40
+        width: 13
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 154d78d2f4cf3d380800000000000000
+      internalID: -8947530617658551215
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: dot bee_57
+      rect:
+        serializedVersion: 2
+        x: 39
+        y: 27
+        width: 13
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bb14f452281700cf0800000000000000
+      internalID: -288105572366073413
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: dot bee_58
+      rect:
+        serializedVersion: 2
+        x: 55
+        y: 16
+        width: 13
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8d4b5badcc73effb0800000000000000
+      internalID: -4612187615398611752
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: dot bee_59
+      rect:
+        serializedVersion: 2
+        x: 225
+        y: 20
+        width: 13
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3b1a2429b76a8d960800000000000000
+      internalID: 7627029018616963507
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: dot bee_60
+      rect:
+        serializedVersion: 2
+        x: 72
+        y: 8
+        width: 13
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1d8ee124fe8694330800000000000000
+      internalID: 3695600346049997009
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: dot bee_61
+      rect:
+        serializedVersion: 2
+        x: 91
+        y: 3
+        width: 13
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: cc3cf356a34274890800000000000000
+      internalID: -7473965223372667956
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: dot bee_62
+      rect:
+        serializedVersion: 2
+        x: 169
+        y: 2
+        width: 13
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b4389913765db1700800000000000000
+      internalID: 512237621827175243
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: dot bee_63
+      rect:
+        serializedVersion: 2
+        x: 188
+        y: 7
+        width: 13
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1ffcb91e0c4d06a00800000000000000
+      internalID: 747831463027396593
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: dot bee_64
+      rect:
+        serializedVersion: 2
+        x: 207
+        y: 13
+        width: 13
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5ccd2526a6ce78ea0800000000000000
+      internalID: -5870463647593866043
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: dot bee_65
+      rect:
+        serializedVersion: 2
+        x: 110
+        y: 0
+        width: 13
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 306be5c428cc70f90800000000000000
+      internalID: -6987391436842945021
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: dot bee_66
+      rect:
+        serializedVersion: 2
+        x: 129
+        y: 0
+        width: 14
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3321b9e0406a26180800000000000000
+      internalID: -9123547358744079821
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: dot bee_67
+      rect:
+        serializedVersion: 2
+        x: 149
+        y: 0
+        width: 13
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3592ef28735fb5580800000000000000
+      internalID: -8837200225014765229
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    nameFileIdTable:
+      dot bee_0: 4059117070987513847
+      dot bee_1: -5709261740791646712
+      dot bee_10: -971406812968975237
+      dot bee_11: 6936264517378314009
+      dot bee_12: 592917517949608276
+      dot bee_13: 5780193660652506056
+      dot bee_14: -3325195564160844602
+      dot bee_15: -7052029293506765421
+      dot bee_16: -5672392720313672413
+      dot bee_17: -9164474316046528419
+      dot bee_18: 8165663495403255350
+      dot bee_19: -1919772236165511014
+      dot bee_2: 67624372005519570
+      dot bee_20: -724197426317941589
+      dot bee_21: 4331153419562144991
+      dot bee_22: 2053242230136594910
+      dot bee_23: 4136285592729525116
+      dot bee_24: -1349872747347151127
+      dot bee_25: 5896874528669065809
+      dot bee_26: -7321640231384370871
+      dot bee_27: -609696100648881696
+      dot bee_28: -3035882296086266571
+      dot bee_29: -2187243831184971249
+      dot bee_3: 1869233142495341999
+      dot bee_30: -3586115022089183065
+      dot bee_31: -1701930722812896992
+      dot bee_32: -8083396910734180303
+      dot bee_33: -5267782026601205080
+      dot bee_34: 257221761207497283
+      dot bee_35: 8582537258175433878
+      dot bee_36: 8119318980515421711
+      dot bee_37: -3407278208885232432
+      dot bee_38: -2159842317375957280
+      dot bee_39: -3872297023512156478
+      dot bee_4: -7757817399110310077
+      dot bee_40: 3411452203220790187
+      dot bee_41: 8276192067134519829
+      dot bee_42: 7935057435805455240
+      dot bee_43: 3420398472910881037
+      dot bee_44: 6080174347604303655
+      dot bee_45: -1490000279278883265
+      dot bee_46: 4659806845228332563
+      dot bee_47: 2039877478714493612
+      dot bee_48: -5851433045361173472
+      dot bee_49: 3301934906594328115
+      dot bee_5: -8317435798359665591
+      dot bee_50: -2641181139719506825
+      dot bee_51: -6286747685795871515
+      dot bee_52: -3061466542773064906
+      dot bee_53: 4005543599617111627
+      dot bee_54: 8720133156231534803
+      dot bee_55: 2263986594270909534
+      dot bee_56: -8947530617658551215
+      dot bee_57: -288105572366073413
+      dot bee_58: -4612187615398611752
+      dot bee_59: 7627029018616963507
+      dot bee_6: -6750017563089273915
+      dot bee_60: 3695600346049997009
+      dot bee_61: -7473965223372667956
+      dot bee_62: 512237621827175243
+      dot bee_63: 747831463027396593
+      dot bee_64: -5870463647593866043
+      dot bee_65: -6987391436842945021
+      dot bee_66: -9123547358744079821
+      dot bee_67: -8837200225014765229
+      dot bee_7: 5661349503794031865
+      dot bee_8: -2578484845452273124
+      dot bee_9: -3327889719392491253
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

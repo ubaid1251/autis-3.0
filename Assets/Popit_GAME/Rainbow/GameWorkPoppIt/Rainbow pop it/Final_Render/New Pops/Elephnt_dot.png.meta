@@ -1,0 +1,819 @@
+fileFormatVersion: 2
+guid: aa03bf6134d146a4cbc9e20814acbb1e
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: -2463985757173895112
+    second: Elephnt_dot_0
+  - first:
+      213: -1818527444840484449
+    second: Elephnt_dot_1
+  - first:
+      213: -4101083047303205797
+    second: Elephnt_dot_2
+  - first:
+      213: -3450312208643874501
+    second: Elephnt_dot_3
+  - first:
+      213: -3805908440434880928
+    second: Elephnt_dot_4
+  - first:
+      213: -4271009887002687775
+    second: Elephnt_dot_5
+  - first:
+      213: -3974274212418918807
+    second: Elephnt_dot_6
+  - first:
+      213: 8441987480427298983
+    second: Elephnt_dot_7
+  - first:
+      213: 1584064685432138661
+    second: Elephnt_dot_8
+  - first:
+      213: -2123849131930172721
+    second: Elephnt_dot_9
+  - first:
+      213: -6693517310752637066
+    second: Elephnt_dot_10
+  - first:
+      213: 7147416851080987956
+    second: Elephnt_dot_11
+  - first:
+      213: 836393240010089419
+    second: Elephnt_dot_12
+  - first:
+      213: 8200893694171926018
+    second: Elephnt_dot_13
+  - first:
+      213: 925250301227422757
+    second: Elephnt_dot_14
+  - first:
+      213: 6054925172511004229
+    second: Elephnt_dot_15
+  - first:
+      213: -6336652197800913715
+    second: Elephnt_dot_16
+  - first:
+      213: 4387483822738114446
+    second: Elephnt_dot_17
+  - first:
+      213: 1531463724270597454
+    second: Elephnt_dot_18
+  - first:
+      213: 6722836389531429458
+    second: Elephnt_dot_19
+  - first:
+      213: 8277875360582143000
+    second: Elephnt_dot_20
+  - first:
+      213: 3074014557185919897
+    second: Elephnt_dot_21
+  - first:
+      213: -1562134318842764098
+    second: Elephnt_dot_22
+  - first:
+      213: -2965945731486047653
+    second: Elephnt_dot_23
+  - first:
+      213: -8739399471235472998
+    second: Elephnt_dot_24
+  - first:
+      213: -4974126838500648443
+    second: Elephnt_dot_25
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Android
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: iOS
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: Elephnt_dot_0
+      rect:
+        serializedVersion: 2
+        x: 148
+        y: 557
+        width: 55
+        height: 50
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8303704320a2ecdd0800000000000000
+      internalID: -2463985757173895112
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Elephnt_dot_1
+      rect:
+        serializedVersion: 2
+        x: 211
+        y: 573
+        width: 55
+        height: 50
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f91fbf38cea43c6e0800000000000000
+      internalID: -1818527444840484449
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Elephnt_dot_2
+      rect:
+        serializedVersion: 2
+        x: 274
+        y: 577
+        width: 55
+        height: 50
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b5cad1b62b60617c0800000000000000
+      internalID: -4101083047303205797
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Elephnt_dot_3
+      rect:
+        serializedVersion: 2
+        x: 349
+        y: 566
+        width: 59
+        height: 50
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b31a697a3570e10d0800000000000000
+      internalID: -3450312208643874501
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Elephnt_dot_4
+      rect:
+        serializedVersion: 2
+        x: 413
+        y: 569
+        width: 57
+        height: 52
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 06ec7302072be2bc0800000000000000
+      internalID: -3805908440434880928
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Elephnt_dot_5
+      rect:
+        serializedVersion: 2
+        x: 115
+        y: 492
+        width: 55
+        height: 50
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1e60605f2235ab4c0800000000000000
+      internalID: -4271009887002687775
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Elephnt_dot_6
+      rect:
+        serializedVersion: 2
+        x: 183
+        y: 504
+        width: 57
+        height: 50
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 96666c019aa88d8c0800000000000000
+      internalID: -3974274212418918807
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Elephnt_dot_7
+      rect:
+        serializedVersion: 2
+        x: 246
+        y: 514
+        width: 57
+        height: 50
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7a00a29c2e6f72570800000000000000
+      internalID: 8441987480427298983
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Elephnt_dot_8
+      rect:
+        serializedVersion: 2
+        x: 319
+        y: 512
+        width: 59
+        height: 50
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5ab6c6c407abbf510800000000000000
+      internalID: 1584064685432138661
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Elephnt_dot_9
+      rect:
+        serializedVersion: 2
+        x: 382
+        y: 513
+        width: 60
+        height: 50
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fc2c7c697729682e0800000000000000
+      internalID: -2123849131930172721
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Elephnt_dot_10
+      rect:
+        serializedVersion: 2
+        x: 604
+        y: 500
+        width: 60
+        height: 50
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 67f39aa3879db13a0800000000000000
+      internalID: -6693517310752637066
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Elephnt_dot_11
+      rect:
+        serializedVersion: 2
+        x: 68
+        y: 427
+        width: 55
+        height: 50
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 435c256e1c9b03360800000000000000
+      internalID: 7147416851080987956
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Elephnt_dot_12
+      rect:
+        serializedVersion: 2
+        x: 127
+        y: 432
+        width: 52
+        height: 48
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bc3e65b68377b9b00800000000000000
+      internalID: 836393240010089419
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Elephnt_dot_13
+      rect:
+        serializedVersion: 2
+        x: 188
+        y: 443
+        width: 53
+        height: 48
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 20ecbd95d5d6fc170800000000000000
+      internalID: 8200893694171926018
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Elephnt_dot_14
+      rect:
+        serializedVersion: 2
+        x: 252
+        y: 452
+        width: 53
+        height: 48
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 524dbfc2f3627dc00800000000000000
+      internalID: 925250301227422757
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Elephnt_dot_15
+      rect:
+        serializedVersion: 2
+        x: 352
+        y: 460
+        width: 59
+        height: 50
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 546d6113d5a670450800000000000000
+      internalID: 6054925172511004229
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Elephnt_dot_16
+      rect:
+        serializedVersion: 2
+        x: 524
+        y: 424
+        width: 57
+        height: 51
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: dc4d0ec2660bf08a0800000000000000
+      internalID: -6336652197800913715
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Elephnt_dot_17
+      rect:
+        serializedVersion: 2
+        x: 586
+        y: 440
+        width: 55
+        height: 56
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e8704187a4973ec30800000000000000
+      internalID: 4387483822738114446
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Elephnt_dot_18
+      rect:
+        serializedVersion: 2
+        x: 134
+        y: 369
+        width: 59
+        height: 50
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e45bb87a42ad04510800000000000000
+      internalID: 1531463724270597454
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Elephnt_dot_19
+      rect:
+        serializedVersion: 2
+        x: 201
+        y: 379
+        width: 59
+        height: 50
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 25a2711c3105c4d50800000000000000
+      internalID: 6722836389531429458
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Elephnt_dot_20
+      rect:
+        serializedVersion: 2
+        x: 267
+        y: 388
+        width: 59
+        height: 50
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 81c057a48cbe0e270800000000000000
+      internalID: 8277875360582143000
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Elephnt_dot_21
+      rect:
+        serializedVersion: 2
+        x: 331
+        y: 392
+        width: 59
+        height: 50
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 99b4273f3f719aa20800000000000000
+      internalID: 3074014557185919897
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Elephnt_dot_22
+      rect:
+        serializedVersion: 2
+        x: 399
+        y: 399
+        width: 56
+        height: 48
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: eb42ee11d1f225ae0800000000000000
+      internalID: -1562134318842764098
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Elephnt_dot_23
+      rect:
+        serializedVersion: 2
+        x: 88
+        y: 310
+        width: 56
+        height: 51
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b5220bb4218d6d6d0800000000000000
+      internalID: -2965945731486047653
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Elephnt_dot_24
+      rect:
+        serializedVersion: 2
+        x: 147
+        y: 309
+        width: 56
+        height: 50
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a91e5c6fb7a67b680800000000000000
+      internalID: -8739399471235472998
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Elephnt_dot_25
+      rect:
+        serializedVersion: 2
+        x: 318
+        y: 327
+        width: 62
+        height: 52
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 50a9e639ef958fab0800000000000000
+      internalID: -4974126838500648443
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: b1a488662502e1540ae2e4fb73336e11
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable:
+      Elephnt_dot_0: -2463985757173895112
+      Elephnt_dot_1: -1818527444840484449
+      Elephnt_dot_10: -6693517310752637066
+      Elephnt_dot_11: 7147416851080987956
+      Elephnt_dot_12: 836393240010089419
+      Elephnt_dot_13: 8200893694171926018
+      Elephnt_dot_14: 925250301227422757
+      Elephnt_dot_15: 6054925172511004229
+      Elephnt_dot_16: -6336652197800913715
+      Elephnt_dot_17: 4387483822738114446
+      Elephnt_dot_18: 1531463724270597454
+      Elephnt_dot_19: 6722836389531429458
+      Elephnt_dot_2: -4101083047303205797
+      Elephnt_dot_20: 8277875360582143000
+      Elephnt_dot_21: 3074014557185919897
+      Elephnt_dot_22: -1562134318842764098
+      Elephnt_dot_23: -2965945731486047653
+      Elephnt_dot_24: -8739399471235472998
+      Elephnt_dot_25: -4974126838500648443
+      Elephnt_dot_3: -3450312208643874501
+      Elephnt_dot_4: -3805908440434880928
+      Elephnt_dot_5: -4271009887002687775
+      Elephnt_dot_6: -3974274212418918807
+      Elephnt_dot_7: 8441987480427298983
+      Elephnt_dot_8: 1584064685432138661
+      Elephnt_dot_9: -2123849131930172721
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

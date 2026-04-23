@@ -1,0 +1,715 @@
+fileFormatVersion: 2
+guid: bbff0915f45d81d47a66dedb79eb410d
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 1697530821766971983
+    second: right wing__0
+  - first:
+      213: 1036895475670392556
+    second: right wing__1
+  - first:
+      213: -6234534225106887876
+    second: right wing__2
+  - first:
+      213: -3530778028968428140
+    second: right wing__3
+  - first:
+      213: 565500229569187911
+    second: right wing__4
+  - first:
+      213: 4994989120326267877
+    second: right wing__5
+  - first:
+      213: 3599592614960271278
+    second: right wing__6
+  - first:
+      213: 3423313383812083658
+    second: right wing__7
+  - first:
+      213: 7040577731298674899
+    second: right wing__8
+  - first:
+      213: -1590300484814296797
+    second: right wing__9
+  - first:
+      213: -5886702329222565823
+    second: right wing__10
+  - first:
+      213: -3144409367290533132
+    second: right wing__11
+  - first:
+      213: -4983384948570395253
+    second: right wing__12
+  - first:
+      213: 3757878843250986767
+    second: right wing__13
+  - first:
+      213: -1871546050001550420
+    second: right wing__14
+  - first:
+      213: 101134527830556131
+    second: right wing__15
+  - first:
+      213: -4106098926646771777
+    second: right wing__16
+  - first:
+      213: 4578360420389985700
+    second: right wing__17
+  - first:
+      213: -2808755691231574428
+    second: right wing__18
+  - first:
+      213: 5535844664112365006
+    second: right wing__19
+  - first:
+      213: 5355703906612705703
+    second: right wing__20
+  - first:
+      213: 7893424858946046639
+    second: right wing__21
+  - first:
+      213: 8533139675092458241
+    second: right wing__22
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 1
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Android
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: iPhone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: right wing__0
+      rect:
+        serializedVersion: 2
+        x: 70
+        y: 316
+        width: 15
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f4282bad947de8710800000000000000
+      internalID: 1697530821766971983
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: right wing__1
+      rect:
+        serializedVersion: 2
+        x: 89
+        y: 305
+        width: 16
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: cee1b8001fac36e00800000000000000
+      internalID: 1036895475670392556
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: right wing__2
+      rect:
+        serializedVersion: 2
+        x: 109
+        y: 291
+        width: 15
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c3b1d7c772c7a79a0800000000000000
+      internalID: -6234534225106887876
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: right wing__3
+      rect:
+        serializedVersion: 2
+        x: 129
+        y: 277
+        width: 15
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 49d359ae618200fc0800000000000000
+      internalID: -3530778028968428140
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: right wing__4
+      rect:
+        serializedVersion: 2
+        x: 143
+        y: 267
+        width: 14
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7409fdf667f09d700800000000000000
+      internalID: 565500229569187911
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: right wing__5
+      rect:
+        serializedVersion: 2
+        x: 142
+        y: 242
+        width: 14
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5e3fcfde324c15540800000000000000
+      internalID: 4994989120326267877
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: right wing__6
+      rect:
+        serializedVersion: 2
+        x: 140
+        y: 218
+        width: 15
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: eaf83de696254f130800000000000000
+      internalID: 3599592614960271278
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: right wing__7
+      rect:
+        serializedVersion: 2
+        x: 139
+        y: 194
+        width: 15
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: acfa5f4926d028f20800000000000000
+      internalID: 3423313383812083658
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: right wing__8
+      rect:
+        serializedVersion: 2
+        x: 138
+        y: 170
+        width: 15
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3d8459fd42825b160800000000000000
+      internalID: 7040577731298674899
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: right wing__9
+      rect:
+        serializedVersion: 2
+        x: 137
+        y: 146
+        width: 15
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3292384822e1ee9e0800000000000000
+      internalID: -1590300484814296797
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: right wing__10
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 121
+        width: 14
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1407930bb6b3e4ea0800000000000000
+      internalID: -5886702329222565823
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: right wing__11
+      rect:
+        serializedVersion: 2
+        x: 136
+        y: 122
+        width: 15
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4faac3a1750dc54d0800000000000000
+      internalID: -3144409367290533132
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: right wing__12
+      rect:
+        serializedVersion: 2
+        x: 16
+        y: 105
+        width: 15
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b8dee69dac577dab0800000000000000
+      internalID: -4983384948570395253
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: right wing__13
+      rect:
+        serializedVersion: 2
+        x: 135
+        y: 98
+        width: 15
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f0f4ee8d5eaa62430800000000000000
+      internalID: 3757878843250986767
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: right wing__14
+      rect:
+        serializedVersion: 2
+        x: 34
+        y: 89
+        width: 15
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ca34fdc88cee606e0800000000000000
+      internalID: -1871546050001550420
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: right wing__15
+      rect:
+        serializedVersion: 2
+        x: 134
+        y: 74
+        width: 15
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3edfdd5315d476100800000000000000
+      internalID: 101134527830556131
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: right wing__16
+      rect:
+        serializedVersion: 2
+        x: 52
+        y: 72
+        width: 15
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fbf3b9008c43407c0800000000000000
+      internalID: -4106098926646771777
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: right wing__17
+      rect:
+        serializedVersion: 2
+        x: 69
+        y: 56
+        width: 15
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4ad9d0f8b8a998f30800000000000000
+      internalID: 4578360420389985700
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: right wing__18
+      rect:
+        serializedVersion: 2
+        x: 133
+        y: 50
+        width: 15
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 466094b849b4509d0800000000000000
+      internalID: -2808755691231574428
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: right wing__19
+      rect:
+        serializedVersion: 2
+        x: 87
+        y: 39
+        width: 15
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ecdb820546543dc40800000000000000
+      internalID: 5535844664112365006
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: right wing__20
+      rect:
+        serializedVersion: 2
+        x: 132
+        y: 26
+        width: 15
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7a972dbc358435a40800000000000000
+      internalID: 5355703906612705703
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: right wing__21
+      rect:
+        serializedVersion: 2
+        x: 105
+        y: 23
+        width: 15
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: faa87ba86141b8d60800000000000000
+      internalID: 7893424858946046639
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: right wing__22
+      rect:
+        serializedVersion: 2
+        x: 122
+        y: 0
+        width: 24
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 10b9da0f25dcb6670800000000000000
+      internalID: 8533139675092458241
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    nameFileIdTable:
+      right wing__0: 1697530821766971983
+      right wing__1: 1036895475670392556
+      right wing__10: -5886702329222565823
+      right wing__11: -3144409367290533132
+      right wing__12: -4983384948570395253
+      right wing__13: 3757878843250986767
+      right wing__14: -1871546050001550420
+      right wing__15: 101134527830556131
+      right wing__16: -4106098926646771777
+      right wing__17: 4578360420389985700
+      right wing__18: -2808755691231574428
+      right wing__19: 5535844664112365006
+      right wing__2: -6234534225106887876
+      right wing__20: 5355703906612705703
+      right wing__21: 7893424858946046639
+      right wing__22: 8533139675092458241
+      right wing__3: -3530778028968428140
+      right wing__4: 565500229569187911
+      right wing__5: 4994989120326267877
+      right wing__6: 3599592614960271278
+      right wing__7: 3423313383812083658
+      right wing__8: 7040577731298674899
+      right wing__9: -1590300484814296797
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

@@ -1,0 +1,1228 @@
+fileFormatVersion: 2
+guid: 53144081eb55f9740ac4f8dfd645ae22
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 1727652815096920438
+    second: Pig_B_01_0
+  - first:
+      213: 3071299520430306796
+    second: Pig_B_01_1
+  - first:
+      213: 6526421139607786556
+    second: Pig_B_01_2
+  - first:
+      213: 4463109291511525307
+    second: Pig_B_01_3
+  - first:
+      213: -2560078127465888047
+    second: Pig_B_01_4
+  - first:
+      213: 4803460730170878166
+    second: Pig_B_01_5
+  - first:
+      213: -8048877925379924011
+    second: Pig_B_01_6
+  - first:
+      213: -408527896463442405
+    second: Pig_B_01_7
+  - first:
+      213: 7666570848891974993
+    second: Pig_B_01_8
+  - first:
+      213: -4197562312644214382
+    second: Pig_B_01_9
+  - first:
+      213: 3345602572962732357
+    second: Pig_B_01_10
+  - first:
+      213: -7159189293569256589
+    second: Pig_B_01_11
+  - first:
+      213: 3391131299034321767
+    second: Pig_B_01_12
+  - first:
+      213: -2831462666296368073
+    second: Pig_B_01_13
+  - first:
+      213: 2007630961351013960
+    second: Pig_B_01_14
+  - first:
+      213: 7873599000359032152
+    second: Pig_B_01_15
+  - first:
+      213: 1702437049715639965
+    second: Pig_B_01_16
+  - first:
+      213: -4589992614085819671
+    second: Pig_B_01_17
+  - first:
+      213: -592421182570011898
+    second: Pig_B_01_18
+  - first:
+      213: 7503370828521460461
+    second: Pig_B_01_19
+  - first:
+      213: 2538414332783545849
+    second: Pig_B_01_20
+  - first:
+      213: -6124716222402441417
+    second: Pig_B_01_21
+  - first:
+      213: -5449773404951442681
+    second: Pig_B_01_22
+  - first:
+      213: -5865628067106582362
+    second: Pig_B_01_23
+  - first:
+      213: -1074302455825712104
+    second: Pig_B_01_24
+  - first:
+      213: 110821130483947087
+    second: Pig_B_01_25
+  - first:
+      213: 7241538372558778758
+    second: Pig_B_01_26
+  - first:
+      213: 1264685997632188887
+    second: Pig_B_01_27
+  - first:
+      213: 8669111503273064067
+    second: Pig_B_01_28
+  - first:
+      213: 8395700264198878869
+    second: Pig_B_01_29
+  - first:
+      213: 6517098485382385059
+    second: Pig_B_01_30
+  - first:
+      213: -5276510663139424911
+    second: Pig_B_01_31
+  - first:
+      213: 49759473729130809
+    second: Pig_B_01_32
+  - first:
+      213: -3851096400701885253
+    second: Pig_B_01_33
+  - first:
+      213: -1735256629885977256
+    second: Pig_B_01_34
+  - first:
+      213: 4141483207603792456
+    second: Pig_B_01_35
+  - first:
+      213: 7246783488553506852
+    second: Pig_B_01_36
+  - first:
+      213: 1746251836088748584
+    second: Pig_B_01_37
+  - first:
+      213: -6667840992012391184
+    second: Pig_B_01_38
+  - first:
+      213: -5416592038939410573
+    second: Pig_B_01_39
+  - first:
+      213: 2122442069563015431
+    second: Pig_B_01_40
+  - first:
+      213: 5527547997132246397
+    second: Pig_B_01_41
+  - first:
+      213: 2798275612016510337
+    second: Pig_B_01_42
+  externalObjects: {}
+  serializedVersion: 12
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 0
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 1
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: iPhone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Android
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: 48
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 1
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Server
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: Pig_B_01_0
+      rect:
+        serializedVersion: 2
+        x: 419
+        y: 548
+        width: 38
+        height: 38
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6793e03f41bd9f710800000000000000
+      internalID: 1727652815096920438
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Pig_B_01_1
+      rect:
+        serializedVersion: 2
+        x: 102
+        y: 490
+        width: 38
+        height: 38
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ce5731234a27f9a20800000000000000
+      internalID: 3071299520430306796
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Pig_B_01_2
+      rect:
+        serializedVersion: 2
+        x: 154
+        y: 490
+        width: 38
+        height: 38
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c341ce0b271829a50800000000000000
+      internalID: 6526421139607786556
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Pig_B_01_3
+      rect:
+        serializedVersion: 2
+        x: 206
+        y: 490
+        width: 39
+        height: 38
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bbf2a4a014620fd30800000000000000
+      internalID: 4463109291511525307
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Pig_B_01_4
+      rect:
+        serializedVersion: 2
+        x: 257
+        y: 490
+        width: 38
+        height: 38
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1d60627c186c87cd0800000000000000
+      internalID: -2560078127465888047
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Pig_B_01_5
+      rect:
+        serializedVersion: 2
+        x: 307
+        y: 490
+        width: 38
+        height: 38
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6d8af52951259a240800000000000000
+      internalID: 4803460730170878166
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Pig_B_01_6
+      rect:
+        serializedVersion: 2
+        x: 354
+        y: 490
+        width: 39
+        height: 38
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5df1f31fb24ac4090800000000000000
+      internalID: -8048877925379924011
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Pig_B_01_7
+      rect:
+        serializedVersion: 2
+        x: 401
+        y: 490
+        width: 38
+        height: 38
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b1e757aea0e945af0800000000000000
+      internalID: -408527896463442405
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Pig_B_01_8
+      rect:
+        serializedVersion: 2
+        x: 448
+        y: 490
+        width: 38
+        height: 38
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 155329d5191256a60800000000000000
+      internalID: 7666570848891974993
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Pig_B_01_9
+      rect:
+        serializedVersion: 2
+        x: 495
+        y: 490
+        width: 39
+        height: 39
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2914648f0534fb5c0800000000000000
+      internalID: -4197562312644214382
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Pig_B_01_10
+      rect:
+        serializedVersion: 2
+        x: 542
+        y: 490
+        width: 39
+        height: 38
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 549931970d7fd6e20800000000000000
+      internalID: 3345602572962732357
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Pig_B_01_11
+      rect:
+        serializedVersion: 2
+        x: 590
+        y: 448
+        width: 53
+        height: 51
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 373560db44375ac90800000000000000
+      internalID: -7159189293569256589
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Pig_B_01_12
+      rect:
+        serializedVersion: 2
+        x: 95
+        y: 435
+        width: 38
+        height: 39
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 76356a113f7bf0f20800000000000000
+      internalID: 3391131299034321767
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Pig_B_01_13
+      rect:
+        serializedVersion: 2
+        x: 147
+        y: 435
+        width: 38
+        height: 39
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 734ef9ce4bf94b8d0800000000000000
+      internalID: -2831462666296368073
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Pig_B_01_14
+      rect:
+        serializedVersion: 2
+        x: 199
+        y: 435
+        width: 38
+        height: 39
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8463763f8b98cdb10800000000000000
+      internalID: 2007630961351013960
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Pig_B_01_15
+      rect:
+        serializedVersion: 2
+        x: 250
+        y: 435
+        width: 38
+        height: 39
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 85555402394a44d60800000000000000
+      internalID: 7873599000359032152
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Pig_B_01_16
+      rect:
+        serializedVersion: 2
+        x: 299
+        y: 435
+        width: 39
+        height: 39
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d96c3c01a7540a710800000000000000
+      internalID: 1702437049715639965
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Pig_B_01_17
+      rect:
+        serializedVersion: 2
+        x: 347
+        y: 436
+        width: 38
+        height: 38
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9e28fbb49021d40c0800000000000000
+      internalID: -4589992614085819671
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Pig_B_01_18
+      rect:
+        serializedVersion: 2
+        x: 394
+        y: 435
+        width: 38
+        height: 39
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6036f7fb21c47c7f0800000000000000
+      internalID: -592421182570011898
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Pig_B_01_19
+      rect:
+        serializedVersion: 2
+        x: 441
+        y: 436
+        width: 38
+        height: 38
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: de2dc049304512860800000000000000
+      internalID: 7503370828521460461
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Pig_B_01_20
+      rect:
+        serializedVersion: 2
+        x: 488
+        y: 436
+        width: 39
+        height: 38
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9fdc256f2624a3320800000000000000
+      internalID: 2538414332783545849
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Pig_B_01_21
+      rect:
+        serializedVersion: 2
+        x: 535
+        y: 436
+        width: 39
+        height: 38
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 73f41adbb03a00ba0800000000000000
+      internalID: -6124716222402441417
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Pig_B_01_22
+      rect:
+        serializedVersion: 2
+        x: 93
+        y: 378
+        width: 39
+        height: 38
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 70b8f7b56f38e54b0800000000000000
+      internalID: -5449773404951442681
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Pig_B_01_23
+      rect:
+        serializedVersion: 2
+        x: 145
+        y: 378
+        width: 39
+        height: 38
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6a01d83b95a199ea0800000000000000
+      internalID: -5865628067106582362
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Pig_B_01_24
+      rect:
+        serializedVersion: 2
+        x: 198
+        y: 378
+        width: 38
+        height: 38
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 81cbd2bbb9f4711f0800000000000000
+      internalID: -1074302455825712104
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Pig_B_01_25
+      rect:
+        serializedVersion: 2
+        x: 250
+        y: 378
+        width: 38
+        height: 38
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f465a142b37b98100800000000000000
+      internalID: 110821130483947087
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Pig_B_01_26
+      rect:
+        serializedVersion: 2
+        x: 299
+        y: 378
+        width: 39
+        height: 38
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 681f9b358cc1f7460800000000000000
+      internalID: 7241538372558778758
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Pig_B_01_27
+      rect:
+        serializedVersion: 2
+        x: 352
+        y: 378
+        width: 38
+        height: 38
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7d1f649d6311d8110800000000000000
+      internalID: 1264685997632188887
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Pig_B_01_28
+      rect:
+        serializedVersion: 2
+        x: 403
+        y: 378
+        width: 38
+        height: 38
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 386f7d63bfede4870800000000000000
+      internalID: 8669111503273064067
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Pig_B_01_29
+      rect:
+        serializedVersion: 2
+        x: 455
+        y: 378
+        width: 38
+        height: 38
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5963a3078e4838470800000000000000
+      internalID: 8395700264198878869
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Pig_B_01_30
+      rect:
+        serializedVersion: 2
+        x: 506
+        y: 378
+        width: 38
+        height: 38
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3ad047b1b82617a50800000000000000
+      internalID: 6517098485382385059
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Pig_B_01_31
+      rect:
+        serializedVersion: 2
+        x: 100
+        y: 317
+        width: 38
+        height: 38
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 175830e028116c6b0800000000000000
+      internalID: -5276510663139424911
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Pig_B_01_32
+      rect:
+        serializedVersion: 2
+        x: 160
+        y: 317
+        width: 38
+        height: 38
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 931d5db4af7c0b000800000000000000
+      internalID: 49759473729130809
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Pig_B_01_33
+      rect:
+        serializedVersion: 2
+        x: 216
+        y: 317
+        width: 38
+        height: 38
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bb4f0604a382e8ac0800000000000000
+      internalID: -3851096400701885253
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Pig_B_01_34
+      rect:
+        serializedVersion: 2
+        x: 314
+        y: 316
+        width: 38
+        height: 39
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 85d3185f9412be7e0800000000000000
+      internalID: -1735256629885977256
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Pig_B_01_35
+      rect:
+        serializedVersion: 2
+        x: 369
+        y: 316
+        width: 38
+        height: 39
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 84a2878e801897930800000000000000
+      internalID: 4141483207603792456
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Pig_B_01_36
+      rect:
+        serializedVersion: 2
+        x: 438
+        y: 316
+        width: 38
+        height: 38
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 428d56f003fb19460800000000000000
+      internalID: 7246783488553506852
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Pig_B_01_37
+      rect:
+        serializedVersion: 2
+        x: 103
+        y: 266
+        width: 38
+        height: 39
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 82a817afaceeb3810800000000000000
+      internalID: 1746251836088748584
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Pig_B_01_38
+      rect:
+        serializedVersion: 2
+        x: 153
+        y: 267
+        width: 39
+        height: 38
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0fc205c02f11773a0800000000000000
+      internalID: -6667840992012391184
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Pig_B_01_39
+      rect:
+        serializedVersion: 2
+        x: 207
+        y: 266
+        width: 38
+        height: 39
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 37fbec92d3664d4b0800000000000000
+      internalID: -5416592038939410573
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Pig_B_01_40
+      rect:
+        serializedVersion: 2
+        x: 320
+        y: 267
+        width: 38
+        height: 38
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 70106ac21dd647d10800000000000000
+      internalID: 2122442069563015431
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Pig_B_01_41
+      rect:
+        serializedVersion: 2
+        x: 368
+        y: 267
+        width: 38
+        height: 38
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d7d4dfffd9bc5bc40800000000000000
+      internalID: 5527547997132246397
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Pig_B_01_42
+      rect:
+        serializedVersion: 2
+        x: 452
+        y: 267
+        width: 38
+        height: 39
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 18502edd7d875d620800000000000000
+      internalID: 2798275612016510337
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    nameFileIdTable:
+      Pig_B_01_0: 1727652815096920438
+      Pig_B_01_1: 3071299520430306796
+      Pig_B_01_10: 3345602572962732357
+      Pig_B_01_11: -7159189293569256589
+      Pig_B_01_12: 3391131299034321767
+      Pig_B_01_13: -2831462666296368073
+      Pig_B_01_14: 2007630961351013960
+      Pig_B_01_15: 7873599000359032152
+      Pig_B_01_16: 1702437049715639965
+      Pig_B_01_17: -4589992614085819671
+      Pig_B_01_18: -592421182570011898
+      Pig_B_01_19: 7503370828521460461
+      Pig_B_01_2: 6526421139607786556
+      Pig_B_01_20: 2538414332783545849
+      Pig_B_01_21: -6124716222402441417
+      Pig_B_01_22: -5449773404951442681
+      Pig_B_01_23: -5865628067106582362
+      Pig_B_01_24: -1074302455825712104
+      Pig_B_01_25: 110821130483947087
+      Pig_B_01_26: 7241538372558778758
+      Pig_B_01_27: 1264685997632188887
+      Pig_B_01_28: 8669111503273064067
+      Pig_B_01_29: 8395700264198878869
+      Pig_B_01_3: 4463109291511525307
+      Pig_B_01_30: 6517098485382385059
+      Pig_B_01_31: -5276510663139424911
+      Pig_B_01_32: 49759473729130809
+      Pig_B_01_33: -3851096400701885253
+      Pig_B_01_34: -1735256629885977256
+      Pig_B_01_35: 4141483207603792456
+      Pig_B_01_36: 7246783488553506852
+      Pig_B_01_37: 1746251836088748584
+      Pig_B_01_38: -6667840992012391184
+      Pig_B_01_39: -5416592038939410573
+      Pig_B_01_4: -2560078127465888047
+      Pig_B_01_40: 2122442069563015431
+      Pig_B_01_41: 5527547997132246397
+      Pig_B_01_42: 2798275612016510337
+      Pig_B_01_5: 4803460730170878166
+      Pig_B_01_6: -8048877925379924011
+      Pig_B_01_7: -408527896463442405
+      Pig_B_01_8: 7666570848891974993
+      Pig_B_01_9: -4197562312644214382
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

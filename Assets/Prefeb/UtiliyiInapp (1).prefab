@@ -1,0 +1,122 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!1 &2126025573232029490
+GameObject:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  serializedVersion: 6
+  m_Component:
+  - component: {fileID: 434905981229212348}
+  - component: {fileID: 2129689845982891165}
+  m_Layer: 0
+  m_Name: UtiliyiInapp (1)
+  m_TagString: Untagged
+  m_Icon: {fileID: 0}
+  m_NavMeshLayer: 0
+  m_StaticEditorFlags: 0
+  m_IsActive: 1
+--- !u!4 &434905981229212348
+Transform:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 2126025573232029490}
+  serializedVersion: 2
+  m_LocalRotation: {x: -0, y: -0, z: -0, w: 1}
+  m_LocalPosition: {x: 0, y: 0, z: 0}
+  m_LocalScale: {x: 1, y: 1, z: 1}
+  m_ConstrainProportionsScale: 0
+  m_Children: []
+  m_Father: {fileID: 0}
+  m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
+--- !u!114 &2129689845982891165
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 2126025573232029490}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: ee4bd864a13d012448b7bba3ccb0c420, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  IsInitilized: 0
+  InAppIds:
+  - Id: monthly
+    productType: 2
+    purchaseType: 1
+    priceInDollars: $4.99
+    SceneName: 
+    PrefName: 
+    NumberOfCoins: 0
+    objectsNamesList: []
+  - Id: yearly
+    productType: 2
+    purchaseType: 1
+    priceInDollars: $14.99
+    SceneName: 
+    PrefName: 
+    NumberOfCoins: 0
+    objectsNamesList: []
+  - Id: lifeTime
+    productType: 1
+    purchaseType: 1
+    priceInDollars: $29.99
+    SceneName: 
+    PrefName: 
+    NumberOfCoins: 0
+    objectsNamesList: []
+  - Id: Shapes
+    productType: 1
+    purchaseType: 3
+    priceInDollars: $6.99
+    SceneName: ShapeSounds
+    PrefName: 
+    NumberOfCoins: 0
+    objectsNamesList: []
+  - Id: BodyParts
+    productType: 1
+    purchaseType: 3
+    priceInDollars: $6.99
+    SceneName: BodyPartsSounds
+    PrefName: 
+    NumberOfCoins: 0
+    objectsNamesList: []
+  - Id: Vegetables
+    productType: 1
+    purchaseType: 3
+    priceInDollars: $6.99
+    SceneName: Vegetables
+    PrefName: 
+    NumberOfCoins: 0
+    objectsNamesList: []
+  - Id: ObjCount
+    productType: 1
+    purchaseType: 3
+    priceInDollars: $6.99
+    SceneName: Objects
+    PrefName: 
+    NumberOfCoins: 0
+    objectsNamesList: []
+  - Id: Fruits
+    productType: 1
+    purchaseType: 3
+    priceInDollars: $6.99
+    SceneName: FruitSounds
+    PrefName: 
+    NumberOfCoins: 0
+    objectsNamesList: []
+  - Id: Piano
+    productType: 1
+    purchaseType: 3
+    priceInDollars: $4.99
+    SceneName: Piano
+    PrefName: 
+    NumberOfCoins: 0
+    objectsNamesList: []
+  inAppGameObject: {fileID: 2126025573232029490}
+  IAP: {fileID: 0}
