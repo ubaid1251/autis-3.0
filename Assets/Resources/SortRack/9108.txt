@@ -1,0 +1,142 @@
+{
+  "LevelNumber": 10,
+  "blocks": [
+
+    {
+      "xAxis": -1.575,
+      "yAxis": 2.78,
+      "tilesData": [
+        {
+          "positionIndex": 0,
+          "isFront": true,
+          "items": [
+            { "tileID": 1, "ItemID": "3" },
+            { "tileID": 2, "ItemID": "3" },
+            { "tileID": 3, "ItemID": "5" }
+          ]
+        }
+      ],
+      "sortingIndex": 100
+    },
+
+    {
+      "xAxis": 1.575,
+      "yAxis": 2.78,
+      "tilesData": [
+        {
+          "positionIndex": 0,
+          "isFront": true,
+          "items": [
+            { "tileID": 1, "ItemID": "9" },
+            { "tileID": 2, "ItemID": "9" },
+            { "tileID": 3, "ItemID": "6" }
+          ]
+        }
+      ],
+      "sortingIndex": 100
+    },
+
+    {
+      "xAxis": -0.8,
+      "yAxis": 1.68,
+      "tilesData": [
+        {
+          "positionIndex": 0,
+          "isFront": true,
+          "items": [
+            { "tileID": 1, "ItemID": "5" },
+            { "tileID": 2, "ItemID": "4" },
+            { "tileID": 3, "ItemID": "7" }
+          ]
+        }
+      ],
+      "sortingIndex": 95
+    },
+
+    {
+      "xAxis": 0.8,
+      "yAxis": 1.68,
+      "tilesData": [
+        {
+          "positionIndex": 0,
+          "isFront": true,
+          "items": [
+            { "tileID": 1, "ItemID": "12" },
+            { "tileID": 2, "ItemID": "7" },
+            { "tileID": 3, "ItemID": "1" }
+          ]
+        }
+      ],
+      "sortingIndex": 95
+    },
+
+    {
+      "xAxis": -0.8,
+      "yAxis": -0.52,
+      "tilesData": [
+        {
+          "positionIndex": 0,
+          "isFront": true,
+          "items": [
+            { "tileID": 1, "ItemID": "15" },
+            { "tileID": 2, "ItemID": "14" },
+            { "tileID": 3, "ItemID": "2" }
+          ]
+        }
+      ],
+      "sortingIndex": 80
+    },
+
+    {
+      "xAxis": 0.8,
+      "yAxis": -0.52,
+      "tilesData": [
+        {
+          "positionIndex": 0,
+          "isFront": true,
+          "items": [
+            { "tileID": 1, "ItemID": "18" },
+            { "tileID": 2, "ItemID": "14" },
+            { "tileID": 3, "ItemID": "7" }
+          ]
+        }
+      ],
+      "sortingIndex": 80
+    },
+
+    {
+      "xAxis": -1.575,
+      "yAxis": -1.63,
+      "tilesData": [
+        {
+          "positionIndex": 0,
+          "isFront": true,
+          "items": [
+            { "tileID": 1, "ItemID": "15" },
+            { "tileID": 2, "ItemID": "20" },
+            { "tileID": 3, "ItemID": "15" }
+          ]
+        }
+      ],
+      "sortingIndex": 75
+    },
+
+    {
+      "xAxis": 1.575,
+      "yAxis": -1.63,
+      "tilesData": [
+        {
+          "positionIndex": 0,
+          "isFront": true,
+          "items": [
+            { "tileID": 1, "ItemID": "9" },
+            { "tileID": 2, "ItemID": "12" },
+            { "tileID": 3, "ItemID": "16" }
+          ]
+        }
+      ],
+      "sortingIndex": 75
+    }
+
+  ]
+}

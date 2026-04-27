@@ -1,0 +1,104 @@
+{
+  "LevelNumber": 11,
+  "blocks": [
+    {
+      "xAxis": -1.5,
+      "yAxis": 2.530001,
+      "tilesData": [
+        {
+          "positionIndex": 0,
+          "isFront": true,
+          "items": [
+            { "tileID": 1, "ItemID": "3" },
+            { "tileID": 2, "ItemID": "3" },
+            { "tileID": 3, "ItemID": "5" }
+          ]
+        }
+      ],
+      "sortingIndex": 100
+    },
+    {
+      "xAxis": 1.59,
+      "yAxis": 2.530001,
+      "tilesData": [
+        {
+          "positionIndex": 0,
+          "isFront": true,
+          "items": [
+            { "tileID": 1, "ItemID": "9" },
+            { "tileID": 2, "ItemID": "9" },
+            { "tileID": 3, "ItemID": "6" }
+          ]
+        }
+      ],
+      "sortingIndex": 100
+    },
+
+    {
+      "xAxis": -0.8,
+      "yAxis": 1.4,
+      "tilesData": [
+        {
+          "positionIndex": 0,
+          "isFront": true,
+          "items": [
+            { "tileID": 1, "ItemID": "5" },
+            { "tileID": 2, "ItemID": "4" },
+            { "tileID": 3, "ItemID": "7" }
+          ]
+        }
+      ],
+      "sortingIndex": 90
+    },
+    {
+      "xAxis": 0.8,
+      "yAxis": 1.4,
+      "tilesData": [
+        {
+          "positionIndex": 0,
+          "isFront": true,
+          "items": [
+            { "tileID": 1, "ItemID": "12" },
+            { "tileID": 2, "ItemID": "7" },
+            { "tileID": 3, "ItemID": "1" }
+          ]
+        }
+      ],
+      "sortingIndex": 90
+    },
+    {
+      "xAxis": 0.01,
+      "yAxis": 0.29,
+      "tilesData": [
+        {
+          "positionIndex": 0,
+          "isFront": true,
+          "items": [
+            { "tileID": 1, "ItemID": "18" },
+            { "tileID": 2, "ItemID": "6" },
+            { "tileID": 3, "ItemID": "6" }
+          ]
+        }
+      ],
+      "sortingIndex": 80
+    },
+
+    {
+      "xAxis": 0.009999932,
+      "yAxis":-0.8180002,
+      "tilesData": [
+        {
+          "positionIndex": 0,
+          "isFront": true,
+          "items": [
+            { "tileID": 1, "ItemID": "15" },
+            { "tileID": 2, "ItemID": "14" },
+            { "tileID": 3, "ItemID": "2" }
+          ]
+        }
+      ],
+      "sortingIndex": 70
+    }
+
+  ]
+}

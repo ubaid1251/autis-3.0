@@ -130,6 +130,7 @@ namespace GoodsSort
             }
 
             this.LevelNumber = LevelNumber; ;
+            //PlayerPrefs.SetInt("RackSortLevelNumber", 9);
             PlayerPrefs.SetInt("RackSortLevelNumber", this.LevelNumber);
 
             StartCoroutine(LoadRoutine(json));
