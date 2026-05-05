@@ -1,5 +1,5 @@
 fileFormatVersion: 2
-guid: dfbc994b68213e5429c6562ee14da26b
+guid: fa022ea0ffd0f8b4a980ec857621f88d
 TextureImporter:
   internalIDToNameTable:
   - first:
@@ -51,7 +51,7 @@ TextureImporter:
   spriteMeshType: 1
   alignment: 0
   spritePivot: {x: 0.5, y: 0.5}
-  spritePixelsToUnits: 100
+  spritePixelsToUnits: 200
   spriteBorder: {x: 0, y: 0, z: 0, w: 0}
   spriteGenerateFallbackPhysicsShape: 1
   alphaUsage: 1
@@ -129,10 +129,10 @@ TextureImporter:
       name: 29_0
       rect:
         serializedVersion: 2
-        x: 8
-        y: 3
-        width: 82
-        height: 181
+        x: 0
+        y: 0
+        width: 98
+        height: 99
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}

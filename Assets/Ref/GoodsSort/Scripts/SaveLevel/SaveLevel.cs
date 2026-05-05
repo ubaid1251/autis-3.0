@@ -13,7 +13,7 @@ namespace GoodsSort
         public Transform blockParent;
         public GameObject blockPrefab;
         public GameObject TileSetPrefab;
-        public Vector3[] Position_Parent;
+        //public Vector3[] Position_Parent;
         public Vector3[] Scale_Parent;
         public Item[] items;
 
@@ -37,7 +37,7 @@ namespace GoodsSort
             print(LevelNumber);
             print(blockParent.localScale = Scale_Parent[LevelNumber]);
             blockParent.localScale = Scale_Parent[LevelNumber];
-            blockParent.position = Position_Parent[LevelNumber];
+            //blockParent.position = Position_Parent[LevelNumber];
             darkImage.gameObject.SetActive(true);
             SetLevelText();
             LoadLevel(LevelNumber);
@@ -130,7 +130,7 @@ namespace GoodsSort
             }
 
             this.LevelNumber = LevelNumber; ;
-            //PlayerPrefs.SetInt("RackSortLevelNumber", 9);
+            //PlayerPrefs.SetInt("RackSortLevelNumber", 10);
             PlayerPrefs.SetInt("RackSortLevelNumber", this.LevelNumber);
 
             StartCoroutine(LoadRoutine(json));
@@ -181,7 +181,7 @@ namespace GoodsSort
             GameManager.instance.blocks.Clear();
             yield return new WaitForSeconds(.5f);
             blockParent.localScale = Scale_Parent[LevelNumber];
-            blockParent.position = Position_Parent[LevelNumber];
+            //blockParent.position = Position_Parent[LevelNumber];
             // Load new blocks
             foreach (BlockData blockData in levelData.blocks)
             {
