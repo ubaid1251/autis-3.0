@@ -5,7 +5,7 @@ using TMPro;
 using Unity.VisualScripting;
 using UnityEngine;
 
-namespace GoodsSort
+namespace KidsItemsSort
 {
     public class TileSet : MonoBehaviour
     {

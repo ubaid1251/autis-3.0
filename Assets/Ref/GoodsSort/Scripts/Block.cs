@@ -3,7 +3,7 @@ using System.Collections;
 using System.Collections.Generic;
 using UnityEngine;
 
-namespace GoodsSort
+namespace KidsItemsSort
 {
     public class Block : MonoBehaviour
     {

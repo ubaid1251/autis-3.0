@@ -17,7 +17,7 @@
     {
       "xAxis": 1.52,
       "yAxis": 1.63,
-      "tilesData":[{"positionIndex":0,"isFront":true,"items":[{"tileID":1,"ItemID":"6"},{"tileID":2,"ItemID":"6"},{"tileID":3,"ItemID":"8"}]}],
+      "tilesData":[{"positionIndex":0,"isFront":true,"items":[{"tileID":1,"ItemID":"38"},{"tileID":2,"ItemID":"8"},{"tileID":3,"ItemID":"8"}]}],
       "sortingIndex":100
     },
 
@@ -30,7 +30,7 @@
     {
       "xAxis": 2.17,
       "yAxis": 0.513,
-      "tilesData":[{"positionIndex":0,"isFront":true,"items":[{"tileID":1,"ItemID":"28"},{"tileID":2,"ItemID":"22"},{"tileID":3,"ItemID":"6"}]}],
+      "tilesData":[{"positionIndex":0,"isFront":true,"items":[{"tileID":1,"ItemID":"28"},{"tileID":2,"ItemID":"22"},{"tileID":3,"ItemID":"38"}]}],
       "sortingIndex":90
     },
 
@@ -56,7 +56,7 @@
     {
       "xAxis": -0.09,
       "yAxis": -1.77,
-      "tilesData":[{"positionIndex":0,"isFront":true,"items":[{"tileID":1,"ItemID":"28"},{"tileID":2,"ItemID":"8"},{"tileID":3,"ItemID":"21"}]}],
+      "tilesData":[{"positionIndex":0,"isFront":true,"items":[{"tileID":1,"ItemID":"28"},{"tileID":2,"ItemID":"38"},{"tileID":3,"ItemID":"21"}]}],
       "sortingIndex":70
     },
     {

@@ -3,7 +3,7 @@ using System.Collections.Generic;
 using DG.Tweening;
 using UnityEngine;
 
-namespace GoodsSort
+namespace KidsItemsSort
 {
     public class Item : MonoBehaviour
     {

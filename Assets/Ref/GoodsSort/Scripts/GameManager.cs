@@ -6,7 +6,7 @@ using System.Linq;
 using UnityEngine;
 using UnityEngine.SceneManagement;
 
-namespace GoodsSort
+namespace KidsItemsSort
 {
     public class GameManager : MonoBehaviour
     {

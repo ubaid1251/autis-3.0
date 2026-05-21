@@ -2,7 +2,7 @@ using UnityEngine;
 using UnityEditor;
 using System.Collections.Generic;
 using System.IO;
-using GoodsSort;
+using KidsItemsSort;
 
 public class LevelGeneratorEditor : EditorWindow
 {

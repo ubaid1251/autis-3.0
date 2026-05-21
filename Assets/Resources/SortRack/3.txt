@@ -130,7 +130,7 @@
           "isFront": true,
           "items": [
             { "tileID": 1, "ItemID": "18" },
-            { "tileID": 2, "ItemID": "10" },
+            { "tileID": 2, "ItemID": "34" },
             { "tileID": 3, "ItemID": "18" }
           ]
         },
@@ -155,7 +155,7 @@
           "positionIndex": 0,
           "isFront": true,
           "items": [
-            { "tileID": 1, "ItemID": "10" },
+            { "tileID": 1, "ItemID": "34" },
             { "tileID": 2, "ItemID": "12" },
             { "tileID": 3, "ItemID": "5" }
           ]
@@ -174,7 +174,7 @@
           "items": [
             { "tileID": 1, "ItemID": "12" },
             { "tileID": 2, "ItemID": "" },
-            { "tileID": 3, "ItemID": "10" }
+            { "tileID": 3, "ItemID": "34" }
           ]
         }
       ],

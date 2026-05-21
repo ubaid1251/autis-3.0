@@ -2,7 +2,7 @@ using System.Collections;
 using System.Collections.Generic;
 using UnityEngine;
 
-namespace GoodsSort
+namespace KidsItemsSort
 {
     public class Tile : MonoBehaviour
     {
@@ -12,12 +12,16 @@ namespace GoodsSort
 
         public bool isFilled = false;
 
+        [HideInInspector]
         public ParticleSystem particle;
         [HideInInspector]public TileSet parentTileSet;
         private void Awake()
         {
             position = transform.position;
-            particle = GetComponentInChildren<ParticleSystem>();
+            if (particle != null)
+            {
+                particle = GetComponentInChildren<ParticleSystem>();
+            }
         }
 
         public void RemoveFadeLayer() {
@@ -47,7 +51,11 @@ namespace GoodsSort
         }
 
         public void PlayParticles() {
-            particle.Play();
+            if (particle != null)
+            {
+                particle.Play();
+            }
+            //particle.Play();
         }
     }
 }
