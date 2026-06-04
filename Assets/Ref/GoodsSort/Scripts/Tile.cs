@@ -18,10 +18,11 @@ namespace KidsItemsSort
         private void Awake()
         {
             position = transform.position;
-            if (particle != null)
-            {
-                particle = GetComponentInChildren<ParticleSystem>();
-            }
+            //if (particle != null)
+            //{
+            //    particle = GetComponentInChildren<ParticleSystem>();
+            //    //particle.gameObject.SetActive(false);
+            //}
         }
 
         public void RemoveFadeLayer() {
@@ -53,6 +54,7 @@ namespace KidsItemsSort
         public void PlayParticles() {
             if (particle != null)
             {
+                particle.gameObject.SetActive(true);
                 particle.Play();
             }
             //particle.Play();

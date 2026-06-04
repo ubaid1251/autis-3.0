@@ -18,6 +18,8 @@ namespace KidsItemsSort
 
         private void Start()
         {
+            GameManager.instance.allItems.Add(this);
+            GameManager.totalItems++;
             OrignalSortingIndex = visuals.sortingOrder;
 
             OrignalPosition = transform.localPosition;
@@ -72,12 +74,6 @@ namespace KidsItemsSort
                 transform.position = parentTile.transform.position;
                 PlaceAnimation();
                 StartCoroutine(PlaceRoutine(previousTile.GetParentTileSet().GetParentBlock()));
-                //DOVirtual.DelayedCall(0.25f, () =>
-                //{
-                //    visuals.sortingOrder = OrignalSortingIndex;
-                //    parentTile.GetParentTileSet().OnItemPlaced();
-                //    previousTile.GetParentTileSet().GetParentBlock().BringForwardTileSet();
-                //});
             }
             else {
 
@@ -90,7 +86,7 @@ namespace KidsItemsSort
 
         public IEnumerator PlaceRoutine(Block PrevBlock) {
             yield return new WaitForSeconds(.25f);
-            visuals.sortingOrder = OrignalSortingIndex;
+            //visuals.sortingOrder = OrignalSortingIndex;
             parentTile.GetParentTileSet().OnItemPlaced();
             PrevBlock.BringForwardTileSet();
             parentTile.GetParentTileSet().GetParentBlock().BringForwardTileSet();
@@ -120,6 +116,7 @@ namespace KidsItemsSort
         {
             //float randRotate = Random.Range(-7f, 7);
             //transform.DORotate(new Vector3(0, 0, randRotate), .1f);
+            visuals.sortingOrder = OrignalSortingIndex;
             transform.DOScale(new Vector2(1f, 1f), .2f);
         }
 
@@ -209,6 +206,35 @@ namespace KidsItemsSort
             }
 
             return closest;
+        }
+        public bool CanMoveToAnyBlock()
+        {
+            foreach (Block block in collidersInRange)
+            {
+                if (block == null)
+                    continue;
+
+                Tile tile = block.frontTiles.GetAvaiableTile(transform);
+
+                if (tile != null && tile != parentTile)
+                {
+                    return true;
+                }
+            }
+
+            return false;
+        }
+
+        public void ShowHintFade()
+        {
+            visuals.DOKill();
+
+            Sequence seq = DOTween.Sequence();
+
+            seq.Append(visuals.DOColor(Color.black, 0.2f));
+            seq.Append(visuals.DOColor(Color.white, 0.2f));
+
+            seq.SetLoops(2);
         }
     }
 }

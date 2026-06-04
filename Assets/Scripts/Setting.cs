@@ -1,13 +1,16 @@
 using System.Collections;
 using System.Collections.Generic;
 using UnityEngine;
-
+using UnityEngine.UI;
+using DG.Tweening;
 public class Setting : MonoBehaviour
 {
     // Start is called before the first frame update
     public GameObject[] musicBtnSprite;
     public GameObject[] soundBtnSprite,Vibrate;
     public static Setting ins;
+    public RectTransform panel;
+    CanvasGroup cg;
     private void Awake()
     {
         //if (ins == null)
@@ -19,6 +22,8 @@ public class Setting : MonoBehaviour
         //    Destroy(gameObject);
         //}
         //DontDestroyOnLoad(gameObject);
+        cg = panel.GetComponent<CanvasGroup>();
+
     }
     void Start()
     { 
@@ -70,12 +75,30 @@ public class Setting : MonoBehaviour
     public void PP()
     {
         SoundManager.instance.PlayEffect_Instance(4);
-        Application.OpenURL("https://pages.flycricket.io/ib-studios/privacy.html");
+        Application.OpenURL("https://muhammadubaidprivacy.blogspot.com/2025/06/privacy-policy.html");
     }
     public void Term()
     {
         SoundManager.instance.PlayEffect_Instance(4);
-        Application.OpenURL("https://pages.flycricket.io/ib-studios/terms.html");
+        Application.OpenURL("https://muhammadubaidprivacy.blogspot.com/2025/06/terms-of-use.html");
+    }
+    public void ShowPanel()
+    {
+        SoundManager.instance.PlayEffect_Instance(11);
+        panel.transform.parent.gameObject.SetActive(true);
+        panel.DOScale(1, .25f);
+        cg.DOFade(1, .25f);
+    }
+    public void Cross()
+    {
+        SoundManager.instance.PlayEffect_Instance(9);
+
+        panel.DOScale(.5f, .25f);
+        cg.DOFade(0, .25f).OnComplete(() =>
+        {
+            //isUiActive = false;
+            panel.transform.parent.gameObject.SetActive(false);
+        });
     }
     void Update()
     {

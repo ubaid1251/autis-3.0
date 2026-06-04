@@ -1,87 +1,220 @@
-using Main;
+using endSort;
 using System;
 using System.Collections;
 using System.Collections.Generic;
 using System.Linq;
 using UnityEngine;
+using UnityEngine.UI;
 using UnityEngine.SceneManagement;
-
+using TMPro;
 namespace KidsItemsSort
 {
     public class GameManager : MonoBehaviour
     {
         public static bool GameTouch = true;
-        public static int InHandSortingIndex = 1000,frontSortingIndex = 980;
+        public static int InHandSortingIndex = 3000,frontSortingIndex = 980;
         Item currentItem;
-
         public static GameManager instance;
-
         public List<Block> blocks;
-
         public AudioSource dropAudio, tapAudio, matchAudio;
-
+        public LevelGenerator generator;
+        public int maxHints = 3;
+        private int usedHints = 0;
+        public TMP_Text HintNumText;
+        //public Slider progressSlider;
+        public Image progressFillImage;
+        public TMP_Text progressText;
+        public static int totalItems;
+        int completedItems;
+        int coin = 0;
+        public GameObject outOfHintPopup, CoinAddPopUp;
+        public bool IsUi=false;
         private void Awake()
         {
             instance = this;
+            IsUi = false;
         }
-        public LevelGenerator generator;
+        public List<Item> allItems;
+        public void UpdateProgress()
+        {
+            //completedItems++;
 
-        //void Start()
+
+            ////completedItems += 3;
+
+            //float percent = (completedItems / (float)totalItems) * 100f;
+
+            ////progressText.text =completedItems + " / " + totalItems +" ( " + Mathf.RoundToInt(percent) + "%)";
+            //progressText.text = completedItems + " / " + totalItems;
+
+            completedItems++;
+
+            float percent = completedItems / (float)totalItems;
+
+            progressText.text = completedItems + " / " + totalItems;
+
+            // Fill amount works from 0 to 1
+            progressFillImage.fillAmount = percent;
+        }
+        private int currentHintIndex = 0;
+        public void ShowHint()
+        {
+            SoundManager.instance.PlayEffect_Instance(7);
+
+            if (usedHints >= maxHints)
+            {
+                Ui_On();
+                outOfHintPopup.GetComponent<ShowAndClosePanel>().ShowPanel();
+                Debug.Log("No Hints Left");
+                return;
+            }
+
+            usedHints++;
+            UpdateHint_Text();
+
+            Dictionary<string, List<Item>> groupedItems =
+                new Dictionary<string, List<Item>>();
+
+            foreach (Item item in allItems)
+            {
+                if (item == null)
+                    continue;
+
+                if (!groupedItems.ContainsKey(item.id))
+                {
+                    groupedItems[item.id] = new List<Item>();
+                }
+
+                groupedItems[item.id].Add(item);
+            }
+
+            List<List<Item>> validGroups = new List<List<Item>>();
+
+            foreach (var pair in groupedItems)
+            {
+                if (pair.Value.Count >= 3)
+                {
+                    validGroups.Add(pair.Value);
+                }
+            }
+
+            if (validGroups.Count == 0)
+                return;
+
+            if (currentHintIndex >= validGroups.Count)
+            {
+                currentHintIndex = 0;
+            }
+
+            List<Item> selectedGroup = validGroups[currentHintIndex];
+
+            foreach (Item item in selectedGroup)
+            {
+                item.ShowHintFade();
+            }
+
+            currentHintIndex++;  
+        }
+        public void UpdateHint_Text()
+        {
+            HintNumText.text = (maxHints - usedHints).ToString();
+        }
+        public void BuyExtraHint()
+        {
+            bool spent = CoinUI.instance.SpendCoins(100);
+
+            if (!spent)
+            {
+                Debug.Log("Not Enough Coins");
+                outOfHintPopup.GetComponent<ShowAndClosePanel>().Cross();
+                StartCoroutine(ShowCoinPopupDelay());
+                return;
+            }
+
+            usedHints--;
+            UpdateHint_Text();
+            outOfHintPopup.GetComponent<ShowAndClosePanel>().Cross();
+        }
+        IEnumerator ShowCoinPopupDelay()
+        {
+            yield return new WaitForSeconds(0.2f); // delay
+
+            CoinAddPopUp.GetComponent<ShowAndClosePanel>().ShowPanel();
+        }
+        public void AddCoin(int amount)
+        {
+            coin += amount;
+            PlayerPrefs.SetInt("Coin", coin);
+            PlayerPrefs.Save();
+
+            // Update CoinUI when coin changes
+            //UpdateCoinUI();
+        }
+        //private void UpdateCoinUI()
         //{
-        //    string json = generator.GenerateLevelJSON(2);
-        //    Debug.Log(json);
+        //    //CoinUI.UpdateCoinValueText();
         //}
+        public int GetCoin()
+        {
+            return coin;
+        }
         private void Start()
         {
             Application.targetFrameRate = 120;
 
             foreach (Transform t in transform)
             {
-
                 Block b = t.GetComponent<Block>();
 
                 if (b != null)
                 {
-
                     blocks.Add(b);
                 }
-
             }
-
+            //progressFillImage.fillAmount = 0;
         }
 
-        public List<Block> GetBlocks() {
+        public List<Block> GetBlocks() 
+        {
             blocks = new List<Block>();
             foreach (Transform t in transform)
             {
-
                 Block b = t.GetComponent<Block>();
-
                 if (b != null)
                 {
-
                     blocks.Add(b);
                 }
-
             }
             return blocks;
         }
 
-        public void IsCompleted() {
-
-            foreach (Block b in blocks) {
-
-                if (!b.frontTiles.IsEmpty()) {
+        public void IsCompleted()
+        {
+            foreach (Block b in blocks)
+            {
+                if (!b.frontTiles.IsEmpty())
+                {
                     return;
                 }
             }
-            CompletionPanel.instance.OpenCompletionScreen();
-            Debug.Log("Tadaaaa Completed");
-        
+            StartCoroutine(CompletionPanel.instance.OpenCompletionScreen());
+            //CompletionPanel.instance.OpenCompletionScreen();
+            Debug.Log("Level Complete");         
         }
-
+        public void Reset_Slider_Hint()
+        {
+            progressText.text = 0 + " / " + totalItems + "(0%)";
+            totalItems = 0;
+            completedItems = 0;
+            progressFillImage.fillAmount = 0;
+            usedHints = 0;
+            HintNumText.text = maxHints.ToString();
+        }
         private void Update()
         {
+            if (IsUi)
+               return;
+            
             if (Input.GetMouseButtonDown(0))
             {
                 DetectObject();
@@ -92,7 +225,6 @@ namespace KidsItemsSort
             }
             if (Input.GetMouseButton(0))
             {
-
                 if (currentItem != null)
                 {
                     currentItem.MouseDrag();
@@ -143,11 +275,23 @@ namespace KidsItemsSort
                 }
             }
         }
-
-
         public void Home()
         {
+            SoundManager.instance.PlayEffect_Instance(7);
+
             SceneManager.LoadScene("Main");
+        }
+        public void Ui_On()
+        {
+            IsUi = true;
+        }
+        public void Ui_Off()
+        {
+            IsUi = false;
+        }
+        public void testtt()
+        {
+            //CompletionPanel.instance.OpenCompletionScreen();
         }
     }
 }

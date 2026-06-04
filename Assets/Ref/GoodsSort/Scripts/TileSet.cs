@@ -42,8 +42,6 @@ namespace KidsItemsSort
             SetSoringLayerByPositionIndex(positionIndex);
         }
 
-
-
         public Block GetParentBlock() { 
         
             if(ParentBlock==null)
@@ -112,21 +110,13 @@ namespace KidsItemsSort
             {
                 GameManager.instance.matchAudio.Play();
                 Debug.Log("MATCH...");
+                GameManager.instance.UpdateProgress();
                 RemoveEmpty();
             }
             
             GameManager.instance.IsCompleted();
 
         }
-
-        //public void BringForwardTileSet() {
-        //    if (GetItemCount() == 0)
-        //    {
-        //        Debug.Log("Bring Forward 1");
-        //        ParentBlock.BringForwardTileSet();
-        //    }
-        //}
-
         public int GetItemCount()
         {
             int i = 0;

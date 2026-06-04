@@ -1,5 +1,5 @@
 using DG.Tweening;
-using Main;
+using endSort;
 using System;
 using System.Collections;
 using System.Collections.Generic;
@@ -13,7 +13,6 @@ namespace KidsItemsSort
         public Transform blockParent;
         public GameObject blockPrefab;
         public GameObject TileSetPrefab;
-        //public Vector3[] Position_Parent;
         public Vector3[] Scale_Parent;
         public Item[] items;
 
@@ -37,7 +36,6 @@ namespace KidsItemsSort
             print(LevelNumber);
             print(blockParent.localScale = Scale_Parent[LevelNumber]);
             blockParent.localScale = Scale_Parent[LevelNumber];
-            //blockParent.position = Position_Parent[LevelNumber];
             darkImage.gameObject.SetActive(true);
             SetLevelText();
             LoadLevel(LevelNumber);
@@ -166,9 +164,11 @@ namespace KidsItemsSort
         IEnumerator LoadRoutine(string json)
         {
             darkImage.gameObject.SetActive(true);
+            
             darkImage.DOFade(0, 0);
             darkImage.DOFade(1, .5f);
             yield return new WaitForSeconds(.5f);
+            GameManager.instance.Reset_Slider_Hint();
             SetLevelText();
             LevelData levelData = JsonUtilityManager.FromJson<LevelData>(json);
 
@@ -261,7 +261,13 @@ namespace KidsItemsSort
 
                 }
             }
-            darkImage.DOFade(0, .5f).OnComplete(() => {
+            GameManager.totalItems = GameManager.totalItems / 3;
+
+            //GameManager.instance.progressSlider.maxValue = GameManager.totalItems;
+            //GameManager.instance.progressText.text = 0 + " / " + GameManager.totalItems + " ( 0%)";
+            GameManager.instance.progressText.text = 0 + " / " + GameManager.totalItems;
+            darkImage.DOFade(0, .5f).OnComplete(() => 
+            {
                 darkImage.gameObject.SetActive(false);
             });
             Debug.Log("Loaded level: " + LevelNumber);
